@@ -212,6 +212,14 @@ db.restaurants.find(
 ```
 
 Přidání nového pole `top_score: 1` ke všem hodnocením, které jsou vyšší než 90.
+> Poznámka redaktora:
+> Ta první část, tj. `{"grades.score": {$gt: 90}}`
+> slouží k filtrování dokumentů, takže to vybere všechny dokumenty, které mají alespoň 1 hodnocení větší než 90.
+>
+>Naopak ten `arrayFilter` už filtruje přímo položky v poli `grades` **toho dokumentu**, takže to pak ten `$set` dá akorát těm položkám v poli `grades`, kde je hodnocení větší než 90.
+>
+>*TLDR: První filtruje dokumenty, arrayFilter filtruje položky už v tom vyfiltrovaném dokumentu.*
+
 ```js
 db.restaurants.updateMany(
     {
