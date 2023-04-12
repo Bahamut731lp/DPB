@@ -24,6 +24,7 @@ sys.stdout = open('./output.log', 'w', encoding="utf-8")
 client = MongoClient()
 db = client.get_database("cv04")
 
+
 def print_delimiter(exercise_index: int):
     """
     Funkce pro vytisknutí oddělovače úhlohy
@@ -31,13 +32,11 @@ def print_delimiter(exercise_index: int):
     print('\n', '#' * 10, 'Úloha', exercise_index, '#' * 10, '\n')
 
 
-
 # 1. Vypsání všech restaurací
 print_delimiter(1)
 all_restaurants = db.restaurants.find().limit(10)
 for restaurant in all_restaurants:
     print(restaurant)
-
 
 
 # 2. Vypsání všech restaurací - pouze názvů, abecedně seřazených
@@ -58,19 +57,16 @@ for restaurant in all_restaurants_names.clone().limit(10):
     print(restaurant["name"])
 
 
-
 # 3. Vypsání pouze 5 záznamů z předchozího dotazu
 print_delimiter(3)
 for restaurant in all_restaurants_names.clone().limit(5):
     print(restaurant["name"])
 
 
-
 # 4. Zobrazte dalších 10 záznamů
 print_delimiter(4)
 for restaurant in all_restaurants_names.skip(10).limit(10).sort("name", ASCENDING):
     print(restaurant["name"])
-
 
 
 # 5. #Vypsání restaurací ve čtvrti Bronx (čtvrť = borough)
@@ -93,7 +89,6 @@ for restaurant in bronx_restaurants:
     print(restaurant)
 
 
-
 # 6. Vypsání restaurací, jejichž název začíná na písmeno M
 print_delimiter(6)
 regx = re.compile("^m", re.IGNORECASE)
@@ -105,7 +100,6 @@ restaurants_with_m = (
 )
 for restaurant in restaurants_with_m:
     print(restaurant["name"])
-
 
 
 # 7. Vypsání restaurací, které mají skóre větší než 80
@@ -129,26 +123,22 @@ for restaurant in greater_than_80:
     print(restaurant)
 
 
-
 # 8. Vypsání restaurací, které mají skóre mezi 80 a 90
 print_delimiter(8)
+american_regx = re.compile("american", re.IGNORECASE)
 restaurants_in_range = (
     db
     .restaurants
     .find(
         {
-            "$and": [
-                {
-                    "grades.score": {
-                        "$gt": 80
-                    }
-                },
-                {
-                    "grades.score": {
+            "grades": {
+                "$elemMatch": {
+                    "score": {
+                        "$gt": 80,
                         "$lt": 90
                     }
                 }
-            ]
+            }
         },
         {
             "name": 1,
@@ -159,7 +149,6 @@ restaurants_in_range = (
 )
 for restaurant in restaurants_in_range:
     print(restaurant["name"])
-
 
 
 # Bonusové úlohy:
@@ -174,29 +163,22 @@ restaurants_in_range_without_american = (
     .restaurants
     .find(
         {
-            "$and": [
-                {
-                    "cuisine": {
-                        "$not": american_regx
-                    }
-                },
-                {
-                    "grades.score": {
-                        "$gt": 80
-                    }
-                },
-                {
-                    "grades.score": {
+            "grades": {
+                "$elemMatch": {
+                    "score": {
+                        "$gt": 80,
                         "$lt": 90
                     }
                 }
-            ]
+            },
+            "cuisine": {
+                "$not": american_regx
+            }
         })
     .limit(10)
 )
 for restaurant in restaurants_in_range_without_american:
     print(f'{restaurant["name"]} - {restaurant["cuisine"]}')
-
 
 
 # 10. Vypsání všech restaurací, které mají alespoň osm hodnocení
@@ -215,7 +197,6 @@ more_than_eight_reviews = (
 )
 for restaurant in more_than_eight_reviews:
     print(f'{restaurant["name"]} - {len(restaurant["grades"])}')
-
 
 
 # 11. Vypsání všech restaurací, které mají alespoň jedno hodnocení z roku 2014
@@ -237,11 +218,11 @@ for restaurant in old_reviews:
     years = list(map(lambda r: r["date"].year, restaurant["grades"]))
     print(f'{restaurant["name"]} - {years}')
 
-#V této části budete opět vytvářet vlastní restauraci.
+# V této části budete opět vytvářet vlastní restauraci.
 #
-#Řešení:
-#Vytvořte si vaši restauraci pomocí slovníku a poté ji vložte do DB.
-#restaurant = {...}
+# Řešení:
+# Vytvořte si vaši restauraci pomocí slovníku a poté ji vložte do DB.
+# restaurant = {...}
 
 # 12. Uložte novou restauraci (stačí vyplnit název a adresu)
 print_delimiter(12)
@@ -267,7 +248,6 @@ insert_result = (
 print(insert_result.acknowledged, insert_result.inserted_id)
 
 
-
 # 13. Vypište svoji restauraci
 print_delimiter(13)
 my_restaurant_from_db = (
@@ -282,7 +262,6 @@ my_restaurant_from_db = (
 )
 for restaurant in my_restaurant_from_db:
     print(f'{restaurant["name"]}')
-
 
 
 # 14. Aktualizujte svoji restauraci - změňte libovolně název
