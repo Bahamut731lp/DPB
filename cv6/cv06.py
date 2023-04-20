@@ -121,9 +121,9 @@ top_5_cuisine = (
         { "$addFields": { "grades_count": { "$size": "$grades" }}},
         { "$match": { "grades_count": { "$gt": 3 }}},
         { "$unwind": "$grades" },
-        { "$group": { "_id": {"name": "$name", "grade": "$grades.grade"}, "cuisine": {"$first": "$cuisine"}, "score": {"$avg": "$grades.score"}}},
+        { "$group": { "_id": {"name": "$name", "grade": "$grades.grade"}, "grades_count": {"$first": "$grades_count"}, "cuisine": {"$first": "$cuisine"}, "score": {"$avg": "$grades.score"}}},
         { "$sort": { "score": -1 }},
-        { "$group": { "_id": "$cuisine", "restaurant": { "$first":  "$_id.name"}}}
+        { "$group": { "_id": "$cuisine", "restaurant": { "$first":  "$_id.name"}, "grades_count": {"$first": "$grades_count"}}}
     ])
 )
 for grading in top_5_cuisine:
@@ -144,7 +144,8 @@ mutliword_name = (
         { "$match": { "reviews": True }},
         { "$addFields": { "length": { "$size": { "$split": ["$_id", " "] }}}},
         { "$match": { "length": { "$gt": 1 }}},
-        { "$project": { "_id": 1 }}
+        { "$project": { "_id": 1 }},
+        { "$limit": 10 }
     ])
 )
 for grading in mutliword_name:
