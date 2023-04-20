@@ -142,7 +142,7 @@ mutliword_name = (
         { "$project": { "_id": 1, "reviews": { "$map": { "input": "$reviews", "as": "score", "in": { "$gt": ["$$score", 10]}}}}},
         { "$project": { "_id": 1, "reviews": { "$allElementsTrue": ["$reviews"]}}},
         { "$match": { "reviews": True }},
-        { "$addFields": { "length": { "$size": { "$split": ["$_id", " "] } } } },
+        { "$addFields": { "length": { "$size": { "$split": ["$_id", " "] }}}},
         { "$match": { "length": { "$gt": 1 }}},
         { "$project": { "_id": 1 }}
     ])
