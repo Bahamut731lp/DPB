@@ -6,7 +6,7 @@ PUT /person
 
 Přidejte osobu s vaším jménem
 
-```
+```http
 POST /person/_doc
 {
   "name" : "Kevin Daněk"
@@ -14,7 +14,7 @@ POST /person/_doc
 ```
 
 Vypište vaší osobu
-```
+```http
 GET /person/_doc/OmdknocBoVt5oY6zBRIG
 GET /person/_search
 {
@@ -27,7 +27,7 @@ GET /person/_search
 ```
 
 Přejmenujte vaši osobu
-```
+```http
 POST /person/_doc/OmdknocBoVt5oY6zBRIG
 {
   "name" : "Devin Kaněk"
@@ -35,7 +35,7 @@ POST /person/_doc/OmdknocBoVt5oY6zBRIG
 ```
 
 Vypište všechny dokumenty v indexu
-```
+```http
 GET /person/_search
 {
     "query": {
@@ -45,11 +45,11 @@ GET /person/_search
 ```
 
 Smažte vybranou osobu
-```
+```http
 DELETE /person/_doc/OmdknocBoVt5oY6zBRIG
 ```
 
 Smažte index
-```
+```http
 DELETE /person
 ```
