@@ -15,7 +15,8 @@ es = Elasticsearch([{'host': 'localhost', 'port': 9200, "scheme": "https"}],
                    basic_auth=('elastic', '123456789'), verify_certs=False)
 
 
-res = es.indices.delete(index="orders-new")
+if es.indices.exists(index="orders-new"):
+    es.indices.delete(index="orders-new")
 
 print_delimiter("Mapování")
 mapping = {
@@ -104,8 +105,10 @@ print(tabulate([
 ], tablefmt="rounded_outline"))
 
 
-# Zjistěte maximální, minimální a průměrnoý počet prodaných produktů (s použitím stats)
+
 print_delimiter(2)
+print("Zjistěte maximální, minimální a průměrnoý počet prodaných produktů (s použitím stats)")
+
 aggregation = {
     "sold_stats": {
         "stats": {
@@ -121,19 +124,35 @@ print(tabulate([
 ], tablefmt="rounded_outline"))
 
 
-# Pomocí dalšího dotaz zjistěte, který produkt se prodává nejvíce
+
 print_delimiter("2a")
+print("Pomocí dalšího dotazu zjistěte, který produkt se prodává nejvíce")
+
 query = {
     "match": {
         "sold": res["aggregations"]["sold_stats"]["max"]
     }
 }
 max_sold_product = es.search(index="products", query=query)
-print(json.dumps(max_sold_product["hits"]["hits"], indent=4))
+table_rows = []
+for row in max_sold_product["hits"]["hits"]:
+    table_rows.append([
+        row["_source"]["name"], row["_source"]["sold"]
+    ])
+
+print(
+    tabulate(table_rows,
+             tablefmt="rounded_outline",
+             headers=["Produkt", "Prodáno"],
+             numalign="decimal",
+             floatfmt=".2f"
+             )
+)
 
 
-# Pro každý tag zjistěte, v kolika dokumentech je obsažen
+
 print_delimiter(3)
+print("Pro každý tag zjistěte, v kolika dokumentech je obsažen")
 
 aggregation = {
     "total_tags": {
@@ -148,7 +167,12 @@ aggregation = {
 }
 
 res = es.search(index="products", aggregations=aggregation)
-print(res["aggregations"]["total_tags"])
+table_rows = []
+
+for row in res["aggregations"]["total_tags"]["buckets"]:
+    table_rows.append([row.get("key"), row.get("doc_count")])
+
+print(tabulate(table_rows, tablefmt="rounded_outline"))
 
 # Zjistěte cenové statistiky pro jednotlivé tagy
 print_delimiter(4)
@@ -172,7 +196,25 @@ aggregation = {
 }
 
 res = es.search(index="products", aggregations=aggregation)
-print(res["aggregations"]["total_tags"])
+table_rows = []
+
+for row in res["aggregations"]["total_tags"]["buckets"]:
+    table_rows.append([
+        row.get("key"),
+        row.get("doc_count"),
+        row["tag_prices"].get("min"),
+        row["tag_prices"].get("avg"),
+        row["tag_prices"].get("max")
+    ])
+
+print(
+    tabulate(table_rows,
+             tablefmt="rounded_outline",
+             headers=["Bucket", "Počet", "Min", "Avg", "Max"],
+             numalign="decimal",
+             floatfmt=".2f"
+             )
+)
 
 
 print_delimiter("Bonus 1")
@@ -197,7 +239,26 @@ aggregation = {
 }
 
 res = es.search(index="products", aggregations=aggregation)
-print(res["aggregations"]["total_tags"])
+table_rows = []
+
+for row in res["aggregations"]["total_tags"]["buckets"]:
+    table_rows.append([
+        row.get("key"),
+        row.get("doc_count"),
+        row["tag_prices"].get("min"),
+        row["tag_prices"].get("avg"),
+        row["tag_prices"].get("max")
+    ])
+
+print(
+    tabulate(table_rows,
+             tablefmt="rounded_outline",
+             headers=["Bucket", "Počet", "Min", "Avg", "Max"],
+             numalign="decimal",
+             floatfmt=".2f"
+             )
+)
+
 
 
 print_delimiter("Bonus 2")
@@ -221,7 +282,25 @@ aggregation = {
 }
 
 res = es.search(index="orders", aggregations=aggregation)
-print(res["aggregations"]["status_buckets"])
+table_rows = []
+for row in res["aggregations"]["status_buckets"]["buckets"]:
+    table_rows.append([
+        row.get("key"),
+        row.get("doc_count"),
+        row["prices"].get("min"),
+        row["prices"].get("avg"),
+        row["prices"].get("max")
+    ])
+
+print(
+    tabulate(table_rows,
+             tablefmt="rounded_outline",
+             headers=["Bucket", "Počet", "Min", "Avg", "Max"],
+             numalign="decimal",
+             floatfmt=".2f"
+             )
+)
+
 
 
 print_delimiter("Bonus 3")
@@ -267,4 +346,21 @@ aggregation = {
 }
 
 res = es.search(index="orders", aggregations=aggregation)
-print(res["aggregations"]["quaterly_sales"])
+table_rows = []
+for row in res["aggregations"]["quaterly_sales"]["buckets"]:
+    table_rows.append([
+        row.get("key"),
+        row.get("doc_count"),
+        row["prices"].get("min"),
+        row["prices"].get("avg"),
+        row["prices"].get("max")
+    ])
+
+print(
+    tabulate(table_rows,
+             tablefmt="rounded_outline",
+             headers=["Bucket", "Počet", "Min", "Avg", "Max"],
+             numalign="decimal",
+             floatfmt=".2f"
+             )
+)
