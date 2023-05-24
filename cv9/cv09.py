@@ -67,6 +67,7 @@ print(res)
 
 
 print_delimiter("Analyzéry")
+
 analyzers = ["whitespace", "fingerprint", "keyword"]
 for analyzer in analyzers:
     analysis_result = es.indices.analyze(
