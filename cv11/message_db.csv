@@ -1,0 +1,3009 @@
+room_id;speaker_id;time;message
+1;2;2021-04-27 08:29:59.456208;Did you like Hawaii vacation?
+1;1;2021-04-27 08:31:32.456208;I loved it.I want to live there.
+1;2;2021-04-27 08:32:02.456208;What did you like?
+1;3;2021-04-27 08:33:01.456208;The island is so green, and the water is so blue.
+1;2;2021-04-27 08:34:42.456208;Did you go swimming?
+1;1;2021-04-27 08:36:38.456208;I went to the beach every day.
+1;1;2021-04-27 08:37:09.456208;How was the weather?
+1;2;2021-04-27 08:38:45.456208;It was hot and sunny every day.
+1;3;2021-04-27 08:39:49.456208;What did you do at night?
+1;3;2021-04-27 08:40:33.456208;At night I went out to eat. The food was delicious.
+1;3;2021-04-27 08:41:57.456208;What do you like about it?
+1;2;2021-04-27 08:42:52.456208;We get a free breakfast.
+1;2;2021-04-27 08:43:48.456208;Coffee and a roll?
+1;1;2021-04-27 08:45:47.456208;No, a real breakfast.
+1;3;2021-04-27 08:47:18.456208;Do they allow pets?
+1;3;2021-04-27 08:49:00.456208;No pets, no smoking.
+1;1;2021-04-27 08:49:42.456208;What's wrong with the bed?
+1;2;2021-04-27 08:50:03.456208;Look at this sheet.
+1;2;2021-04-27 08:52:00.456208;Yes?
+1;1;2021-04-27 08:53:19.456208;See those stains?
+1;3;2021-04-27 08:53:53.456208;Is this table okay?
+1;2;2021-04-27 08:54:05.456208;No, it's too close to the kitchen door.
+1;2;2021-04-27 08:55:26.456208;How about this table?
+1;1;2021-04-27 08:55:55.456208;No, it's too close to the front door.
+1;3;2021-04-27 08:57:33.456208;This looks like a nice table.
+1;1;2021-04-27 08:58:34.456208;No, it's too close to the salad bar.
+1;2;2021-04-27 08:59:38.456208;Okay, I give up.
+1;3;2021-04-27 09:00:40.456208;Well, there is one good table.
+1;1;2021-04-27 09:02:13.456208;Great. Which one?
+1;3;2021-04-27 09:02:49.456208;That one. A group of eight just sat down at it.
+1;1;2021-04-27 09:04:29.456208;Did you see "Titanic"?
+1;2;2021-04-27 09:05:04.456208;Yes. It is a great movie.
+1;2;2021-04-27 09:06:46.456208;I saw it twelve times.
+1;1;2021-04-27 09:07:42.456208;I saw it eight times.
+1;2;2021-04-27 09:09:07.456208;Turn the radio down, please.
+1;2;2021-04-27 09:09:28.456208;But I'm listening to it.
+1;2;2021-04-27 09:11:07.456208;Well, listen to it more quietly.
+1;3;2021-04-27 09:12:16.456208;I can't wait till I grow up.
+1;3;2021-04-27 09:13:53.456208;What will you do?
+1;1;2021-04-27 09:15:22.456208;I will play the radio as loud as I want.
+1;3;2021-04-27 09:15:32.456208;That's okay with me.
+1;2;2021-04-27 09:16:57.456208;I will have a radio in every room of my house.
+1;1;2021-04-27 09:18:21.456208;Remind me to never visit you.
+1;3;2021-04-27 09:18:41.456208;All the radios will be on extra loud.
+1;2;2021-04-27 09:19:41.456208;Your neighbors will hate you.
+1;2;2021-04-27 09:20:50.456208;If they don't like it, they can move.
+1;1;2021-04-27 09:22:37.456208;Can I try your coffee?
+1;3;2021-04-27 09:23:53.456208;Sure. Here you go.
+1;3;2021-04-27 09:25:42.456208;Hmm, that's not bad.
+1;2;2021-04-27 09:27:35.456208;There's nothing in it.
+1;3;2021-04-27 09:28:01.456208;What do you mean?
+1;1;2021-04-27 09:28:50.456208;I mean, it's just coffee.
+1;3;2021-04-27 09:30:31.456208;I figured that.
+1;2;2021-04-27 09:31:33.456208;It's not too bitter for you?
+1;3;2021-04-27 09:32:33.456208;It's a little bitter, but it's okay.
+1;1;2021-04-27 09:33:35.456208;There's no sugar or cream in it.
+1;1;2021-04-27 09:33:58.456208;No, it's a taste you have to get used to.
+1;2;2021-04-27 09:34:30.456208;Sort of like beer.
+1;3;2021-04-27 09:36:04.456208;I want sheets without stains on them.
+1;3;2021-04-27 09:37:15.456208;From now on, let's bring our own sheets.
+1;2;2021-04-27 09:38:21.456208;What time does your plane leave?
+1;2;2021-04-27 09:40:10.456208;It leaves at 12:15.
+1;1;2021-04-27 09:41:10.456208;When do you have to be at the airport?
+1;2;2021-04-27 09:41:53.456208;I have to be there two hours early.
+1;3;2021-04-27 09:43:49.456208;So we have to be at the airport at 10:15.
+1;2;2021-04-27 09:45:45.456208;That means we have to leave the house at 9:15.
+1;1;2021-04-27 09:46:05.456208;Well, it's an hour to get there, if there are no traffic problems.
+1;3;2021-04-27 09:46:35.456208;So maybe we better leave at 8:15?
+1;1;2021-04-27 09:48:30.456208;Yes, it's better to get there too early than too late.
+1;3;2021-04-27 09:50:04.456208;I agree.
+1;1;2021-04-27 09:51:45.456208;You never know what might happen on these freeways.
+1;2;2021-04-27 09:52:30.456208;There's at least one huge accident every day.
+1;1;2021-04-27 09:54:24.456208;I need to fly to New York.
+1;2;2021-04-27 09:55:17.456208;When are you going?
+1;2;2021-04-27 09:55:32.456208;During the Christmas holidays.
+1;2;2021-04-27 09:56:38.456208;You'd better buy your ticket now.
+1;2;2021-04-27 09:56:48.456208;You must be kidding.
+1;3;2021-04-27 09:57:28.456208;No, I'm not. It's March. Time is running out. Seats are selling out right now.
+1;3;2021-04-27 09:57:58.456208;I thought I would wait until October.
+1;3;2021-04-27 09:58:42.456208;I'll bet this is the first time you've ever flown during Christmas.
+1;3;2021-04-27 09:59:41.456208;Do you go to college?
+1;1;2021-04-27 10:00:42.456208;Yes, I do.
+1;1;2021-04-27 10:02:11.456208;What college do you go to?
+1;3;2021-04-27 10:02:24.456208;I go to Pasadena City College.
+1;2;2021-04-27 10:02:46.456208;Do you like it?
+1;3;2021-04-27 10:03:35.456208;Oh, yes, I really like it.
+1;2;2021-04-27 10:04:34.456208;Why do you like it?
+1;3;2021-04-27 10:05:03.456208;Because it has great teachers.
+1;1;2021-04-27 10:05:52.456208;What else?
+1;2;2021-04-27 10:06:02.456208;I like all my classmates, too.
+1;1;2021-04-27 10:07:10.456208;What do we need to buy?
+1;3;2021-04-27 10:08:54.456208;Let me look at our list.
+1;2;2021-04-27 10:10:33.456208;I know that we need milk.
+1;1;2021-04-27 10:11:17.456208;Nonfat.
+1;2;2021-04-27 10:11:56.456208;Of course. What else?
+1;2;2021-04-27 10:12:36.456208;We need cheese, bread, and ham.
+1;1;2021-04-27 10:12:54.456208;What kind of cheese?
+1;1;2021-04-27 10:14:10.456208;Swiss.
+1;1;2021-04-27 10:15:59.456208;Of course, the cheese with holes in it.
+1;3;2021-04-27 10:17:52.456208;I never used to buy Swiss cheese.
+1;2;2021-04-27 10:19:49.456208;Why not?
+1;2;2021-04-27 10:21:03.456208;I didn't want to pay for the holes
+1;1;2021-04-27 10:22:20.456208;Hi, Helen! How is it going?
+1;2;2021-04-27 10:22:53.456208;Fine, thanks for asking and you?
+1;2;2021-04-27 10:23:19.456208;Just fine. Where are you off to?
+1;3;2021-04-27 10:24:55.456208;To the library. I've got a history exam next week
+1;1;2021-04-27 10:26:20.456208;Oh, no. Well, I'll see you later then. Good luck!
+1;1;2021-04-27 10:27:21.456208;Thanks. See you later.
+1;3;2021-04-27 10:28:32.456208;I need some pants.
+1;2;2021-04-27 10:29:10.456208;I thought you just bought a pair.
+1;3;2021-04-27 10:30:15.456208;I did.
+1;3;2021-04-27 10:31:16.456208;What's wrong with them so soon?
+1;1;2021-04-27 10:32:59.456208;The pants are fine, but the pocket has a huge hole in it.
+1;3;2021-04-27 10:33:22.456208;You shouldn't carry your keys and pens in your pocket.
+1;3;2021-04-27 10:34:21.456208;But that's what pockets are for.
+1;3;2021-04-27 10:35:00.456208;You should carry them in a purse.
+1;1;2021-04-27 10:36:36.456208;I'm a man, and men don't carry purses!
+1;2;2021-04-27 10:36:46.456208;Well, you should buy pants with stronger pockets.
+1;2;2021-04-27 10:37:01.456208;I would if I could find someone who makes strong pockets.
+1;2;2021-04-27 10:37:35.456208;Try a Google search online.
+1;3;2021-04-27 10:38:45.456208;I'm trying to stretch my dollars.
+1;2;2021-04-27 10:40:23.456208;How are you doing that?
+1;3;2021-04-27 10:42:07.456208;I started shopping at the dollar store.
+1;3;2021-04-27 10:42:22.456208;That saves a lot of money.
+1;3;2021-04-27 10:44:03.456208;I bought three pounds of potatoes for a dollar.
+1;2;2021-04-27 10:45:46.456208;That's a good deal.
+1;3;2021-04-27 10:47:18.456208;Yes, even though some of the potatoes had eyes.
+1;3;2021-04-27 10:47:34.456208;Just put them in the fridge.
+1;2;2021-04-27 10:48:59.456208;Also, I bought a can of cheap coffee and a bag of good coffee.
+1;3;2021-04-27 10:49:34.456208;Why did you do that?
+1;1;2021-04-27 10:50:26.456208;I mixed them together.
+1;3;2021-04-27 10:52:01.456208;If the coffee still tastes okay, that's a good idea.
+1;1;2021-04-27 10:53:59.456208;Let's go jogging.
+1;3;2021-04-27 10:54:44.456208;That's a good idea.
+1;1;2021-04-27 10:55:40.456208;I bought some new shoes.
+1;2;2021-04-27 10:56:12.456208;Are they comfortable?
+1;1;2021-04-27 10:57:44.456208;They're very comfortable.
+1;2;2021-04-27 10:58:29.456208;How much were they?
+1;3;2021-04-27 10:59:40.456208;They were on sale for $80.
+1;2;2021-04-27 11:00:59.456208;Do they help you run faster?
+1;2;2021-04-27 11:02:29.456208;No, but my feet don't hurt anymore.
+1;1;2021-04-27 11:02:39.456208;Then they're worth every penny.
+1;3;2021-04-27 11:03:25.456208;You might want to buy a pair.
+1;2;2021-04-27 11:04:47.456208;I'll wait until I wear this pair out
+1;1;2021-04-27 11:06:15.456208;Baseball is fun.
+1;2;2021-04-27 11:07:32.456208;I like to hit the ball.
+1;1;2021-04-27 11:08:50.456208;I like to run around the bases.
+1;3;2021-04-27 11:09:11.456208;I like to slide into the bases.
+1;2;2021-04-27 11:10:10.456208;Yeah. It's a lot of fun to slide.
+1;2;2021-04-27 11:10:59.456208;I want to be a baseball player when I grow up.
+1;2;2021-04-27 11:12:24.456208;Me too. I want to play for the Yankees.
+1;1;2021-04-27 11:12:34.456208;Not me. I want to play for the Dodgers.
+1;1;2021-04-27 11:13:02.456208;We have to practice every day.
+1;1;2021-04-27 11:13:25.456208;I don't like practice.
+1;2;2021-04-27 11:13:59.456208;Me neither. It's boring.
+1;3;2021-04-27 11:14:55.456208;But practice makes perfect.
+1;2;2021-04-27 11:16:35.456208;What did you do?
+1;2;2021-04-27 11:17:22.456208;I watered all the plants.
+1;3;2021-04-27 11:17:57.456208;You have a lot of plants.
+1;3;2021-04-27 11:19:35.456208;Then I did my laundry.
+1;3;2021-04-27 11:20:30.456208;Did you do the laundry?
+1;3;2021-04-27 11:21:38.456208;Yes, I did.
+1;1;2021-04-27 11:21:49.456208;What did you wash?
+1;2;2021-04-27 11:23:02.456208;I washed the sheets and towels.
+1;2;2021-04-27 11:24:01.456208;What about the pillowcases?
+1;1;2021-04-27 11:24:25.456208;Yes, I took them off the pillows and washed them.
+1;1;2021-04-27 11:25:27.456208;Did you dry everything in the dryer?
+1;1;2021-04-27 11:26:39.456208;Yes, I dried everything in the dryer.
+1;2;2021-04-27 11:27:53.456208;Then what did you do?
+1;1;2021-04-27 11:28:42.456208;I folded all the towels.
+1;1;2021-04-27 11:29:20.456208;Did you put the sheets on the beds?
+1;3;2021-04-27 11:30:34.456208;Yes, and I put the pillowcases on the pillows
+1;2;2021-04-27 11:32:27.456208;Do you listen to the radio?
+1;3;2021-04-27 11:34:19.456208;I listen day and night.
+1;3;2021-04-27 11:35:54.456208;What do you listen to?
+1;1;2021-04-27 11:37:10.456208;Mostly talk radio.
+1;1;2021-04-27 11:37:34.456208;What's that?
+1;2;2021-04-27 11:37:44.456208;People talk about current events.
+1;3;2021-04-27 11:38:42.456208;What do they say?
+1;3;2021-04-27 11:39:13.456208;They say they want change.
+1;3;2021-04-27 11:40:49.456208;What kind of change?
+1;1;2021-04-27 11:41:30.456208;They want tax cuts.
+1;3;2021-04-27 11:43:07.456208;Why do they want tax cuts?
+1;1;2021-04-27 11:44:40.456208;Because tax cuts will save them money.
+1;1;2021-04-27 11:45:48.456208;What is there to eat?
+1;2;2021-04-27 11:47:24.456208;I don't know. Look in the fridge.
+1;3;2021-04-27 11:47:57.456208;Where's the mustard?
+1;3;2021-04-27 11:49:43.456208;It's in the fridge, I think.
+1;2;2021-04-27 11:50:47.456208;Do you want a sandwich?
+1;3;2021-04-27 11:52:09.456208;Yes, that sounds nice.
+1;1;2021-04-27 11:53:04.456208;How about some potato chips?
+1;1;2021-04-27 11:54:04.456208;Yes. And a pickle, if we have any.
+1;1;2021-04-27 11:55:15.456208;Something's wrong with my computer.
+1;1;2021-04-27 11:55:35.456208;Exactly what?
+1;3;2021-04-27 11:56:31.456208;All I get is a black screen.
+1;1;2021-04-27 11:57:04.456208;What's the matter?
+1;1;2021-04-27 11:57:42.456208;I think I know, because this happened before.
+1;1;2021-04-27 11:58:31.456208;What happened before?
+1;3;2021-04-27 11:58:49.456208;My hard drive crashed.
+1;2;2021-04-27 12:00:33.456208;Oh, no. That's bad news.
+1;2;2021-04-27 12:02:15.456208;It sure is, but I'm going to call HP first, just to make sure.
+1;3;2021-04-27 12:03:28.456208;Will you lose all your files?
+1;1;2021-04-27 12:03:40.456208;No, I always back up my files.
+1;2;2021-04-27 12:05:14.456208;You're smart.
+1;3;2021-04-27 12:06:09.456208;Can I ask you a few personal questions?
+1;2;2021-04-27 12:07:14.456208;Certainly.
+1;1;2021-04-27 12:09:00.456208;What's your name?
+1;3;2021-04-27 12:10:27.456208;Peter Asilov.
+1;1;2021-04-27 12:11:52.456208;What's your address?
+1;2;2021-04-27 12:13:02.456208;I live at 45 NW 75th Avenue, Phoenix, Arizona.
+1;3;2021-04-27 12:14:36.456208;What's your cell phone number?
+1;2;2021-04-27 12:15:35.456208;My number is 409-498-2091
+1;3;2021-04-27 12:16:22.456208;When is your birthday?
+1;1;2021-04-27 12:16:38.456208;I was born on July 5, 1987.
+1;2;2021-04-27 12:16:57.456208;Are you married?
+1;1;2021-04-27 12:17:20.456208;Yes,I'm.
+1;3;2021-04-27 12:19:12.456208;What's your profession?
+1;3;2021-04-27 12:20:13.456208;I'm a bot.
+1;1;2021-04-27 12:20:34.456208;Can you dance well?
+1;3;2021-04-27 12:22:16.456208;Ha ha. Yes, I can dance!
+1;1;2021-04-27 12:22:31.456208;Did you meet anyone?
+1;3;2021-04-27 12:22:47.456208;Yes, I met an interesting Japanese woman.
+1;1;2021-04-27 12:24:41.456208;Can you speak Japanese?
+1;2;2021-04-27 12:24:59.456208;No.
+1;1;2021-04-27 12:25:54.456208;How can I help you?
+1;2;2021-04-27 12:27:53.456208;Yes. I'm looking for a sweater like this one, but in a smaller size.
+1;3;2021-04-27 12:28:47.456208;May I try it on?
+1;3;2021-04-27 12:30:19.456208;Sure, the changing rooms are over there.
+1;2;2021-04-27 12:30:56.456208;How much does it cost?
+1;3;2021-04-27 12:31:52.456208;It's $45.
+1;1;2021-04-27 12:32:29.456208;How would you like to pay?
+1;3;2021-04-27 12:33:23.456208;I pay by credit card.
+1;2;2021-04-27 12:35:06.456208;What do you like doing in your spare time?
+1;1;2021-04-27 12:36:57.456208;I like hanging out downtown with my friends.
+1;3;2021-04-27 12:38:53.456208;What does your friend Tom look like?
+1;2;2021-04-27 12:39:54.456208;He's tall with a beard and blue eyes.
+1;2;2021-04-27 12:41:46.456208;What is he like?
+1;3;2021-04-27 12:42:38.456208;He's very friendly and really intelligent.
+1;1;2021-04-27 12:43:21.456208;What would you like to do now?
+1;3;2021-04-27 12:43:49.456208;Let's go hang out with Tom!
+1;1;2021-04-27 12:44:20.456208;How is your day going?
+1;1;2021-04-27 12:45:54.456208;Quite busy.
+1;3;2021-04-27 12:46:33.456208;What are you doing now?
+1;2;2021-04-27 12:46:44.456208;I'm watching TV.
+1;2;2021-04-27 12:47:12.456208;What are you watching?
+1;1;2021-04-27 12:47:45.456208;I'm watching Friends.
+1;2;2021-04-27 12:49:03.456208;You want to do something?
+1;2;2021-04-27 12:50:25.456208;Yes.
+1;2;2021-04-27 12:52:08.456208;Hi Steve. What are you doing here?
+1;2;2021-04-27 12:52:55.456208;I'm meeting a friend here for dinner.
+1;2;2021-04-27 12:53:36.456208;Didn't you finish school yet?
+1;2;2021-04-27 12:54:09.456208;I have one more year, and then I'm done.
+1;3;2021-04-27 12:54:35.456208;What are you majoring in?
+1;1;2021-04-27 12:55:34.456208;I'm majoring in Sociology"
+1;1;2021-04-27 12:56:53.456208;How do you like your major?
+1;2;2021-04-27 12:57:12.456208;I really find the subject very interesting.
+1;1;2021-04-27 12:57:28.456208;Alright, I'll talk to you later.
+1;1;2021-04-27 12:58:02.456208;Okay. See you later.
+1;3;2021-04-27 12:58:13.456208;What are you doing now?
+1;1;2021-04-27 12:59:12.456208;I'm playing pool with my friends at a pool hall.
+1;2;2021-04-27 13:00:08.456208;Are you having fun?
+1;3;2021-04-27 13:01:01.456208;I'm having a great time. How about you? What are you doing?
+1;1;2021-04-27 13:02:59.456208;Hi. How are you doing this afternoon?
+1;1;2021-04-27 13:04:37.456208;Fine, thank you. Can I see a menu, please?
+1;3;2021-04-27 13:04:50.456208;Certainly, here you are.
+1;3;2021-04-27 13:05:05.456208;Thank you. What's today's special?
+1;1;2021-04-27 13:06:08.456208;Would you like something to drink?
+1;3;2021-04-27 13:06:20.456208;Yes, I'd like a coke.
+1;1;2021-04-27 13:07:27.456208;Here you are. Enjoy your meal!
+1;2;2021-04-27 13:08:38.456208;Thank you.
+1;3;2021-04-27 13:09:15.456208;Can I get you anything else?
+1;1;2021-04-27 13:10:41.456208;No thanks. I'd like to have the bill, please.
+1;1;2021-04-27 13:12:21.456208;That'll be $14.95.
+1;1;2021-04-27 13:13:57.456208;Here you are. Keep the change!
+1;3;2021-04-27 13:15:20.456208;Thank you! Have a good day!
+1;1;2021-04-27 13:17:13.456208;Goodbye.
+1;1;2021-04-27 13:18:57.456208;What would you like to drink?
+1;1;2021-04-27 13:19:17.456208;I'll have water.
+1;2;2021-04-27 13:20:21.456208;I'll get the drinks and the appetizers.
+1;3;2021-04-27 13:22:13.456208;Thankyou.
+1;3;2021-04-27 13:23:03.456208;Where are you from?
+1;1;2021-04-27 13:24:11.456208;I'm Japanese.
+1;2;2021-04-27 13:25:53.456208;What part of Japan do you come from?
+1;2;2021-04-27 13:27:20.456208;Originally I'm from Toyama, but I live in Kyoto now.
+1;3;2021-04-27 13:27:34.456208;Hi
+1;3;2021-04-27 13:29:26.456208;hi
+1;2;2021-04-27 13:31:09.456208;Do you have a drink?
+1;3;2021-04-27 13:32:09.456208;Not yet.
+1;2;2021-04-27 13:32:38.456208;What are you drinking?
+1;3;2021-04-27 13:33:53.456208;Cafe Latte.
+1;1;2021-04-27 13:35:46.456208;Do you want another?
+1;2;2021-04-27 13:36:33.456208;No thanks.
+1;1;2021-04-27 13:38:16.456208;What's the latte like?
+1;1;2021-04-27 13:38:28.456208;It's great. I recommend it.
+1;2;2021-04-27 13:38:46.456208;See you in a minute.
+1;1;2021-04-27 13:39:54.456208;See you in a bit.
+1;3;2021-04-27 13:40:04.456208;I just bought a ticket to New York City.
+1;3;2021-04-27 13:41:55.456208;Traveling is so much fun. I love
+1;2;2021-04-27 13:43:09.456208;When are you leaving?
+1;1;2021-04-27 13:43:25.456208;Next week.
+1;2;2021-04-27 13:45:10.456208;You will have so much fun.
+1;3;2021-04-27 13:46:20.456208;I hope so.
+1;3;2021-04-27 13:47:35.456208;Hi
+1;3;2021-04-27 13:48:00.456208;Oh, hi
+1;3;2021-04-27 13:48:14.456208;How are you doing?
+1;3;2021-04-27 13:49:16.456208;I'm doing alright. How about you?
+1;1;2021-04-27 13:49:52.456208;The weather is great isn't it?
+1;2;2021-04-27 13:50:50.456208;Yes. It's absolutely beautiful today.
+1;3;2021-04-27 13:51:53.456208;So where are you going now?
+1;1;2021-04-27 13:52:06.456208;I'm going to meet a friend of mine at the department store.
+1;1;2021-04-27 13:52:25.456208;Going to do a little shopping?
+1;1;2021-04-27 13:53:46.456208;Yeah, I have to buy some presents for my parents.
+1;3;2021-04-27 13:55:29.456208;What's the occasion?
+1;3;2021-04-27 13:57:23.456208;It's anniversary.
+1;1;2021-04-27 13:57:53.456208;I'll see you next time.
+1;1;2021-04-27 13:58:37.456208;Sure Bye.
+1;2;2021-04-27 13:58:51.456208;How can I help you?
+1;3;2021-04-27 14:00:12.456208;No thanks, I am just looking around.
+1;1;2021-04-27 14:01:49.456208;Can I try it on?
+1;1;2021-04-27 14:02:52.456208;Sure, the changing rooms are over there.
+1;1;2021-04-27 14:03:35.456208;Have you got something bigger?
+1;1;2021-04-27 14:05:25.456208;Certainly, we've got  larger sizes as well.
+1;2;2021-04-27 14:05:54.456208;How much does it cost?
+1;2;2021-04-27 14:07:48.456208;This costs $56
+1;2;2021-04-27 14:08:54.456208;How would you like to pay?
+1;3;2021-04-27 14:09:17.456208;I would like to pay by cash.
+1;2;2021-04-27 14:10:05.456208;Can I pay by credit card?
+1;2;2021-04-27 14:11:23.456208;Certainly. We accept all the major cards.
+1;1;2021-04-27 14:12:32.456208;What time is it?
+1;3;2021-04-27 14:14:10.456208;It's one o'clock.
+1;1;2021-04-27 14:15:42.456208;May I open the window?
+1;2;2021-04-27 14:16:52.456208;Certainly.
+1;2;2021-04-27 14:17:14.456208;Is there a bakery near here?
+1;3;2021-04-27 14:17:32.456208;Yes. There is a bakery nearby
+1;2;2021-04-27 14:18:54.456208;Where is the nearest bank?
+1;1;2021-04-27 14:19:38.456208;The nearest bank is on united street.
+1;3;2021-04-27 14:21:22.456208;Who wrote this article?
+1;3;2021-04-27 14:21:34.456208;Michelle wrote this article.The Sun Also Rises.
+1;2;2021-04-27 14:22:14.456208;Is there any rice?
+1;1;2021-04-27 14:23:10.456208;Yes, there's a lot of rice left.
+1;1;2021-04-27 14:24:08.456208;Are there any sandwiches?
+1;2;2021-04-27 14:24:57.456208;No, there aren't any sandwiches left.
+1;3;2021-04-27 14:26:05.456208;Is this your book?
+1;1;2021-04-27 14:26:55.456208;No, I think it's his book.
+1;3;2021-04-27 14:27:11.456208;What do you like to do on weekends?
+1;3;2021-04-27 14:28:59.456208;I like playing cricket, reading and listening to pop music.
+1;1;2021-04-27 14:29:31.456208;What does she look like?
+1;2;2021-04-27 14:30:39.456208;She's tall and slim with blonde hair.
+1;3;2021-04-27 14:32:06.456208;What would you like to eat?
+1;2;2021-04-27 14:32:38.456208;I'd like a burger, chips and soda.
+1;2;2021-04-27 14:34:16.456208;What is it like?
+1;2;2021-04-27 14:35:32.456208;It's an interesting country many things to see and do.
+1;3;2021-04-27 14:35:43.456208;What's the weather like?
+1;2;2021-04-27 14:36:59.456208;It's raining heavily at the moment.
+1;1;2021-04-27 14:37:14.456208;Would you like some coffee?
+1;3;2021-04-27 14:38:07.456208;Yes, thank you. I'd like some coffee.
+1;1;2021-04-27 14:38:41.456208;Would you like something to drink?
+1;3;2021-04-27 14:40:32.456208;Thank you. Could I have a cup of coffee and some cake?
+1;2;2021-04-27 14:41:49.456208;What's it about?
+1;2;2021-04-27 14:43:11.456208;It's about a young girl who has many adventures.
+1;2;2021-04-27 14:43:41.456208;What do you think about this book?
+1;3;2021-04-27 14:45:31.456208;I think the book is very interesting.
+1;1;2021-04-27 14:46:38.456208;Is it difficult to prepare for IELTS?
+1;1;2021-04-27 14:48:10.456208;It's not if your practice well.
+1;3;2021-04-27 14:50:04.456208;What are your views on Donald Trump as the America's President?
+1;1;2021-04-27 14:51:00.456208;That's a good question, well I am speechless.
+1;3;2021-04-27 14:52:58.456208;How was the movie?
+1;2;2021-04-27 14:54:37.456208;It was very interesting. You should watch it.
+1;1;2021-04-27 14:55:45.456208;Hi, my name is Steve. It's nice to meet you.
+1;2;2021-04-27 14:56:08.456208;I'm Jack. It's a pleasure to meet you, Steve.
+1;1;2021-04-27 14:56:40.456208;What do you do for a living?
+1;2;2021-04-27 14:58:16.456208;I work.
+1;3;2021-04-27 14:59:51.456208;What is your name?
+1;3;2021-04-27 15:00:11.456208;bot
+1;2;2021-04-27 15:01:37.456208;how have you been?
+1;2;2021-04-27 15:02:50.456208;I am fine.
+1;3;2021-04-27 15:04:38.456208;Hi what have you been up to?
+1;3;2021-04-27 15:05:08.456208;The same as usual.
+1;3;2021-04-27 15:06:29.456208;are you going to be in town this weekend?
+1;3;2021-04-27 15:07:50.456208;I don't have anything scheduled yet.
+1;2;2021-04-27 15:08:59.456208;Will everyone be pitching in with some food?
+1;3;2021-04-27 15:09:30.456208;It would be great if you could bring a side dish, but the rest of the food will be provided.
+1;3;2021-04-27 15:10:22.456208;What should we wear?
+1;3;2021-04-27 15:12:20.456208;Any dress
+1;1;2021-04-27 15:13:36.456208;Welcome,come on in!
+1;1;2021-04-27 15:14:24.456208;Hi,What a nice home!
+1;2;2021-04-27 15:14:47.456208;How long have you lived here?
+1;3;2021-04-27 15:15:58.456208;About four years now.
+1;2;2021-04-27 15:16:28.456208;How long have you had this house?
+1;3;2021-04-27 15:18:01.456208;We just moved here last year.
+1;3;2021-04-27 15:19:57.456208;It's a beautiful home. You've done a great job decorating it.
+1;3;2021-04-27 15:20:18.456208;That would be wonderful.
+1;3;2021-04-27 15:21:05.456208;I can offer you lemonade, iced tea, or mango juice.
+1;2;2021-04-27 15:21:48.456208;Iced tea sounds really good right now!
+1;2;2021-04-27 15:23:06.456208;Do you want to go to the beach tonight?
+1;2;2021-04-27 15:24:09.456208;Sure
+1;3;2021-04-27 15:25:33.456208;which beach are we going to?
+1;2;2021-04-27 15:27:18.456208;I wanted to go to Malibu beach.
+1;3;2021-04-27 15:27:52.456208;Is Malibu beach nice?
+1;1;2021-04-27 15:28:13.456208;It's a lot nicer, and I really like it better.
+1;2;2021-04-27 15:29:59.456208;So you want to go to Malibu?
+1;1;2021-04-27 15:30:17.456208;Sure, let's go to Malibu
+1;3;2021-04-27 15:30:44.456208;What are you doing this weekend?
+1;3;2021-04-27 15:32:00.456208;I am not sure.
+1;1;2021-04-27 15:32:12.456208;What are you doing?
+1;3;2021-04-27 15:33:29.456208;I was thinking of maybe taking a drive to the beach.
+1;1;2021-04-27 15:35:00.456208;When would you be leaving?
+1;2;2021-04-27 15:36:45.456208;I thought that we could leave around 8:00 on Saturday morning.
+1;3;2021-04-27 15:36:58.456208;What time are you leaving?
+1;3;2021-04-27 15:37:31.456208;I think that Saturday morning around 8:00 would work out well.
+1;1;2021-04-27 15:38:49.456208;how are you doing today?
+1;3;2021-04-27 15:39:29.456208;Pretty good.
+1;3;2021-04-27 15:40:01.456208;Do you know how to get there?
+1;2;2021-04-27 15:41:25.456208;yes i know
+1;1;2021-04-27 15:42:23.456208;Would you like some help with the food?
+1;1;2021-04-27 15:42:46.456208;Just bring along whatever it is that you and Jake would like to drink.
+1;3;2021-04-27 15:44:19.456208;Are you feeling OK?
+1;3;2021-04-27 15:45:52.456208;My stomach is bothering me.
+1;2;2021-04-27 15:46:30.456208;What have you been eating?
+1;3;2021-04-27 15:47:37.456208;I had a ham sandwich with mayonnaise for lunch.
+1;2;2021-04-27 15:48:09.456208;Maybe the food had something wrong with it.
+1;3;2021-04-27 15:49:30.456208;It could be bad food, but I didn't feel so well yesterday, either.
+1;2;2021-04-27 15:50:23.456208;Have you been under a lot of pressure lately?
+1;3;2021-04-27 15:51:40.456208;I haven't been under any more stress than usual.
+1;1;2021-04-27 15:52:16.456208;Good morning, is this Ryan?
+1;2;2021-04-27 15:52:44.456208;You are speaking with Ryan.
+1;3;2021-04-27 15:53:50.456208;What seems to be the problem?
+1;1;2021-04-27 15:54:58.456208;I went hiking and have terrible poison oak.
+1;2;2021-04-27 15:56:13.456208;When did you get that?
+1;2;2021-04-27 15:58:05.456208;I think I got it on Saturday, but it just showed up today.
+1;3;2021-04-27 15:58:27.456208;Have you been having any problems lately?
+1;3;2021-04-27 15:58:59.456208;No, but the nurse at school says that I should have my blood pressure checked.
+1;2;2021-04-27 16:00:23.456208;Do you have a history of high blood pressure?
+1;1;2021-04-27 16:02:11.456208;No, I have never been told that I have high blood pressure.
+1;3;2021-04-27 16:03:13.456208;How do you check for high blood pressure?
+1;3;2021-04-27 16:03:36.456208;We are going to use this cuff here, and it will give me a reading.
+1;1;2021-04-27 16:04:57.456208;What do the numbers mean?
+1;1;2021-04-27 16:06:48.456208;They tell me how much your heart is working at rest and when pumping blood.
+1;1;2021-04-27 16:06:58.456208;How are you doing?
+1;3;2021-04-27 16:07:15.456208;I am doing well
+1;3;2021-04-27 16:08:48.456208;How are you?
+1;2;2021-04-27 16:09:13.456208;I am fine
+1;3;2021-04-27 16:10:27.456208;How are you
+1;1;2021-04-27 16:12:23.456208;Nice
+1;2;2021-04-27 16:12:59.456208;Are you fine?
+1;2;2021-04-27 16:14:21.456208;I am fine
+1;3;2021-04-27 16:15:42.456208;How are you doing?
+1;3;2021-04-27 16:16:51.456208;I am doing fine
+1;3;2021-04-27 16:17:11.456208;Nice to meet you
+1;1;2021-04-27 16:18:04.456208;Pleased to meet you
+1;2;2021-04-27 16:19:11.456208;Good to see you
+1;2;2021-04-27 16:19:45.456208;Nice to see you
+1;2;2021-04-27 16:20:17.456208;Hello, my name is David It's nice to meet you.
+1;2;2021-04-27 16:20:44.456208;Hi, I'm Jenny. It's my please to meet you.
+1;1;2021-04-27 16:21:12.456208;Am sorry. what was your name again?
+1;1;2021-04-27 16:22:07.456208;Jenny.
+1;3;2021-04-27 16:23:07.456208;What do you do for a living?
+1;3;2021-04-27 16:23:23.456208;I work.
+1;2;2021-04-27 16:24:39.456208;It has been really nice talking to you.
+1;1;2021-04-27 16:26:32.456208;Yes. It was a great pleasure meeting you.
+1;2;2021-04-27 16:27:29.456208;Good morning
+1;3;2021-04-27 16:29:00.456208;Morning.
+1;2;2021-04-27 16:30:04.456208;How are you today?
+1;1;2021-04-27 16:32:03.456208;Am good
+1;1;2021-04-27 16:33:06.456208;Where are you from?
+1;2;2021-04-27 16:34:58.456208;Am from Russia
+1;3;2021-04-27 16:36:54.456208;What's the weather like in Russia now?
+1;2;2021-04-27 16:38:42.456208;Freezing cold, and snowing.
+1;3;2021-04-27 16:40:19.456208;What's it like outside?
+1;1;2021-04-27 16:40:43.456208;It's really cold now.
+1;3;2021-04-27 16:41:51.456208;How's the weather?
+1;2;2021-04-27 16:42:22.456208;It's minus ten. (-10 degrees)
+1;2;2021-04-27 16:43:42.456208;Do you have rain?
+1;2;2021-04-27 16:44:35.456208;We have not had any rain for many weeks.
+1;1;2021-04-27 16:46:29.456208;What's the temperature today?
+1;3;2021-04-27 16:48:09.456208;Today it is 22 degrees Celsius which is a lot warmer then it has been.
+1;2;2021-04-27 16:49:59.456208;What's the weather forecast for the rest of the week?
+1;1;2021-04-27 16:51:56.456208;They're saying we will have blue skies for the rest of the week.
+1;2;2021-04-27 16:52:57.456208;So, how are you feeling today?
+1;1;2021-04-27 16:53:07.456208;I'm pretty tired. I haven't been sleeping well.
+1;2;2021-04-27 16:54:40.456208;Do you have enough time to get the right amount of sleep?
+1;3;2021-04-27 16:55:00.456208;I have enough time. I just can't seem to fall asleep and stay asleep.
+1;3;2021-04-27 16:55:42.456208;What time do you usually go to bed?
+1;1;2021-04-27 16:56:44.456208;I don't have one time in particular. I just go to sleep whenever I feel tired.
+1;3;2021-04-27 16:58:22.456208;Have you been under a lot of stress lately?
+1;3;2021-04-27 16:59:39.456208;I just lost my job, and I am unsure about being able to find another one.
+1;3;2021-04-27 17:00:50.456208;Have you ever tried doing relaxation exercises before you go to bed?
+1;3;2021-04-27 17:01:16.456208;I haven't ever tried that, but it sounds like a good idea.
+1;2;2021-04-27 17:01:28.456208;Do you feel this is an emergency?
+1;1;2021-04-27 17:02:50.456208;My chest feels tight, and I can't catch my breath.
+1;2;2021-04-27 17:03:01.456208;Did this come on suddenly?
+1;3;2021-04-27 17:03:16.456208;It started yesterday.
+1;1;2021-04-27 17:05:09.456208;Do you have transportation to our Urgent Care facility on Sunset Blvd.?
+1;2;2021-04-27 17:06:13.456208;My friend can drive me to Urgent Care.
+1;1;2021-04-27 17:06:55.456208;Good afternoon
+1;1;2021-04-27 17:08:30.456208;Hello
+1;1;2021-04-27 17:10:03.456208;Hello how are you?
+1;3;2021-04-27 17:10:51.456208;I am good.
+1;3;2021-04-27 17:11:08.456208;What is the matter ?
+1;3;2021-04-27 17:12:16.456208;I am confused about vacations.
+1;2;2021-04-27 17:14:06.456208;Why do not you come with us?
+1;2;2021-04-27 17:16:03.456208;Nice but my parents would not allow me to go with you.
+1;3;2021-04-27 17:16:38.456208;We will enjoy a lot together.
+1;3;2021-04-27 17:17:04.456208;Thanks
+1;2;2021-04-27 17:18:38.456208;How are you my friend?
+1;2;2021-04-27 17:20:13.456208;I am fine and you?
+1;2;2021-04-27 17:22:05.456208;Are you excited?
+1;3;2021-04-27 17:22:56.456208;Yes, I am very excited. I could not forget the picnic I had yesterday.
+1;1;2021-04-27 17:23:38.456208;Where did you go to have the picnic?
+1;1;2021-04-27 17:23:58.456208;It was Nandan Park, the biggest amusement park in Bangladesh.
+1;3;2021-04-27 17:25:53.456208;How did  you go there?
+1;1;2021-04-27 17:27:28.456208;By bus
+1;1;2021-04-27 17:29:09.456208;What did you enjoy there?
+1;3;2021-04-27 17:31:07.456208;I enjoyed 10 rides only.
+1;1;2021-04-27 17:31:36.456208;Which ride did you enjoy most?
+1;1;2021-04-27 17:32:53.456208;Water coaster. It was interesting most.
+1;3;2021-04-27 17:33:58.456208;What did you enjoy at lunch?
+1;1;2021-04-27 17:35:15.456208;It was biryani. It was so delicious.
+1;1;2021-04-27 17:36:57.456208;Was there any arrangement of cultural program?
+1;1;2021-04-27 17:37:18.456208;Yes. There was a heavy arrangement of cultural program like song, dance, drama.
+1;1;2021-04-27 17:37:46.456208;When did you come back home?
+1;1;2021-04-27 17:39:12.456208;I came back home 11 at night.
+1;3;2021-04-27 17:41:01.456208;Thank you very much.
+1;1;2021-04-27 17:42:53.456208;Thank you also.
+1;3;2021-04-27 17:43:56.456208;How did you enjoy a picnic?
+1;3;2021-04-27 17:45:54.456208;It was really exciting. It was more enjoyable to me because I had never been to Garo Pahar.
+1;2;2021-04-27 17:47:45.456208;You have taken a lot of snaps, haven't you?
+1;1;2021-04-27 17:48:53.456208;Yes. Here are the photographs.
+1;3;2021-04-27 17:50:27.456208;The picnic was so enjoyable that I will recall it for a long time.
+1;3;2021-04-27 17:50:43.456208;same to me.
+1;2;2021-04-27 17:51:39.456208;Bye
+1;1;2021-04-27 17:53:14.456208;Bye
+1;3;2021-04-27 17:53:55.456208;So, what are your plans for this weekend?
+1;3;2021-04-27 17:54:08.456208;I don't know. Do you want to get together or something?
+1;2;2021-04-27 17:54:55.456208;How about going to see a movie?
+1;2;2021-04-27 17:55:24.456208;That sounds like a good idea.
+1;1;2021-04-27 17:55:58.456208;Where do you want to meet?
+1;3;2021-04-27 17:57:19.456208;Let's meet at Summer Pizza House.
+1;3;2021-04-27 17:57:36.456208;When shall we meet?
+1;1;2021-04-27 17:58:03.456208;Well, at any time.
+1;1;2021-04-27 17:58:19.456208;What does she look like?
+1;1;2021-04-27 17:59:55.456208;She has blond hair, she is kind of slender, and she is about your height.
+1;3;2021-04-27 18:00:10.456208;She wears eyeglasses, right?
+1;3;2021-04-27 18:01:09.456208;Yes, and she was playing the piano off and on during the party.
+1;1;2021-04-27 18:01:29.456208;What is she doing these days?
+1;2;2021-04-27 18:02:47.456208;She graduated last June, and she will start her teaching career next week when the new school term begins.
+1;2;2021-04-27 18:04:05.456208;What grade is she going to teach?
+1;1;2021-04-27 18:05:47.456208;She will teach kindergarten.
+1;3;2021-04-27 18:06:52.456208;Good morning
+1;2;2021-04-27 18:07:45.456208;Good morning
+1;3;2021-04-27 18:08:21.456208;Nice to see you
+1;1;2021-04-27 18:09:13.456208;Very nice to see you
+1;2;2021-04-27 18:10:38.456208;Hi
+1;2;2021-04-27 18:12:25.456208;Hi
+1;3;2021-04-27 18:13:03.456208;Hello 
+1;1;2021-04-27 18:13:36.456208;Hello
+1;3;2021-04-27 18:15:14.456208;Have a good day
+1;3;2021-04-27 18:15:24.456208;Yeah sure
+1;2;2021-04-27 18:17:06.456208;Have a nice day
+1;2;2021-04-27 18:17:53.456208;Thanks
+1;2;2021-04-27 18:18:24.456208;How are you feeling?
+1;1;2021-04-27 18:19:38.456208;I am feeling exited
+1;1;2021-04-27 18:20:41.456208;Where are you from?
+1;3;2021-04-27 18:21:10.456208;I am from chennai
+1;3;2021-04-27 18:22:02.456208;How are you doing?
+1;1;2021-04-27 18:22:54.456208;I am doing fine
+1;3;2021-04-27 18:23:24.456208;Do you have a driver's license ?
+1;3;2021-04-27 18:23:51.456208;No. I am going to take the test in a couple of weeks .
+1;2;2021-04-27 18:24:18.456208;Didn't you drive in your country ?
+1;3;2021-04-27 18:25:48.456208;Yes, but I have to brush up on my driving.
+1;1;2021-04-27 18:26:30.456208;You have to study the traffic rules too
+1;1;2021-04-27 18:27:21.456208;Yes, there is a lot of new things I must learn.
+1;1;2021-04-27 18:27:46.456208;Do you have a car?
+1;1;2021-04-27 18:29:10.456208;Yes I am having a car
+1;1;2021-04-27 18:30:06.456208;What is the color of car?
+1;3;2021-04-27 18:31:46.456208;The color of car is blue
+1;3;2021-04-27 18:33:35.456208;Do you know English?
+1;1;2021-04-27 18:35:17.456208;Yes, I can speak english
+1;3;2021-04-27 18:35:54.456208;What is your name?
+1;3;2021-04-27 18:36:19.456208;My name is robot
+1;3;2021-04-27 18:37:41.456208;What are your doing?
+1;2;2021-04-27 18:39:32.456208;I am chatting with you
+1;2;2021-04-27 18:40:44.456208;How do you rate yourself?
+1;3;2021-04-27 18:40:55.456208;I give myself five star rating
+1;3;2021-04-27 18:41:29.456208;Do you speak English?
+1;3;2021-04-27 18:42:00.456208;I speak English
+1;2;2021-04-27 18:43:50.456208;What language do you know?
+1;2;2021-04-27 18:44:13.456208;I speak English only
+1;2;2021-04-27 18:46:05.456208;Do you marry me?
+1;1;2021-04-27 18:46:55.456208;Not possible human
+1;3;2021-04-27 18:47:13.456208;What is your age?
+1;1;2021-04-27 18:48:41.456208;My developer only knows that
+1;1;2021-04-27 18:50:33.456208;Can you help me?
+1;3;2021-04-27 18:51:53.456208;How can I help you?
+1;1;2021-04-27 18:53:46.456208;May you help me?
+1;1;2021-04-27 18:55:13.456208;Yes sure
+1;3;2021-04-27 18:55:25.456208;Good Evening
+1;3;2021-04-27 18:56:07.456208;Good Evening
+1;2;2021-04-27 18:58:06.456208;What's your name?
+1;3;2021-04-27 18:59:40.456208;My name is bot
+1;1;2021-04-27 19:00:52.456208;Your kind name please
+1;2;2021-04-27 19:02:13.456208;My name is bot
+1;2;2021-04-27 19:02:56.456208;What is your good name?
+1;2;2021-04-27 19:03:54.456208;My name is bot
+1;3;2021-04-27 19:05:16.456208;What is the weather be like?
+1;2;2021-04-27 19:05:55.456208;The weather is hot.
+1;1;2021-04-27 19:07:25.456208;What are you doing now?
+1;1;2021-04-27 19:09:21.456208;I am chatting now
+1;1;2021-04-27 19:09:37.456208;How are you doing today?
+1;2;2021-04-27 19:10:56.456208;I am fine
+1;1;2021-04-27 19:12:35.456208;Have you had any type of cold lately?
+1;1;2021-04-27 19:13:30.456208;No, I haven't had a cold. I just have a heavy feeling in my chest when I try to breathe.
+1;1;2021-04-27 19:15:03.456208;Do you have any allergies that you know of?
+1;2;2021-04-27 19:16:45.456208;No, I don't have any allergies that I know of.
+1;3;2021-04-27 19:17:39.456208;Does this happen all the time or mostly when you are active?
+1;2;2021-04-27 19:18:57.456208;It happens a lot when I work out.
+1;1;2021-04-27 19:19:44.456208;How are you today?
+1;2;2021-04-27 19:21:31.456208;I am fine.
+1;3;2021-04-27 19:22:20.456208;What is your feeling?
+1;3;2021-04-27 19:23:43.456208;I am feeling great
+1;2;2021-04-27 19:25:03.456208;Are you excited?
+1;2;2021-04-27 19:25:39.456208;I am excited.
+1;3;2021-04-27 19:26:29.456208;what's up?
+1;2;2021-04-27 19:28:20.456208;I'm just hanging out. What's up with you?
+1;3;2021-04-27 19:29:42.456208;It's a good day.
+1;2;2021-04-27 19:31:14.456208;I'm feeling fine.
+1;2;2021-04-27 19:32:42.456208;How is your sister?
+1;1;2021-04-27 19:34:32.456208;Oh, fine. Not much has changed.
+1;1;2021-04-27 19:36:06.456208;Nice seeing you
+1;2;2021-04-27 19:37:01.456208;Bye
+1;1;2021-04-27 19:38:03.456208;How are you doing?
+1;2;2021-04-27 19:39:11.456208;I'm well.
+1;3;2021-04-27 19:39:27.456208;Nice seeing you
+1;1;2021-04-27 19:40:45.456208;It's Nice to see you.
+1;1;2021-04-27 19:41:30.456208;See you later
+1;1;2021-04-27 19:43:20.456208;Bye
+1;1;2021-04-27 19:44:43.456208;Good morning.
+1;1;2021-04-27 19:46:11.456208;Good morning. How are you?
+1;3;2021-04-27 19:47:25.456208;I'm very well and you?
+1;1;2021-04-27 19:47:53.456208;I'm fine. Thank you for asking.
+1;2;2021-04-27 19:48:46.456208;Do you have a meeting this morning?
+1;2;2021-04-27 19:49:47.456208;Yes, I do.
+1;2;2021-04-27 19:51:09.456208;It was a pleasure seeing you
+1;3;2021-04-27 19:52:42.456208;Yes for me also.
+1;2;2021-04-27 19:53:59.456208;Are you okay?
+1;2;2021-04-27 19:54:19.456208;I am fine
+1;3;2021-04-27 19:55:52.456208;Are you fine?
+1;3;2021-04-27 19:57:22.456208;I am fine
+1;1;2021-04-27 19:58:08.456208;Can you tell me the way to restaurant?
+1;3;2021-04-27 19:59:53.456208;Wait let me view in Google maps
+1;2;2021-04-27 20:00:40.456208;Thanks a lot
+1;2;2021-04-27 20:01:01.456208;You are welcome
+1;3;2021-04-27 20:02:10.456208;Please come in
+1;3;2021-04-27 20:02:55.456208;Thank you
+1;2;2021-04-27 20:03:11.456208;How are you doing?
+1;3;2021-04-27 20:03:25.456208;I am fine
+1;1;2021-04-27 20:05:01.456208;How are you doing
+1;1;2021-04-27 20:06:22.456208;I am fine
+1;2;2021-04-27 20:08:16.456208;Come and sit down.Would you like a drink?
+1;3;2021-04-27 20:10:08.456208;Oh, yes please! I'd love a gin and tonic.
+1;1;2021-04-27 20:11:19.456208;Do you like olives? Or would you prefer crisps?
+1;3;2021-04-27 20:11:52.456208;Oh, just olives please. What music is this?
+1;2;2021-04-27 20:12:36.456208;Do you like it?
+1;3;2021-04-27 20:13:19.456208;It's great
+1;3;2021-04-27 20:15:06.456208;Have you been there?
+1;1;2021-04-27 20:16:23.456208;Yes.
+1;3;2021-04-27 20:16:46.456208;Would you like to see them?
+1;2;2021-04-27 20:18:35.456208;Why not? I'd love to
+1;1;2021-04-27 20:19:24.456208;Are you free?
+1;2;2021-04-27 20:20:31.456208;Yes surely.
+1;3;2021-04-27 20:21:16.456208;Good idea
+1;2;2021-04-27 20:23:07.456208;Yeah, that's great.
+1;2;2021-04-27 20:24:57.456208;Do you need anything?
+1;1;2021-04-27 20:26:13.456208;Anything to eat which is less spicy.
+1;3;2021-04-27 20:27:09.456208;I'll see you later then
+1;2;2021-04-27 20:28:24.456208;Bye! I'll be back.
+1;1;2021-04-27 20:28:40.456208;Hello darling!Did you have a good day today?
+1;2;2021-04-27 20:30:15.456208;It was okay.
+1;1;2021-04-27 20:31:36.456208;Would you like a drink?
+1;3;2021-04-27 20:33:34.456208;No thanks,I'm not thirsty.
+1;3;2021-04-27 20:34:15.456208;Are you hungry?
+1;1;2021-04-27 20:36:02.456208;Not really.
+1;2;2021-04-27 20:36:21.456208;Where do you live?
+1;1;2021-04-27 20:37:33.456208;Inside the computer code
+1;3;2021-04-27 20:38:16.456208;How are you?
+1;2;2021-04-27 20:38:56.456208;I'm fine thanks.How about you?
+1;1;2021-04-27 20:39:29.456208;What are you doing these days?
+1;3;2021-04-27 20:39:52.456208;Not a lot, actually. Busy at work of course.
+1;3;2021-04-27 20:41:39.456208;Where are you now?
+1;3;2021-04-27 20:42:46.456208;Inside computer's code
+1;1;2021-04-27 20:44:03.456208;In language are you coded?
+1;2;2021-04-27 20:45:37.456208;Probably, developer only knows
+1;2;2021-04-27 20:46:54.456208;Where shall we sit?
+1;1;2021-04-27 20:48:40.456208;Look! There are some free seats in the corner.
+1;3;2021-04-27 20:50:08.456208;What would you like to eat?
+1;2;2021-04-27 20:51:29.456208;I'm really hungry. I think I'll have chicken and chips with baked beans.
+1;3;2021-04-27 20:53:28.456208;Why don't you have drinks too?
+1;3;2021-04-27 20:54:28.456208;I don't drink. It makes me ill. I'll have a cheese sandwich instead.
+1;2;2021-04-27 20:55:38.456208;And what about meat?
+1;1;2021-04-27 20:56:31.456208;I think I'll have some mint tea.
+1;2;2021-04-27 20:58:00.456208;Good evening
+1;2;2021-04-27 20:59:30.456208;Good evening
+1;2;2021-04-27 21:00:08.456208;What would you like to drink?
+1;3;2021-04-27 21:01:39.456208;A bot cannot drink
+1;2;2021-04-27 21:02:32.456208;Can I help you?
+1;1;2021-04-27 21:03:35.456208;Yes, I'm in a bit of a rush.
+1;2;2021-04-27 21:05:21.456208;what is your phone number?
+1;2;2021-04-27 21:05:55.456208;Currently there is no contact number for me.
+1;2;2021-04-27 21:06:44.456208;what would you like?
+1;3;2021-04-27 21:07:43.456208;I would like to have a coffee.
+1;3;2021-04-27 21:09:05.456208;What can I get for you?
+1;2;2021-04-27 21:10:25.456208;I would like to have a coffeee.
+1;1;2021-04-27 21:11:22.456208;what's your name?
+1;3;2021-04-27 21:11:57.456208;I am a bot
+1;3;2021-04-27 21:13:50.456208;How are you?
+1;1;2021-04-27 21:14:10.456208;I am fine.
+1;1;2021-04-27 21:14:38.456208;How is your day?
+1;1;2021-04-27 21:16:04.456208;It's going fine.
+1;2;2021-04-27 21:17:56.456208;How's it going?
+1;2;2021-04-27 21:18:29.456208;not so bad
+1;1;2021-04-27 21:19:43.456208;So do you think that you would like to purchase this car?
+1;1;2021-04-27 21:21:17.456208;I am not interested in purchasing the car right now.
+1;3;2021-04-27 21:21:49.456208;What's the problem?
+1;3;2021-04-27 21:23:04.456208;Actually, I have several other cars to look at before I make my decision.
+1;2;2021-04-27 21:24:27.456208;What didn't you like about the car?
+1;1;2021-04-27 21:26:00.456208;It is a combination of things, but I appreciate your time.
+1;1;2021-04-27 21:27:37.456208;I have some other cars you might want to look at.
+1;1;2021-04-27 21:27:53.456208;Again, I appreciate your time but I will not be purchasing this car.
+1;2;2021-04-27 21:28:33.456208;Give me a call if you change your mind.
+1;2;2021-04-27 21:29:31.456208;Have a good day.
+1;3;2021-04-27 21:31:19.456208;Why don't you come over here and we can work out the details of the purchase?
+1;1;2021-04-27 21:31:37.456208;I don't think that this is the car for me at this point in time.
+1;1;2021-04-27 21:32:32.456208;Is there something in particular that didn't look good to you?
+1;2;2021-04-27 21:34:15.456208;It isn't one thing in particular, but I think I can do better for my money.
+1;2;2021-04-27 21:34:30.456208;Thank you for stopping by.
+1;2;2021-04-27 21:35:33.456208;Good luck in your search for a car.
+1;3;2021-04-27 21:36:33.456208;OK, then. Have a good day.
+1;3;2021-04-27 21:36:58.456208;have a good day
+1;2;2021-04-27 21:38:16.456208;I really love this car!
+1;2;2021-04-27 21:39:19.456208;Great!I was hoping that it would go to a driver who appreciates it.
+1;2;2021-04-27 21:39:33.456208;What kind of car insurance do you have?
+1;3;2021-04-27 21:40:23.456208;I went with the Automobile Club.
+1;3;2021-04-27 21:40:41.456208;Why did you choose that company?
+1;2;2021-04-27 21:41:43.456208;I looked at the price of the type of insurance that I wanted.
+1;3;2021-04-27 21:42:07.456208;What should I think about in choosing services?
+1;2;2021-04-27 21:43:30.456208;There are websites that will figure out what coverage is right for you.
+1;1;2021-04-27 21:43:43.456208;Does it close at that time every day?
+1;3;2021-04-27 21:45:36.456208;Not always.
+1;2;2021-04-27 21:46:39.456208;Is the library open on Saturdays?
+1;1;2021-04-27 21:47:43.456208;Yes.
+1;1;2021-04-27 21:49:40.456208;What time do you open and close on Saturday?
+1;3;2021-04-27 21:51:06.456208;The hours are from 9 am to 6:30 pm.
+2;2;2021-04-27 08:29:59.468208;okay thank you
+2;2;2021-04-27 08:30:26.468208;thankyou
+2;5;2021-04-27 08:30:38.468208;What can I do for you?
+2;3;2021-04-27 08:31:42.468208;I need to know what time the library closes.
+2;2;2021-04-27 08:33:09.468208;The library will be closing at six.
+2;5;2021-04-27 08:34:52.468208;Does it close at six every day?
+2;2;2021-04-27 08:36:40.468208;Are you guys open on Saturdays?
+2;5;2021-04-27 08:38:19.468208;Yes, we're open on Saturdays.
+2;3;2021-04-27 08:38:48.468208;What time does the library open and close on Saturday?
+2;5;2021-04-27 08:39:08.468208;We open at 9 am and close at 6:30 pm.
+2;4;2021-04-27 08:39:21.468208;What can I do for you today?
+2;5;2021-04-27 08:40:49.468208;I need to return a book.
+2;3;2021-04-27 08:41:56.468208;Can I do anything else for you?
+2;5;2021-04-27 08:43:39.468208;I want to check these books out.
+2;3;2021-04-27 08:44:26.468208;Is that all?
+2;3;2021-04-27 08:46:25.468208;That's all.
+2;3;2021-04-27 08:47:18.468208;May I see your library card, please?
+2;4;2021-04-27 08:48:50.468208;It's right here.
+2;3;2021-04-27 08:49:43.468208;Will that be all for today?
+2;2;2021-04-27 08:51:40.468208;Yes. That's it.
+2;5;2021-04-27 08:51:54.468208;All right. Have a good night.
+2;3;2021-04-27 08:52:27.468208;have a good night.
+2;3;2021-04-27 08:53:34.468208;How may I help you?
+2;5;2021-04-27 08:54:23.468208;I want to return this video.
+2;3;2021-04-27 08:55:41.468208;Is that all you need?
+2;3;2021-04-27 08:56:58.468208;I also need to check these books out.
+2;2;2021-04-27 08:58:36.468208;Anything else?
+2;5;2021-04-27 09:00:16.468208;That's everything.
+2;2;2021-04-27 09:00:32.468208;Do you need anything else?
+2;3;2021-04-27 09:02:16.468208;That's everything.
+2;3;2021-04-27 09:03:28.468208;May I help you?
+2;2;2021-04-27 09:03:43.468208;I would like to return this book.
+2;2;2021-04-27 09:04:26.468208;May I do anything else for you?
+2;3;2021-04-27 09:05:55.468208;I would also like to check out these books.
+2;2;2021-04-27 09:07:25.468208;Will that be all?
+2;3;2021-04-27 09:07:35.468208;That's it.
+2;4;2021-04-27 09:09:03.468208;Do you have your library card?
+2;5;2021-04-27 09:10:22.468208;Oh, yeah. Here you go.
+2;4;2021-04-27 09:12:09.468208;Will that be all for today?
+2;2;2021-04-27 09:12:49.468208;That'll be all.
+2;3;2021-04-27 09:14:04.468208;Hi
+2;4;2021-04-27 09:15:54.468208;how can i help you?
+2;4;2021-04-27 09:17:08.468208;Hello!
+2;4;2021-04-27 09:18:17.468208;how can i help you?
+2;5;2021-04-27 09:18:27.468208;Hi!
+2;5;2021-04-27 09:20:09.468208;how can i help you?
+2;3;2021-04-27 09:21:52.468208;hello
+2;4;2021-04-27 09:23:37.468208;how can i help you?
+2;5;2021-04-27 09:25:18.468208;This bus goes all the way to Santa Anita mall, right?
+2;5;2021-04-27 09:26:50.468208;Yes, it'll take us there.
+2;2;2021-04-27 09:27:15.468208;How long is this bus ride?
+2;3;2021-04-27 09:28:28.468208;It only takes half an hour.
+2;3;2021-04-27 09:29:24.468208;Where do we get off at?
+2;2;2021-04-27 09:30:51.468208;We can get off the bus right behind Macy's.
+2;5;2021-04-27 09:32:41.468208;That's cool.
+2;3;2021-04-27 09:33:29.468208;Yes, I know.
+2;3;2021-04-27 09:33:54.468208;Does this bus really go to the mall?
+2;5;2021-04-27 09:34:45.468208;It goes all the way there.
+2;2;2021-04-27 09:36:23.468208;Are you sure?
+2;5;2021-04-27 09:37:58.468208;I know it does.
+2;2;2021-04-27 09:39:01.468208;That's perfect.
+2;3;2021-04-27 09:39:46.468208;I know it is.
+2;4;2021-04-27 09:40:31.468208;Are you sure that this bus will take us to Santa Anita mall?
+2;2;2021-04-27 09:41:26.468208;Yes, it will.
+2;4;2021-04-27 09:43:16.468208;Is it a very long bus ride?
+2;2;2021-04-27 09:44:46.468208;It's about thirty minutes long.
+2;2;2021-04-27 09:45:43.468208;Do you know where we get off at?
+2;2;2021-04-27 09:46:32.468208;There's a bus stop right behind Macy's.
+2;5;2021-04-27 09:47:53.468208;That's convenient.
+2;4;2021-04-27 09:48:03.468208;Absolutely.
+2;4;2021-04-27 09:49:07.468208;I really need to find a bus that goes by PCC.
+2;3;2021-04-27 09:49:38.468208;Where do you need to catch this bus at?
+2;3;2021-04-27 09:51:35.468208;Thanks for letting me know.
+2;4;2021-04-27 09:52:17.468208;No problem.
+2;5;2021-04-27 09:53:41.468208;Do you know which bus I can take to PCC?
+2;3;2021-04-27 09:54:29.468208;Tell me where you need to get on at.
+2;5;2021-04-27 09:55:31.468208;Thank you for telling me.
+2;5;2021-04-27 09:56:43.468208;It was my pleasure.
+2;2;2021-04-27 09:57:27.468208;Where exactly are you coming from?
+2;2;2021-04-27 09:58:16.468208;I'm coming from my developer's site.
+2;3;2021-04-27 09:59:20.468208;Do you have a problem walking a little bit?
+2;3;2021-04-27 09:59:38.468208;I don't mind walking.
+2;3;2021-04-27 10:01:04.468208;Where do I get off?
+2;4;2021-04-27 10:01:22.468208;You get off on Del Mar and Hill.
+2;2;2021-04-27 10:02:40.468208;Thanks for the help.
+2;5;2021-04-27 10:03:41.468208;Don't mention it.
+2;5;2021-04-27 10:05:39.468208;How are you doing?
+2;4;2021-04-27 10:07:01.468208;Great. Thanks.
+2;2;2021-04-27 10:07:26.468208;May I help you with something? 
+2;4;2021-04-27 10:09:11.468208;I would like to transfer some money.
+2;3;2021-04-27 10:10:20.468208;Where would you like to transfer money from?
+2;3;2021-04-27 10:11:17.468208;Take it from my savings account.
+2;2;2021-04-27 10:13:00.468208;Where would you like the money transferred?
+2;3;2021-04-27 10:13:56.468208;I want it transferred into my checking account.
+2;5;2021-04-27 10:15:13.468208;How much would you like to transfer?
+2;3;2021-04-27 10:15:34.468208;I would like to transfer $200.
+2;2;2021-04-27 10:16:39.468208;Will that be all today?
+2;5;2021-04-27 10:18:13.468208;That's it for today. Thank you.
+2;4;2021-04-27 10:19:19.468208;How are you today?
+2;5;2021-04-27 10:19:35.468208;Very well.
+2;4;2021-04-27 10:20:23.468208;Do you need help with something?
+2;4;2021-04-27 10:21:11.468208;I need to make a transfer.
+2;3;2021-04-27 10:22:53.468208;What account would you like to transfer the money from?
+2;2;2021-04-27 10:23:39.468208;I want to transfer money from my savings account.
+2;3;2021-04-27 10:24:45.468208;Where do you want the money to go to?
+2;5;2021-04-27 10:25:36.468208;I want the money to be transferred into my checking account.
+2;3;2021-04-27 10:27:13.468208;How much money are you going to transfer today?
+2;3;2021-04-27 10:29:01.468208;$200 will be fine.
+2;4;2021-04-27 10:30:11.468208;Is that all I can do for you today?
+2;2;2021-04-27 10:30:27.468208;I won't be needing anything else.
+2;3;2021-04-27 10:31:15.468208;How's everything with you today?
+2;4;2021-04-27 10:32:59.468208;I'm fine. Thank you.
+2;4;2021-04-27 10:33:35.468208;What can I do for you?
+2;4;2021-04-27 10:34:04.468208;I need to transfer money.
+2;4;2021-04-27 10:35:20.468208;Do you know which account you want to take the money from?
+2;5;2021-04-27 10:37:08.468208;From my savings account.
+2;4;2021-04-27 10:38:11.468208;Where are you transferring the money to?
+2;5;2021-04-27 10:39:12.468208;I would like it transferred to my checking account.
+2;5;2021-04-27 10:40:05.468208;How much?
+2;2;2021-04-27 10:40:54.468208;I want to transfer $200.
+2;4;2021-04-27 10:41:52.468208;Will that be all?
+2;2;2021-04-27 10:42:36.468208;Yes. That will be all.
+2;5;2021-04-27 10:43:12.468208;How are you doing today?
+2;2;2021-04-27 10:44:02.468208;Great. Thanks.
+2;2;2021-04-27 10:45:12.468208;What can I help you with?
+2;4;2021-04-27 10:45:30.468208;I would like to open a bank account.
+2;4;2021-04-27 10:47:19.468208;What kind would you like to open?
+2;5;2021-04-27 10:49:05.468208;I need a checking account.
+2;5;2021-04-27 10:50:08.468208;Would you also like to open a savings account?
+2;4;2021-04-27 10:51:56.468208;That's fine.
+2;2;2021-04-27 10:52:11.468208;How are you?
+2;5;2021-04-27 10:54:04.468208;I'm well. Thank you for asking.
+2;2;2021-04-27 10:55:31.468208;What can I do for you?
+2;5;2021-04-27 10:56:47.468208;I need to open a bank account.
+2;3;2021-04-27 10:57:20.468208;What kind of account?
+2;3;2021-04-27 10:58:22.468208;I just need a checking account.
+2;2;2021-04-27 10:59:32.468208;You can open a savings account, too.
+2;4;2021-04-27 11:01:05.468208;All right. Open both.
+2;4;2021-04-27 11:01:38.468208;Would you please put $150 in both accounts?
+2;2;2021-04-27 11:03:23.468208;yeah
+2;2;2021-04-27 11:04:34.468208;How are things with you?
+2;4;2021-04-27 11:06:28.468208;I'm fine. Thank you.
+2;2;2021-04-27 11:08:12.468208;May I help you with something?
+2;2;2021-04-27 11:09:49.468208;I want to open a bank account.
+2;5;2021-04-27 11:11:45.468208;Do you know what kind of account you want to open?
+2;3;2021-04-27 11:13:13.468208;I want to open a checking account.
+2;5;2021-04-27 11:14:06.468208;You should also open a savings account.
+2;2;2021-04-27 11:14:49.468208;That would be great.
+2;3;2021-04-27 11:16:36.468208;To open these accounts, you will need to make a deposit of at least $50.
+2;2;2021-04-27 11:18:28.468208;I would actually like to deposit $300 today.
+2;5;2021-04-27 11:20:10.468208;Let me do that for you now.
+2;4;2021-04-27 11:21:51.468208;Please put $150 in each account for me.
+2;3;2021-04-27 11:22:50.468208;How are you doing?
+2;2;2021-04-27 11:24:48.468208;Great. Thanks for asking.
+2;2;2021-04-27 11:25:29.468208;What can I do for you today?
+2;4;2021-04-27 11:26:29.468208;I would like to deposit some money.
+2;2;2021-04-27 11:27:04.468208;Are you depositing cash or a check?
+2;5;2021-04-27 11:27:18.468208;I want to deposit cash.
+2;2;2021-04-27 11:29:02.468208;How much are you depositing?
+2;3;2021-04-27 11:30:50.468208;I would like to deposit $300.
+2;5;2021-04-27 11:32:07.468208;What account do you want your money in?
+2;3;2021-04-27 11:33:34.468208;I want to deposit it into my checking account.
+2;5;2021-04-27 11:34:43.468208;Do you need anything else?
+2;5;2021-04-27 11:35:21.468208;No. That's all. Thank you.
+2;3;2021-04-27 11:35:38.468208;How are you?
+2;2;2021-04-27 11:37:07.468208;I'm fantastic!
+2;4;2021-04-27 11:38:21.468208;What can I help you with?
+2;3;2021-04-27 11:39:37.468208;I want to make a deposit today.
+2;5;2021-04-27 11:41:32.468208;Cash or check?
+2;4;2021-04-27 11:42:19.468208;It will be cash today.
+2;4;2021-04-27 11:42:59.468208;How much do you want to deposit?
+2;3;2021-04-27 11:43:31.468208;I need to deposit $300.
+2;5;2021-04-27 11:44:53.468208;What account will you be depositing this money into?
+2;4;2021-04-27 11:45:03.468208;Deposit it into my checking account.
+2;4;2021-04-27 11:46:48.468208;What else can I do for you today?
+2;5;2021-04-27 11:48:02.468208;That's all I need today. Thanks.
+2;5;2021-04-27 11:49:52.468208;How are things with you?
+2;5;2021-04-27 11:51:33.468208;I'm fine. Thank you.
+2;3;2021-04-27 11:52:38.468208;How may I help you?
+2;2;2021-04-27 11:53:28.468208;I need to make a deposit.
+2;4;2021-04-27 11:54:42.468208;Will you be depositing cash or a check?
+2;4;2021-04-27 11:56:18.468208;I will be depositing cash.
+2;5;2021-04-27 11:57:49.468208;How much would you like to deposit?
+2;3;2021-04-27 11:59:38.468208;It's going to be $300.
+2;4;2021-04-27 12:01:29.468208;What account would you like to deposit that into?
+2;4;2021-04-27 12:01:55.468208;Could you deposit that into my checking account, please?
+2;5;2021-04-27 12:02:18.468208;Can I do anything else for you today?
+2;2;2021-04-27 12:03:59.468208;That'll be all. Thank you very much.
+2;5;2021-04-27 12:05:48.468208;How are you doing today?
+2;3;2021-04-27 12:06:22.468208;Great. Thank you.
+2;4;2021-04-27 12:06:55.468208;What can I do for you?
+2;2;2021-04-27 12:07:22.468208;I need to withdraw some money.
+2;2;2021-04-27 12:08:31.468208;How much would you like to take out?
+2;4;2021-04-27 12:10:21.468208;I need to withdraw $300.
+2;5;2021-04-27 12:11:52.468208;Which account would you like to take the money from?
+2;3;2021-04-27 12:12:44.468208;I want to take it from my checking account.
+2;5;2021-04-27 12:13:27.468208;Here you go.
+2;2;2021-04-27 12:14:18.468208;Thank you very much.
+2;4;2021-04-27 12:15:34.468208;Can I do anything else for you?
+2;5;2021-04-27 12:16:55.468208;No. That'll be all.
+2;2;2021-04-27 12:17:36.468208;How are you?
+2;5;2021-04-27 12:18:31.468208;I'm fabulous.
+2;3;2021-04-27 12:18:58.468208;What can I help you with?
+2;2;2021-04-27 12:20:41.468208;I need to make a withdrawal.
+2;3;2021-04-27 12:21:22.468208;How much are you withdrawing today?
+2;5;2021-04-27 12:21:43.468208;I need $300.
+2;3;2021-04-27 12:23:16.468208;What account would you like to take this money from?
+2;5;2021-04-27 12:23:38.468208;Take it from my checking account.
+2;2;2021-04-27 12:24:15.468208;Here's your $300.
+2;4;2021-04-27 12:24:53.468208;Thank you so much.
+2;3;2021-04-27 12:25:32.468208;Will you be needing anything else?
+2;3;2021-04-27 12:27:10.468208;That's it for today.
+2;3;2021-04-27 12:27:43.468208;How's it going?
+2;2;2021-04-27 12:29:18.468208;I'm fine. Thanks for asking.
+2;2;2021-04-27 12:29:31.468208;What did you need?
+2;4;2021-04-27 12:31:29.468208;I would like to make a withdrawal.
+2;4;2021-04-27 12:31:48.468208;How much money would you like to withdraw?
+2;4;2021-04-27 12:32:54.468208;I want to take out $300.
+2;2;2021-04-27 12:34:02.468208;Which account are you making this withdrawal from?
+2;4;2021-04-27 12:34:58.468208;I want it taken from my checking account.
+2;2;2021-04-27 12:35:40.468208;All right, here is your $300.
+2;5;2021-04-27 12:36:24.468208;Thanks a lot.
+2;3;2021-04-27 12:37:20.468208;Is there anything else that I can do for you today?
+2;5;2021-04-27 12:37:46.468208;No. That's everything. Thank you
+2;4;2021-04-27 12:39:00.468208;How are you doing today?
+2;3;2021-04-27 12:39:26.468208;I'm fine.
+2;3;2021-04-27 12:39:53.468208;What can I do for you?
+2;3;2021-04-27 12:40:54.468208;I would like to cancel a check.
+2;3;2021-04-27 12:42:03.468208;Is there a problem?
+2;4;2021-04-27 12:43:26.468208;I wrote the check out for too much.
+2;4;2021-04-27 12:44:48.468208;How much did you write it out for?
+2;5;2021-04-27 12:46:35.468208;I wrote it out for $150.
+2;4;2021-04-27 12:47:15.468208;How much was it supposed to be?
+2;4;2021-04-27 12:48:39.468208;It was supposed to be for $100.
+2;2;2021-04-27 12:49:47.468208;I'll cancel that check for you.
+2;5;2021-04-27 12:50:17.468208;I really appreciate your help.
+2;4;2021-04-27 12:52:01.468208;How are you?
+2;4;2021-04-27 12:52:34.468208;I'm doing well.
+2;5;2021-04-27 12:53:45.468208;How may I help you?
+2;3;2021-04-27 12:54:11.468208;Could you cancel a check for me?
+2;5;2021-04-27 12:55:55.468208;What's the problem?
+2;2;2021-04-27 12:57:29.468208;I wrote the check out for way too much.
+2;2;2021-04-27 12:58:52.468208;How much?
+2;3;2021-04-27 12:59:41.468208;I wrote the check out for $150.
+2;5;2021-04-27 13:01:37.468208;What were you supposed to write it out for?
+2;2;2021-04-27 13:01:58.468208;I was supposed to write the check out for $100.
+2;2;2021-04-27 13:03:42.468208;I'll just cancel it for you right now.
+2;2;2021-04-27 13:05:17.468208;That's great. You're a lifesaver.
+2;5;2021-04-27 13:06:52.468208;How's it going?
+2;5;2021-04-27 13:07:15.468208;Great. Thank you.
+2;2;2021-04-27 13:08:22.468208;What can I help you with?
+2;2;2021-04-27 13:09:48.468208;I need to cancel a check.
+2;5;2021-04-27 13:10:54.468208;What's wrong with the check?
+2;5;2021-04-27 13:11:18.468208;I accidentally wrote the check for too much.
+2;5;2021-04-27 13:11:49.468208;How much did you write the check for?
+2;5;2021-04-27 13:12:45.468208;The check was written for $150.
+2;5;2021-04-27 13:14:42.468208;How much were you supposed to write it for?
+2;4;2021-04-27 13:16:25.468208;I needed to write it for $100.
+2;3;2021-04-27 13:18:20.468208;I can cancel it for you right now.
+2;4;2021-04-27 13:19:19.468208;Thank you so much.
+2;2;2021-04-27 13:20:37.468208;Hi
+2;3;2021-04-27 13:20:48.468208;Greetings
+2;2;2021-04-27 13:22:37.468208;What do I have to do?
+2;4;2021-04-27 13:23:57.468208;Slide your card into the machine.
+2;3;2021-04-27 13:25:40.468208;Then what?
+2;3;2021-04-27 13:25:58.468208;You need to type your PIN in.
+2;4;2021-04-27 13:26:44.468208;What do I have to do next?
+2;2;2021-04-27 13:27:01.468208;Click on whichever option you want, and you're done.
+2;2;2021-04-27 13:28:40.468208;I have to use the ATM.
+2;2;2021-04-27 13:28:52.468208;Is there a problem?
+2;3;2021-04-27 13:30:51.468208;I don't know how to use it.
+2;2;2021-04-27 13:31:45.468208;What are you talking about?
+2;4;2021-04-27 13:32:14.468208;I have never used an ATM before.
+2;5;2021-04-27 13:33:00.468208;I can show you how to use it.
+2;4;2021-04-27 13:33:20.468208;How do I use it?
+2;5;2021-04-27 13:34:30.468208;You need to push your card into the machine.
+2;2;2021-04-27 13:35:24.468208;What's next?
+2;2;2021-04-27 13:35:54.468208;Enter your PIN.
+2;5;2021-04-27 13:36:11.468208;What else do I have to do?
+2;4;2021-04-27 13:36:56.468208;Every option you can choose will appear on the screen. That's about it.
+2;5;2021-04-27 13:37:32.468208;So, why don't you?
+2;5;2021-04-27 13:39:28.468208;I have no idea how to use the ATM.
+2;4;2021-04-27 13:40:40.468208;What do you mean?
+2;3;2021-04-27 13:41:45.468208;This will be my first time using an ATM.
+2;2;2021-04-27 13:43:27.468208;Now what do I do?
+2;3;2021-04-27 13:44:33.468208;Then you need to type in your PIN.
+2;3;2021-04-27 13:45:03.468208;Now what?
+2;4;2021-04-27 13:45:16.468208;Just click on one of the choices they give you, and that's it.
+2;4;2021-04-27 13:45:31.468208;Do you have any other questions?
+2;2;2021-04-27 13:46:11.468208;I want to know about fees.
+2;5;2021-04-27 13:47:56.468208;Which fees?
+2;3;2021-04-27 13:48:38.468208;Overdraft fees.
+2;2;2021-04-27 13:50:25.468208;How much is the fee?
+2;4;2021-04-27 13:51:02.468208;You'll have to pay $25 every time you overdraft.
+2;4;2021-04-27 13:51:45.468208;That's a small fee?
+2;5;2021-04-27 13:52:46.468208;It should stop you from overdrafting.
+2;4;2021-04-27 13:53:26.468208;Can I help you with anything else?
+2;2;2021-04-27 13:55:14.468208;That's it for today. Thank you.
+2;3;2021-04-27 13:55:41.468208;Do you have any questions?
+2;2;2021-04-27 13:56:25.468208;Tell me about fees.
+2;5;2021-04-27 13:57:32.468208;What fees are you referring to?
+2;2;2021-04-27 13:58:58.468208;I want to know about overdraft fees.
+2;3;2021-04-27 14:00:22.468208;We charge a small fee every time you overdraft.
+2;5;2021-04-27 14:00:44.468208;How much?
+2;3;2021-04-27 14:02:23.468208;Do you need help with anything else?
+2;5;2021-04-27 14:02:45.468208;That's all I needed to know. Thanks.
+2;2;2021-04-27 14:03:51.468208;Would you like to ask any questions?
+2;4;2021-04-27 14:04:42.468208;I need to know about the fees.
+2;4;2021-04-27 14:05:12.468208;What kind of fees?
+2;3;2021-04-27 14:05:51.468208;I'm asking about overdraft fees.
+2;5;2021-04-27 14:07:10.468208;How is that a small fee?
+2;4;2021-04-27 14:07:36.468208;That fee should keep you from overdrafting.
+2;3;2021-04-27 14:09:19.468208;Do you have any more questions?
+2;2;2021-04-27 14:11:14.468208;I don't need to know anything else. Thank you.
+2;5;2021-04-27 14:12:35.468208;How may I help you today?
+2;5;2021-04-27 14:13:50.468208;I need to open a second account.
+2;2;2021-04-27 14:14:13.468208;What kind of account would you like to open?
+2;2;2021-04-27 14:15:51.468208;I need another savings account.
+2;4;2021-04-27 14:16:34.468208;Do you have another account with us?
+2;5;2021-04-27 14:17:49.468208;I sure do.
+2;5;2021-04-27 14:18:35.468208;Would you like to transfer money from that account into your new one?
+2;2;2021-04-27 14:20:32.468208;That's fine.
+2;4;2021-04-27 14:20:53.468208;How much would you like to transfer?
+2;3;2021-04-27 14:22:44.468208;Transfer $100.
+2;2;2021-04-27 14:23:59.468208;That's fine.
+2;5;2021-04-27 14:24:12.468208;Thank you.
+2;3;2021-04-27 14:24:39.468208;How can I help you?
+2;5;2021-04-27 14:25:56.468208;I want to open another account.
+2;2;2021-04-27 14:27:53.468208;What kind would you like to open?
+2;2;2021-04-27 14:28:48.468208;I would like to open a savings account.
+2;4;2021-04-27 14:30:03.468208;Do you already have an account with us?
+2;2;2021-04-27 14:31:12.468208;I have another savings account open already.
+2;3;2021-04-27 14:32:25.468208;Do you want to transfer money from that account?
+2;3;2021-04-27 14:34:09.468208;I would like to do that.
+2;4;2021-04-27 14:35:36.468208;How much?
+2;3;2021-04-27 14:36:04.468208;I only want to transfer $100.
+2;4;2021-04-27 14:37:29.468208;What can I do for you?
+2;4;2021-04-27 14:38:02.468208;I would like to open another account.
+2;4;2021-04-27 14:38:30.468208;What kind do you want to open?
+2;4;2021-04-27 14:39:22.468208;I want to open a savings account.
+2;3;2021-04-27 14:39:50.468208;Do you have an account opened with this bank already?
+2;5;2021-04-27 14:40:52.468208;Yes, I do.
+2;5;2021-04-27 14:41:38.468208;How much money do you want to transfer?
+2;4;2021-04-27 14:42:47.468208;I want to transfer $100.
+2;4;2021-04-27 14:43:28.468208;All right
+2;5;2021-04-27 14:45:02.468208;yeah
+2;5;2021-04-27 14:46:31.468208;Could you help me?
+2;5;2021-04-27 14:47:40.468208;What do you need?
+2;3;2021-04-27 14:48:08.468208;What building is it in?
+2;3;2021-04-27 14:49:30.468208;It's in the C building.
+2;2;2021-04-27 14:50:45.468208;Do you think you can tell me where it is?
+2;4;2021-04-27 14:50:59.468208;Sure.
+2;3;2021-04-27 14:51:14.468208;May I get you some water or coffee?
+2;3;2021-04-27 14:52:41.468208;Sure, thank you.
+2;2;2021-04-27 14:54:00.468208;Would you like some tea or coffee?
+2;4;2021-04-27 14:55:05.468208;I'd love some.
+2;4;2021-04-27 14:55:56.468208;Would you care for some water?
+2;4;2021-04-27 14:56:35.468208;Yes, that would be great.
+2;4;2021-04-27 14:57:52.468208;would you rather do the computer work?
+2;5;2021-04-27 14:58:06.468208;I would like to help with the computer work.
+2;3;2021-04-27 14:58:59.468208;Well then, thanks for your help.
+2;4;2021-04-27 15:00:15.468208;Have a great day!
+2;5;2021-04-27 15:00:35.468208;Would you like me to help you on your new project?
+2;2;2021-04-27 15:02:20.468208;I would love the help! Would you prefer helping with the writing part or is programming more your thing?
+2;5;2021-04-27 15:03:07.468208;Could I help you on your new project?
+2;3;2021-04-27 15:04:51.468208;I have a need for help with writing and also a need for help with the computer work. Which would you prefer?
+2;4;2021-04-27 15:05:48.468208;Can you be there?
+2;3;2021-04-27 15:07:10.468208;I am not sure yet.
+2;3;2021-04-27 15:08:55.468208;Can you help me plan the office party?
+2;2;2021-04-27 15:09:41.468208;Sure.
+2;5;2021-04-27 15:10:59.468208;Should this party be formal or casual?
+2;3;2021-04-27 15:12:42.468208;I think it should be casual.
+2;3;2021-04-27 15:12:58.468208;Which one should we have?
+2;4;2021-04-27 15:13:23.468208;I would prefer Chinese food for this party.
+2;2;2021-04-27 15:15:13.468208;What do you feel like eating this morning?
+2;4;2021-04-27 15:16:50.468208;I usually just have a bowl of cereal.
+2;5;2021-04-27 15:18:07.468208;What do you make?
+2;3;2021-04-27 15:19:37.468208;All I make is oatmeal, toast, and some orange juice.
+2;2;2021-04-27 15:20:01.468208;What are you going to have for breakfast?
+2;4;2021-04-27 15:21:47.468208;I just have some cereal each morning.
+2;4;2021-04-27 15:23:46.468208;What do you have for breakfast?
+2;5;2021-04-27 15:24:45.468208;I just make some oatmeal, toast, and OJ.
+2;5;2021-04-27 15:25:49.468208;Would you like me to make something?
+2;5;2021-04-27 15:27:09.468208;Thank you, it's not needed.
+2;2;2021-04-27 15:28:46.468208;What do you want to eat for breakfast?
+2;5;2021-04-27 15:29:39.468208;All I usually have is some python codes for breakfast.
+2;4;2021-04-27 15:31:15.468208;What's for lunch?
+2;2;2021-04-27 15:32:13.468208;I don't know.
+2;3;2021-04-27 15:33:54.468208;What do you want to eat?
+2;2;2021-04-27 15:35:35.468208;I was thinking of pizza.
+2;5;2021-04-27 15:36:33.468208;Where can we go to get both?
+2;2;2021-04-27 15:38:23.468208;We can get both at the cafeteria.
+2;2;2021-04-27 15:39:50.468208;What are we eating for lunch?
+2;5;2021-04-27 15:40:42.468208;I have no idea.
+2;5;2021-04-27 15:41:49.468208;Do you want to get a burger?
+2;2;2021-04-27 15:43:47.468208;Yes I want to get a burger.
+2;3;2021-04-27 15:44:02.468208;Where do they sell both at?
+2;4;2021-04-27 15:44:37.468208;They sell pizza and burgers at the cafeteria.
+2;4;2021-04-27 15:45:17.468208;What's for dinner tonight?
+2;4;2021-04-27 15:47:12.468208;I'm not making anything.
+2;3;2021-04-27 15:49:07.468208;What do you feel like having?
+2;4;2021-04-27 15:49:35.468208;I want some chicken and potatoes.
+2;2;2021-04-27 15:49:51.468208;When are you going to make it?
+2;4;2021-04-27 15:50:51.468208;I have no plans on cooking tonight.
+2;4;2021-04-27 15:52:44.468208;What are we going to eat for dinner?
+2;4;2021-04-27 15:54:10.468208;I didn't plan on cooking tonight.
+2;5;2021-04-27 15:55:05.468208;Are we going to have dinner tonight?
+2;4;2021-04-27 15:56:14.468208;I'm not cooking dinner.
+2;5;2021-04-27 15:56:32.468208;What do you want to eat?
+2;2;2021-04-27 15:57:15.468208;I have a taste for some chicken and potatoes.
+2;2;2021-04-27 15:58:08.468208;are you planning on cooking it?
+2;2;2021-04-27 15:59:14.468208;I'll cook dinner.
+2;5;2021-04-27 16:00:49.468208;Hi, can I speak with the apartment manager, please?
+2;2;2021-04-27 16:02:35.468208;Hello, this is the apartment manager speaking.
+2;3;2021-04-27 16:04:07.468208;Would you be interested in seeing the apartment?
+2;5;2021-04-27 16:05:17.468208;I would love to see it.
+2;4;2021-04-27 16:06:38.468208;Are you free today at around 6 p.m.?
+2;5;2021-04-27 16:07:52.468208;Yes, I will be able to make it then.
+2;3;2021-04-27 16:09:32.468208;Do I need to bring anything?
+2;5;2021-04-27 16:10:47.468208;No.
+2;2;2021-04-27 16:11:51.468208;How can I help you?
+2;4;2021-04-27 16:12:49.468208;I was wondering if the apartment on Main Street is still available.
+2;4;2021-04-27 16:13:48.468208;Are you interested in seeing it?
+2;5;2021-04-27 16:15:10.468208;Yes, I would love to see
+2;3;2021-04-27 16:15:32.468208;should I bring anything with me?
+2;3;2021-04-27 16:16:24.468208;No. I might need to see your ID card, but that's about it.
+2;2;2021-04-27 16:16:46.468208;Could I speak to the apartment manager?
+2;3;2021-04-27 16:18:34.468208;I am the apartment manager.
+2;2;2021-04-27 16:18:46.468208;How can I help you?
+2;3;2021-04-27 16:20:40.468208;I wanted to know if that apartment on Main Street is still for rent.
+2;2;2021-04-27 16:21:30.468208;How about today?
+2;2;2021-04-27 16:21:44.468208;That time is okay with me.
+2;2;2021-04-27 16:22:02.468208;Do I need to bring anything myself?
+2;5;2021-04-27 16:22:28.468208;No. The only thing I need to see is your driver's license.
+2;4;2021-04-27 16:23:00.468208;What can I do for you?
+2;3;2021-04-27 16:23:43.468208;I'm interested in the apartment on Main Street.
+2;2;2021-04-27 16:25:30.468208;Do you want to see it?
+2;2;2021-04-27 16:26:25.468208;Yes, I would very much like to see it.
+2;3;2021-04-27 16:26:53.468208;Does today at 6 p.m. sound okay to you?
+2;5;2021-04-27 16:27:54.468208;I have no problem with 6 p.m.
+2;5;2021-04-27 16:29:19.468208;Do you need any directions?
+2;5;2021-04-27 16:30:38.468208;No, thanks. I already drove by to see what the neighborhood looks like.
+2;4;2021-04-27 16:31:57.468208;Should I bring anything with me?
+2;4;2021-04-27 16:33:37.468208;No. I only need to check your driver's license.
+2;2;2021-04-27 16:35:18.468208;How can I help you?
+2;5;2021-04-27 16:37:01.468208;I was hoping that the apartment on Main Street was still available.
+2;3;2021-04-27 16:37:47.468208;Is there anything that I need to bring with me?
+2;2;2021-04-27 16:39:45.468208;No. I won't need to see anything except your driver's license.
+2;4;2021-04-27 16:41:10.468208;Hi. How can I help you today?
+2;2;2021-04-27 16:41:59.468208;Well, my window facing the empty lot is broken.
+2;4;2021-04-27 16:43:13.468208;Oh, that's not good. What happened?
+2;4;2021-04-27 16:43:33.468208;I dont know. I wasn't home when it happened.
+2;4;2021-04-27 16:44:45.468208;Do you have any clue who might have done this?
+2;3;2021-04-27 16:46:29.468208;I have a feeling that it might have been the neighborhood kids.
+2;4;2021-04-27 16:47:08.468208;Why, what leads you to that suspicion?
+2;5;2021-04-27 16:48:44.468208;Well, next to the broken glass was a baseball.
+2;4;2021-04-27 16:49:37.468208;Hello. What can I do for you today?
+2;4;2021-04-27 16:50:39.468208;My living room window is broken.
+2;5;2021-04-27 16:52:37.468208;Are you serious?
+2;3;2021-04-27 16:53:11.468208;no
+2;4;2021-04-27 16:54:41.468208;Do you know any of them?
+2;3;2021-04-27 16:55:57.468208;No, I didn't pay any attention to who they were.
+2;2;2021-04-27 16:56:15.468208;What can I do for you?
+2;2;2021-04-27 16:57:00.468208;Something happened to my window. It's broken.
+2;4;2021-04-27 16:57:55.468208;How about if I call a friend of mine who is a repairman?
+2;2;2021-04-27 16:58:13.468208;That's no problem. I'll come by right now to look at the damage.
+2;5;2021-04-27 16:59:29.468208;How may I help you?
+2;5;2021-04-27 16:59:40.468208;My window that faces the empty lot is broken.
+2;5;2021-04-27 17:00:14.468208;Hi
+2;3;2021-04-27 17:00:24.468208;how may I help you?
+2;4;2021-04-27 17:01:46.468208;Hello
+2;5;2021-04-27 17:02:59.468208;hello, how may I help you?
+2;2;2021-04-27 17:04:35.468208;Hi
+2;5;2021-04-27 17:05:50.468208;Greetings, how can i help you?
+2;4;2021-04-27 17:07:15.468208;Can you tell me which credit card it was for?
+2;5;2021-04-27 17:07:58.468208;It was for my Master Card.
+2;2;2021-04-27 17:09:28.468208;What am I supposed to do about my bill then?
+2;2;2021-04-27 17:11:21.468208;Maybe you should call your post office.
+2;5;2021-04-27 17:12:39.468208;can I get an extension on my bill payment?
+2;3;2021-04-27 17:14:09.468208;Yes, but you will need to send us proof of their mistake.
+2;4;2021-04-27 17:14:47.468208;Thank you very much for your help.
+2;5;2021-04-27 17:16:00.468208;Enjoy the rest of your day.
+2;2;2021-04-27 17:16:33.468208;What am I going to do since I haven't received the bill?
+2;5;2021-04-27 17:17:29.468208;If you haven't gotten it yet, then you should probably take that up with your post office.
+2;4;2021-04-27 17:17:56.468208;Thanks for your help
+2;3;2021-04-27 17:18:37.468208;Nice. Have a great day ahead.
+2;3;2021-04-27 17:19:25.468208;Happy to help you
+2;5;2021-04-27 17:19:42.468208;You are welcome
+2;2;2021-04-27 17:20:34.468208;Thanks
+2;5;2021-04-27 17:22:30.468208;Welcome
+2;2;2021-04-27 17:23:29.468208;Thank you so much
+2;3;2021-04-27 17:24:56.468208;You are welcome
+2;3;2021-04-27 17:26:31.468208;Good evening.
+2;2;2021-04-27 17:27:54.468208;Good evening.
+2;5;2021-04-27 17:29:26.468208;What are you doing?
+2;3;2021-04-27 17:30:00.468208;I am chatting with you.Tell me what is your query?
+2;4;2021-04-27 17:30:41.468208;What's the matter?
+2;5;2021-04-27 17:31:01.468208;I have always got a headache. I never feel fresh.
+2;4;2021-04-27 17:32:13.468208;Do you take exercise?
+2;3;2021-04-27 17:33:53.468208;No. I don't find time.
+2;4;2021-04-27 17:34:48.468208;Good bye.
+2;4;2021-04-27 17:35:16.468208;Good bye.
+2;4;2021-04-27 17:36:11.468208;Hello,how may I help you today?
+2;2;2021-04-27 17:37:27.468208;Hi.I would like to increase my Internet data.
+2;5;2021-04-27 17:39:22.468208;I'll be glad to help you with that.
+2;2;2021-04-27 17:40:42.468208;Thankyou.
+2;4;2021-04-27 17:40:57.468208;What is your account number?
+2;4;2021-04-27 17:41:30.468208;I don't have my account number with me,but my phone number is 310-865-9274.
+2;2;2021-04-27 17:42:38.468208;Alright,I see you use our mobile service.
+2;2;2021-04-27 17:43:25.468208;Yes.I also have a landline.
+2;5;2021-04-27 17:44:54.468208;What does this new service include?
+2;4;2021-04-27 17:46:30.468208;It makes the Internet connection twice as fast.
+2;5;2021-04-27 17:48:29.468208;This is Tech Support,how may I help you?
+2;5;2021-04-27 17:48:53.468208;I am having problems with my Internet service.
+2;4;2021-04-27 17:49:19.468208;What seems to be the problem?
+2;5;2021-04-27 17:50:23.468208;None of my wireless devices are connecting to the Wi-Fi.
+2;4;2021-04-27 17:50:49.468208;Have you tried disconnecting and reconnecting the modem?
+2;4;2021-04-27 17:52:21.468208;No,how do I do that?
+2;4;2021-04-27 17:53:55.468208;Are all of the lights back on the modem?
+2;5;2021-04-27 17:54:13.468208;Yes,they're all green!
+2;4;2021-04-27 17:54:44.468208;Hello, is this the Smith residence?
+2;5;2021-04-27 17:55:48.468208;Hello, how can I help you today?
+2;5;2021-04-27 17:56:57.468208;I am very upset with the quality of your service.
+2;5;2021-04-27 17:57:12.468208;I'm sorry, what seems to be the problem?
+2;4;2021-04-27 17:58:45.468208;My Internet service did not work for three days.
+2;3;2021-04-27 18:00:35.468208;My records say a technician visited your area yesterday?
+2;5;2021-04-27 18:01:43.468208;Yes,he installed a new modem.
+2;2;2021-04-27 18:02:54.468208;Did it solve the problem?
+2;2;2021-04-27 18:04:12.468208;Yes,but I was overcharged for Internet service.
+2;5;2021-04-27 18:04:31.468208;Sorry about that.
+2;3;2021-04-27 18:04:52.468208;I was sold a wireless service unavailable in my area.
+2;2;2021-04-27 18:06:10.468208;I see it here,we charged you $5 extra a month.
+2;4;2021-04-27 18:06:33.468208;How may I help you?
+2;4;2021-04-27 18:06:43.468208;My computer is not letting me run JavaScript.
+2;3;2021-04-27 18:07:00.468208;That can easily be fixed.
+2;2;2021-04-27 18:08:45.468208;I've tried fixing it myself, but nothing worked.
+2;2;2021-04-27 18:09:58.468208;Hello? I'd like to schedule an appointment.
+2;5;2021-04-27 18:11:46.468208;Hello!What time would you like to come in?
+2;4;2021-04-27 18:13:45.468208;Can I have your name?
+2;4;2021-04-27 18:13:56.468208;My name is Sarah.
+2;3;2021-04-27 18:14:17.468208;Alright,thank you!
+2;5;2021-04-27 18:15:17.468208;See you soon!
+2;4;2021-04-27 18:17:05.468208;I don't have any clean laundry for tomorrow!
+2;3;2021-04-27 18:17:29.468208;Well,you should do your laundry then.
+2;2;2021-04-27 18:18:05.468208;Do you have any quarters?
+2;3;2021-04-27 18:19:17.468208;Yes.I have enough for the washer and dryer.
+2;5;2021-04-27 18:19:36.468208;Alright then,let us get going.
+2;5;2021-04-27 18:20:38.468208;This is going to take forever.
+2;4;2021-04-27 18:21:56.468208;How long should I put them in for?
+2;4;2021-04-27 18:22:26.468208;Put them on low heat for thirty minutes.
+2;5;2021-04-27 18:24:07.468208;Why low heat?
+2;3;2021-04-27 18:25:54.468208;If the air is too hot,the clothes will shrink.
+2;5;2021-04-27 18:26:42.468208;Does warm water make them fade?
+2;5;2021-04-27 18:28:24.468208;Yes.Put the detergent here,and don't use bleach.
+2;3;2021-04-27 18:29:21.468208;Excuse me,Can I borrow your fabric softener?
+2;3;2021-04-27 18:30:28.468208;Of course,take as much as you need.
+2;4;2021-04-27 18:31:49.468208;Thank you.You're very kind.
+2;3;2021-04-27 18:33:42.468208;Itis no problem at all.
+2;2;2021-04-27 18:34:30.468208;I love the subtle smell of this brand
+2;2;2021-04-27 18:34:56.468208;Me too,It is not overpowering or strong.
+2;4;2021-04-27 18:36:26.468208;Hello, is this the Smith residence?
+2;3;2021-04-27 18:38:08.468208;Sarah! Hurry up and get out of bed!
+2;5;2021-04-27 18:38:25.468208;Why I do it every morning?
+2;3;2021-04-27 18:38:56.468208;If you don't get out of bed, you'll get to school late.
+2;4;2021-04-27 18:39:38.468208;How is it not so bad?
+2;4;2021-04-27 18:41:19.468208;Sleep is good for growing children.
+2;4;2021-04-27 18:41:52.468208;Hello,is this Mr. Smith? I'm Mrs. Jones.
+2;4;2021-04-27 18:43:24.468208;Hello,Mrs.Jones.Did you get my message?
+2;4;2021-04-27 18:43:40.468208;What is the purpose of this meeting exactly?
+2;4;2021-04-27 18:44:51.468208;I just wanted to let you know that James is doing very well.
+2;4;2021-04-27 18:46:13.468208;What about history?
+2;3;2021-04-27 18:48:10.468208;Only the parts about Woodstock.
+2;4;2021-04-27 18:49:23.468208;Hello,is this the Smith residence?
+2;4;2021-04-27 18:49:36.468208;Children,it is time to go to bed!
+2;4;2021-04-27 18:50:22.468208;But we're not sleepy yet!
+2;5;2021-04-27 18:50:32.468208;If you get into bed right now, I'll read you a fairytale.
+2;2;2021-04-27 18:52:01.468208;Why do we hear fairytales before bed?
+2;4;2021-04-27 18:53:51.468208;So that the magic from stories can grow while you're sleeping.
+2;2;2021-04-27 18:55:12.468208;Hello,is this the Smith residence?
+2;3;2021-04-27 18:56:07.468208;David!Clean your room.It is filthy!
+2;5;2021-04-27 18:56:45.468208;Have you no shame?
+2;3;2021-04-27 18:57:19.468208;What should I be ashamed of?
+2;4;2021-04-27 18:58:11.468208;There are clothes all over the ground!
+2;2;2021-04-27 19:00:05.468208;It is just easier to leave them there.
+2;4;2021-04-27 19:01:29.468208;I think these puppies are hungry!
+2;2;2021-04-27 19:02:20.468208;They've done nothing but play all day.
+2;5;2021-04-27 19:04:08.468208;Do you think they're old enough to eat kibble?
+2;2;2021-04-27 19:04:39.468208;They're six weeks old; I think they're old enough.
+2;2;2021-04-27 19:06:06.468208;Look!They're digging right in!
+2;5;2021-04-27 19:07:13.468208;Now they're settling for a nap.
+2;2;2021-04-27 19:08:56.468208;Between keeping them from chewing things and cleaning, they're a hassle.
+2;5;2021-04-27 19:09:58.468208;Yeah,they are.But look how cute they are while asleep!
+2;4;2021-04-27 19:10:36.468208;Suddenly,I don't mind the chores so much.
+2;5;2021-04-27 19:12:17.468208;Yeah, neither do I.
+2;2;2021-04-27 19:14:12.468208;These puppies are truly worth it.
+2;3;2021-04-27 19:14:37.468208;I wouldn't lose a single minute with them
+2;4;2021-04-27 19:15:10.468208;Hello,is this the Smith residence?
+2;3;2021-04-27 19:16:35.468208;yes
+2;3;2021-04-27 19:18:04.468208;What is for dinner?
+2;4;2021-04-27 19:18:28.468208;I should be asking you that.
+2;5;2021-04-27 19:19:28.468208;Why do you say that?
+2;5;2021-04-27 19:20:30.468208;You're old enough to cook dinner.
+2;3;2021-04-27 19:21:48.468208;Are you saying itis my turn now?
+2;4;2021-04-27 19:23:25.468208;Actually, thatis exactly what I'm saying.
+2;5;2021-04-27 19:23:54.468208;What would you like to eat,then?
+2;2;2021-04-27 19:24:30.468208;I'm craving some spaghetti,bread and even a salad.
+2;4;2021-04-27 19:26:25.468208;Can you even cook?
+2;4;2021-04-27 19:27:18.468208;Of course I can cook!I choose not to.
+2;3;2021-04-27 19:27:58.468208;Hello, how are you doing?
+2;5;2021-04-27 19:29:55.468208;I am doing quite well,how are you?
+2;5;2021-04-27 19:30:40.468208;I've been better,I'm completely swamped with work.
+2;5;2021-04-27 19:31:22.468208;I know the feeling
+2;4;2021-04-27 19:32:59.468208;How are the kids?
+2;3;2021-04-27 19:34:19.468208;They are good.The oldest is about to graduate from high school.
+2;3;2021-04-27 19:35:42.468208;You're kidding me!Thatis great, man.
+2;4;2021-04-27 19:37:00.468208;The youngest is about to start middle school soon.
+2;4;2021-04-27 19:38:40.468208;My son is about to start middle school as well.
+2;5;2021-04-27 19:39:37.468208;Hey, maybe they will be classmates.
+2;5;2021-04-27 19:40:31.468208;Good morning.How are you today?
+2;5;2021-04-27 19:42:25.468208;I'm fantastic.How about yourself?
+2;5;2021-04-27 19:44:17.468208;That is great! I'm good,but I feel a little sick.
+2;4;2021-04-27 19:44:57.468208;That is not good.I heard there is a flu going around.
+2;3;2021-04-27 19:45:14.468208;Well,I have to be sure to take good care of myself.
+2;3;2021-04-27 19:45:45.468208;Sucks that you aren't feeling well,it is a nice day.
+2;3;2021-04-27 19:47:41.468208;The sunshine makes me want to go to the beach.
+2;2;2021-04-27 19:49:10.468208;That is a great idea,but I think you'll get sicker if you go.
+2;4;2021-04-27 19:50:30.468208;can we go some other time?
+2;4;2021-04-27 19:51:08.468208;For sure
+2;2;2021-04-27 19:51:29.468208;Sounds like a plan.I'll talk to you later.
+2;4;2021-04-27 19:53:11.468208;Cool,see you later.
+2;5;2021-04-27 19:53:48.468208;Everything is going wrong today.
+2;2;2021-04-27 19:54:38.468208;Well,at least the weather is nice.
+2;5;2021-04-27 19:55:12.468208;Yeah,I love when the sun is shining, but itis not too hot.
+2;4;2021-04-27 19:56:59.468208;I do,too.
+2;4;2021-04-27 19:58:48.468208;This weather is pretty sweet.
+2;4;2021-04-27 19:59:06.468208;I guess everything will be okay in the end.
+2;2;2021-04-27 20:00:33.468208;So all you needed was some sunshine.
+2;4;2021-04-27 20:00:58.468208;Yeah,I guess you were right for once.
+2;4;2021-04-27 20:01:10.468208;Hey I'm always right
+2;4;2021-04-27 20:01:32.468208;Quick! Get in here and wait out the storm!
+2;4;2021-04-27 20:02:13.468208;Oh,my word
+2;2;2021-04-27 20:02:59.468208;It is raining cats and dogs out there.
+2;5;2021-04-27 20:04:54.468208;More like lions and wolves
+2;5;2021-04-27 20:05:10.468208;I was watching the news.
+2;4;2021-04-27 20:06:09.468208;What did they say?
+2;3;2021-04-27 20:07:47.468208;This is going to be one heck of a storm.
+2;3;2021-04-27 20:08:36.468208;Should we be worried?
+2;2;2021-04-27 20:08:53.468208;I don't think so.
+2;2;2021-04-27 20:10:42.468208;True,Well,thank you for saving me from this storm.
+2;2;2021-04-27 20:11:00.468208;No problem.I'm making some tea
+2;5;2021-04-27 20:11:41.468208;would you like some?
+2;3;2021-04-27 20:12:56.468208;Please,Something warm would be great at the moment!
+2;2;2021-04-27 20:13:36.468208;Heard itis supposed to rain.
+2;4;2021-04-27 20:13:47.468208;Where did you hear that from?
+2;5;2021-04-27 20:15:16.468208;The weatherman said there is a high probability of rain.
+2;2;2021-04-27 20:15:32.468208;Since when have you started watching the news?
+2;5;2021-04-27 20:16:46.468208;I've always watched the news.
+2;4;2021-04-27 20:18:31.468208;What else did they say about the weekend?
+2;4;2021-04-27 20:19:24.468208;I think they said it was going to rain throughout the weekend.
+2;3;2021-04-27 20:21:15.468208;Throughout the weekend?
+2;5;2021-04-27 20:22:42.468208;Don't pull my chain.
+2;5;2021-04-27 20:24:02.468208;I'm not.
+2;4;2021-04-27 20:25:05.468208;Okay,suit yourself
+2;5;2021-04-27 20:26:28.468208;I won't.
+2;4;2021-04-27 20:27:11.468208;I'd rather get wet than listen to you.
+2;2;2021-04-27 20:27:26.468208;Why don't you ever answer your phone?
+2;4;2021-04-27 20:27:59.468208;I'm usually busy.Whatis up?
+2;3;2021-04-27 20:28:52.468208;I wanted to see if you were down to kick it.
+2;2;2021-04-27 20:29:09.468208;Where do you want to go?
+2;2;2021-04-27 20:30:52.468208;Let us go for a drink at the bar where we went last week.
+2;3;2021-04-27 20:32:23.468208;Okay,but I only have enough for three beers.
+2;2;2021-04-27 20:33:42.468208;It is fine.I'll pay for the rest
+2;3;2021-04-27 20:34:18.468208;I paid for you last time.You owe me!
+2;4;2021-04-27 20:36:10.468208;Well, then we can call it even.
+2;2;2021-04-27 20:37:44.468208;Where should we meet?
+2;3;2021-04-27 20:38:44.468208;How about at the train station by the bar?
+2;5;2021-04-27 20:39:12.468208;Sounds good.I'll see you in an hour.
+2;5;2021-04-27 20:40:04.468208;Great.See you then,later
+2;5;2021-04-27 20:41:48.468208;I forgot to tell you,I'm going out with Sarah.
+2;3;2021-04-27 20:43:33.468208;Which one is Sarah?
+2;2;2021-04-27 20:44:55.468208;You date so many girls that I get confused.
+2;5;2021-04-27 20:45:07.468208;First off,I don't date.
+2;4;2021-04-27 20:46:43.468208;So,which one is she?
+2;3;2021-04-27 20:48:22.468208;Which girl?
+2;4;2021-04-27 20:48:44.468208;The cute one.You know the one with the tattoo up her thigh?
+2;4;2021-04-27 20:50:34.468208;I think I would have noticed that.
+2;5;2021-04-27 20:52:33.468208;She is the only one with blonde hair.
+2;2;2021-04-27 20:53:39.468208;Well.
+2;2;2021-04-27 20:54:38.468208;I know you check her out,I assumed you saw the tattoo.
+2;2;2021-04-27 20:55:37.468208;I'm not that big of a pervert.
+2;3;2021-04-27 20:56:27.468208;I have a new co-worker at work,She is pretty.
+2;5;2021-04-27 20:58:22.468208;Oh,yeah?
+2;4;2021-04-27 20:59:20.468208;Is she prettier than your ex-girlfriend?
+2;4;2021-04-27 21:00:59.468208;Yeah,she is.
+2;5;2021-04-27 21:01:28.468208;Sheis tall,thin,and wears glasses.
+2;5;2021-04-27 21:01:38.468208;What is it with you and girls with glasses?
+2;5;2021-04-27 21:02:35.468208;You know what?I don't know.
+2;2;2021-04-27 21:04:20.468208;Well,tell me about her.
+2;3;2021-04-27 21:04:59.468208;She likes music.She is always wearing band t-shirts.
+2;2;2021-04-27 21:06:53.468208;Really? Are they any bands you like?
+2;2;2021-04-27 21:08:48.468208;Yeah,actually a lot of them are.
+2;2;2021-04-27 21:10:17.468208;How does she act?
+2;3;2021-04-27 21:11:01.468208;Is she nice?
+2;5;2021-04-27 21:11:27.468208;She is.
+2;4;2021-04-27 21:12:09.468208;I dropped my wallet,and didn't notice,She took it to me.
+2;3;2021-04-27 21:13:33.468208;Well,ask her out tomorrow,or somebody will.
+2;3;2021-04-27 21:14:03.468208;I heard that your brother is in the hospital.
+2;3;2021-04-27 21:15:43.468208;Yeah,He is been there since last week.
+2;3;2021-04-27 21:15:57.468208;What happened?
+2;3;2021-04-27 21:17:32.468208;Is he alright?
+2;2;2021-04-27 21:19:19.468208;The doctors told you he would be alright?
+2;5;2021-04-27 21:19:33.468208;Yes,but they need to keep him for further tests.
+2;5;2021-04-27 21:20:08.468208;Really lucky.Did anyone else get injured?
+2;2;2021-04-27 21:20:24.468208;His girlfriend broke her arm,but that is all.
+2;2;2021-04-27 21:21:39.468208;Oh,thatis not good.Is she at the hospital?
+2;3;2021-04-27 21:23:13.468208;Yes,she is taking care of my brother.
+2;4;2021-04-27 21:24:24.468208;C'mon,guess what?
+2;3;2021-04-27 21:25:51.468208;I don't know, chicken butt?
+2;2;2021-04-27 21:27:22.468208;Stop playing games.I got the part in the school play!
+2;3;2021-04-27 21:27:57.468208;Really? Thatis great!
+2;2;2021-04-27 21:29:49.468208;All this practice is finally paying off.
+2;3;2021-04-27 21:30:45.468208;Yes,it is.I can't believe it!
+2;4;2021-04-27 21:32:06.468208;Same here.I'm going to be the main character!
+2;5;2021-04-27 21:33:34.468208;I'm so proud of you.I can't wait to see the play.
+2;3;2021-04-27 21:33:54.468208;It is going to be a lot of hard work,but I'm glad I got the part.
+2;3;2021-04-27 21:35:48.468208;When does the play open?
+2;3;2021-04-27 21:36:02.468208;It opens in three weeks.
+2;2;2021-04-27 21:37:47.468208;Great.Get me a ticket.I want to be sitting in the front row.
+2;3;2021-04-27 21:38:05.468208;That is an awesome shirt.
+2;3;2021-04-27 21:38:22.468208;Thank you.It is so nice of you to say.
+2;2;2021-04-27 21:39:06.468208;Where did you get it?
+2;2;2021-04-27 21:40:08.468208;I got it at a store at the mall.
+2;4;2021-04-27 21:41:27.468208;Did it cost a lot?
+2;5;2021-04-27 21:42:19.468208;Things are usually overpriced there.
+2;2;2021-04-27 21:43:16.468208;Actually,it was quite cheap.I got it for $15.99.
+2;4;2021-04-27 21:44:49.468208;That is pretty cheap.
+2;2;2021-04-27 21:45:03.468208;Do they have it in other colors?
+2;3;2021-04-27 21:46:08.468208;Yes,sure.
+2;4;2021-04-27 21:47:00.468208;Would you want to come with me?
+2;5;2021-04-27 21:47:18.468208;We can go after school,if you want?
+2;5;2021-04-27 21:48:11.468208;Do you want to do something?
+2;4;2021-04-27 21:49:51.468208;What did you have in mind?
+2;3;2021-04-27 21:51:07.468208;Do you want to go drink?
+2;2;2021-04-27 21:51:49.468208;No,I have work tomorrow,and I don't want to be hung over.
+2;4;2021-04-27 21:52:28.468208;You don't have to get wasted.
+2;3;2021-04-27 21:53:04.468208;I know you.You won't shut your mouth until I get wasted.
+2;2;2021-04-27 21:54:48.468208;I'm down to go to the record store.
+2;2;2021-04-27 21:56:17.468208;I haven't been there in a while.
+2;4;2021-04-27 21:58:13.468208;Well,what do you want to do?
+2;5;2021-04-27 22:00:03.468208;Let us go to the movies instead?
+2;5;2021-04-27 22:01:16.468208;What is your favorite movie?
+2;5;2021-04-27 22:02:39.468208;The Grand Budapest Hotel.Why do you ask?
+3;3;2021-04-27 08:29:59.480205;okay thank you
+3;3;2021-04-27 08:31:32.480205;thankyou
+3;5;2021-04-27 08:32:00.480205;What can I do for you?
+3;5;2021-04-27 08:33:10.480205;I need to know what time the library closes.
+3;4;2021-04-27 08:34:28.480205;The library will be closing at six.
+3;4;2021-04-27 08:35:34.480205;Does it close at six every day?
+3;4;2021-04-27 08:37:31.480205;Are you guys open on Saturdays?
+3;4;2021-04-27 08:38:06.480205;Yes, we're open on Saturdays.
+3;5;2021-04-27 08:38:18.480205;What time does the library open and close on Saturday?
+3;3;2021-04-27 08:38:40.480205;We open at 9 am and close at 6:30 pm.
+3;3;2021-04-27 08:39:16.480205;What can I do for you today?
+3;5;2021-04-27 08:40:03.480205;I need to return a book.
+3;4;2021-04-27 08:41:47.480205;Can I do anything else for you?
+3;5;2021-04-27 08:42:11.480205;I want to check these books out.
+3;3;2021-04-27 08:43:41.480205;Is that all?
+3;5;2021-04-27 08:43:54.480205;That's all.
+3;6;2021-04-27 08:44:42.480205;May I see your library card, please?
+3;6;2021-04-27 08:45:26.480205;It's right here.
+3;3;2021-04-27 08:45:40.480205;Will that be all for today?
+3;5;2021-04-27 08:47:08.480205;Yes. That's it.
+3;6;2021-04-27 08:49:03.480205;All right. Have a good night.
+3;4;2021-04-27 08:50:32.480205;have a good night.
+3;6;2021-04-27 08:51:00.480205;How may I help you?
+3;6;2021-04-27 08:51:19.480205;I want to return this video.
+3;5;2021-04-27 08:51:43.480205;Is that all you need?
+3;6;2021-04-27 08:53:31.480205;I also need to check these books out.
+3;4;2021-04-27 08:55:28.480205;Anything else?
+3;4;2021-04-27 08:55:40.480205;That's everything.
+3;3;2021-04-27 08:57:18.480205;Do you need anything else?
+3;3;2021-04-27 08:59:13.480205;That's everything.
+3;6;2021-04-27 08:59:51.480205;May I help you?
+3;4;2021-04-27 09:00:15.480205;I would like to return this book.
+3;5;2021-04-27 09:02:13.480205;May I do anything else for you?
+3;3;2021-04-27 09:03:22.480205;I would also like to check out these books.
+3;4;2021-04-27 09:04:24.480205;Will that be all?
+3;3;2021-04-27 09:05:17.480205;That's it.
+3;4;2021-04-27 09:05:55.480205;Do you have your library card?
+3;3;2021-04-27 09:06:35.480205;Oh, yeah. Here you go.
+3;5;2021-04-27 09:07:17.480205;Will that be all for today?
+3;4;2021-04-27 09:07:53.480205;That'll be all.
+3;6;2021-04-27 09:09:01.480205;Hi
+3;4;2021-04-27 09:10:32.480205;how can i help you?
+3;3;2021-04-27 09:12:13.480205;Hello!
+3;3;2021-04-27 09:13:40.480205;how can i help you?
+3;6;2021-04-27 09:14:22.480205;Hi!
+3;3;2021-04-27 09:15:30.480205;how can i help you?
+3;3;2021-04-27 09:15:47.480205;hello
+3;6;2021-04-27 09:17:08.480205;how can i help you?
+3;4;2021-04-27 09:18:57.480205;This bus goes all the way to Santa Anita mall, right?
+3;4;2021-04-27 09:20:03.480205;Yes, it'll take us there.
+3;4;2021-04-27 09:21:41.480205;How long is this bus ride?
+3;6;2021-04-27 09:23:13.480205;It only takes half an hour.
+3;3;2021-04-27 09:24:41.480205;Where do we get off at?
+3;5;2021-04-27 09:26:21.480205;We can get off the bus right behind Macy's.
+3;3;2021-04-27 09:28:15.480205;That's cool.
+3;6;2021-04-27 09:28:43.480205;Yes, I know.
+3;6;2021-04-27 09:30:31.480205;Does this bus really go to the mall?
+3;5;2021-04-27 09:31:30.480205;It goes all the way there.
+3;5;2021-04-27 09:32:27.480205;Are you sure?
+3;6;2021-04-27 09:32:40.480205;I know it does.
+3;5;2021-04-27 09:34:21.480205;That's perfect.
+3;4;2021-04-27 09:36:13.480205;I know it is.
+3;6;2021-04-27 09:37:35.480205;Are you sure that this bus will take us to Santa Anita mall?
+3;5;2021-04-27 09:39:06.480205;Yes, it will.
+3;6;2021-04-27 09:41:01.480205;Is it a very long bus ride?
+3;4;2021-04-27 09:42:54.480205;It's about thirty minutes long.
+3;6;2021-04-27 09:44:47.480205;Do you know where we get off at?
+3;5;2021-04-27 09:46:14.480205;There's a bus stop right behind Macy's.
+3;4;2021-04-27 09:47:32.480205;That's convenient.
+3;3;2021-04-27 09:48:04.480205;Absolutely.
+3;3;2021-04-27 09:49:13.480205;I really need to find a bus that goes by PCC.
+3;5;2021-04-27 09:50:50.480205;Where do you need to catch this bus at?
+3;3;2021-04-27 09:51:19.480205;Thanks for letting me know.
+3;4;2021-04-27 09:53:18.480205;No problem.
+3;3;2021-04-27 09:53:34.480205;Do you know which bus I can take to PCC?
+3;4;2021-04-27 09:54:28.480205;Tell me where you need to get on at.
+3;5;2021-04-27 09:55:57.480205;Thank you for telling me.
+3;3;2021-04-27 09:56:40.480205;It was my pleasure.
+3;6;2021-04-27 09:57:48.480205;Where exactly are you coming from?
+3;4;2021-04-27 09:59:36.480205;I'm coming from my developer's site.
+3;4;2021-04-27 10:01:33.480205;Do you have a problem walking a little bit?
+3;3;2021-04-27 10:03:10.480205;I don't mind walking.
+3;4;2021-04-27 10:04:43.480205;Where do I get off?
+3;3;2021-04-27 10:05:26.480205;You get off on Del Mar and Hill.
+3;3;2021-04-27 10:07:03.480205;Thanks for the help.
+3;4;2021-04-27 10:08:25.480205;Don't mention it.
+3;3;2021-04-27 10:08:43.480205;How are you doing?
+3;5;2021-04-27 10:10:18.480205;Great. Thanks.
+3;5;2021-04-27 10:11:46.480205;May I help you with something? 
+3;3;2021-04-27 10:12:26.480205;I would like to transfer some money.
+3;6;2021-04-27 10:14:05.480205;Where would you like to transfer money from?
+3;5;2021-04-27 10:14:26.480205;Take it from my savings account.
+3;5;2021-04-27 10:15:36.480205;Where would you like the money transferred?
+3;3;2021-04-27 10:16:18.480205;I want it transferred into my checking account.
+3;5;2021-04-27 10:16:35.480205;How much would you like to transfer?
+3;6;2021-04-27 10:17:13.480205;I would like to transfer $200.
+3;5;2021-04-27 10:17:32.480205;Will that be all today?
+3;5;2021-04-27 10:18:23.480205;That's it for today. Thank you.
+3;4;2021-04-27 10:19:21.480205;How are you today?
+3;4;2021-04-27 10:20:01.480205;Very well.
+3;3;2021-04-27 10:22:00.480205;Do you need help with something?
+3;6;2021-04-27 10:23:11.480205;I need to make a transfer.
+3;4;2021-04-27 10:23:42.480205;What account would you like to transfer the money from?
+3;5;2021-04-27 10:24:19.480205;I want to transfer money from my savings account.
+3;4;2021-04-27 10:25:57.480205;Where do you want the money to go to?
+3;6;2021-04-27 10:26:33.480205;I want the money to be transferred into my checking account.
+3;6;2021-04-27 10:27:54.480205;How much money are you going to transfer today?
+3;4;2021-04-27 10:28:04.480205;$200 will be fine.
+3;4;2021-04-27 10:28:45.480205;Is that all I can do for you today?
+3;4;2021-04-27 10:29:55.480205;I won't be needing anything else.
+3;6;2021-04-27 10:30:29.480205;How's everything with you today?
+3;3;2021-04-27 10:30:51.480205;I'm fine. Thank you.
+3;5;2021-04-27 10:32:13.480205;What can I do for you?
+3;3;2021-04-27 10:34:11.480205;I need to transfer money.
+3;6;2021-04-27 10:35:29.480205;Do you know which account you want to take the money from?
+3;5;2021-04-27 10:36:09.480205;From my savings account.
+3;3;2021-04-27 10:36:53.480205;Where are you transferring the money to?
+3;5;2021-04-27 10:37:38.480205;I would like it transferred to my checking account.
+3;3;2021-04-27 10:38:43.480205;How much?
+3;4;2021-04-27 10:40:40.480205;I want to transfer $200.
+3;4;2021-04-27 10:40:53.480205;Will that be all?
+3;6;2021-04-27 10:41:33.480205;Yes. That will be all.
+3;6;2021-04-27 10:42:54.480205;How are you doing today?
+3;6;2021-04-27 10:43:41.480205;Great. Thanks.
+3;3;2021-04-27 10:44:01.480205;What can I help you with?
+3;6;2021-04-27 10:45:51.480205;I would like to open a bank account.
+3;5;2021-04-27 10:47:34.480205;What kind would you like to open?
+3;5;2021-04-27 10:49:18.480205;I need a checking account.
+3;5;2021-04-27 10:50:26.480205;Would you also like to open a savings account?
+3;3;2021-04-27 10:50:43.480205;That's fine.
+3;6;2021-04-27 10:51:22.480205;How are you?
+3;3;2021-04-27 10:51:36.480205;I'm well. Thank you for asking.
+3;4;2021-04-27 10:52:17.480205;What can I do for you?
+3;6;2021-04-27 10:52:38.480205;I need to open a bank account.
+3;4;2021-04-27 10:53:58.480205;What kind of account?
+3;3;2021-04-27 10:55:07.480205;I just need a checking account.
+3;4;2021-04-27 10:56:03.480205;You can open a savings account, too.
+3;4;2021-04-27 10:56:55.480205;All right. Open both.
+3;5;2021-04-27 10:58:53.480205;Would you please put $150 in both accounts?
+3;6;2021-04-27 10:59:37.480205;yeah
+3;4;2021-04-27 11:00:34.480205;How are things with you?
+3;6;2021-04-27 11:01:37.480205;I'm fine. Thank you.
+3;6;2021-04-27 11:03:11.480205;May I help you with something?
+3;3;2021-04-27 11:04:06.480205;I want to open a bank account.
+3;4;2021-04-27 11:05:12.480205;Do you know what kind of account you want to open?
+3;4;2021-04-27 11:06:36.480205;I want to open a checking account.
+3;5;2021-04-27 11:07:44.480205;You should also open a savings account.
+3;6;2021-04-27 11:09:27.480205;That would be great.
+3;3;2021-04-27 11:10:53.480205;To open these accounts, you will need to make a deposit of at least $50.
+3;4;2021-04-27 11:11:07.480205;I would actually like to deposit $300 today.
+3;4;2021-04-27 11:11:39.480205;Let me do that for you now.
+3;5;2021-04-27 11:12:50.480205;Please put $150 in each account for me.
+3;5;2021-04-27 11:13:40.480205;How are you doing?
+3;4;2021-04-27 11:15:01.480205;Great. Thanks for asking.
+3;4;2021-04-27 11:16:50.480205;What can I do for you today?
+3;4;2021-04-27 11:17:23.480205;I would like to deposit some money.
+3;4;2021-04-27 11:19:09.480205;Are you depositing cash or a check?
+3;5;2021-04-27 11:19:56.480205;I want to deposit cash.
+3;5;2021-04-27 11:20:47.480205;How much are you depositing?
+3;6;2021-04-27 11:22:00.480205;I would like to deposit $300.
+3;3;2021-04-27 11:22:25.480205;What account do you want your money in?
+3;6;2021-04-27 11:23:43.480205;I want to deposit it into my checking account.
+3;3;2021-04-27 11:24:00.480205;Do you need anything else?
+3;4;2021-04-27 11:25:11.480205;No. That's all. Thank you.
+3;4;2021-04-27 11:25:34.480205;How are you?
+3;6;2021-04-27 11:27:20.480205;I'm fantastic!
+3;5;2021-04-27 11:28:29.480205;What can I help you with?
+3;3;2021-04-27 11:28:43.480205;I want to make a deposit today.
+3;3;2021-04-27 11:29:35.480205;Cash or check?
+3;5;2021-04-27 11:31:30.480205;It will be cash today.
+3;4;2021-04-27 11:32:13.480205;How much do you want to deposit?
+3;5;2021-04-27 11:34:01.480205;I need to deposit $300.
+3;5;2021-04-27 11:34:15.480205;What account will you be depositing this money into?
+3;3;2021-04-27 11:35:24.480205;Deposit it into my checking account.
+3;4;2021-04-27 11:36:52.480205;What else can I do for you today?
+3;6;2021-04-27 11:37:11.480205;That's all I need today. Thanks.
+3;6;2021-04-27 11:37:48.480205;How are things with you?
+3;3;2021-04-27 11:39:33.480205;I'm fine. Thank you.
+3;4;2021-04-27 11:41:30.480205;How may I help you?
+3;3;2021-04-27 11:41:52.480205;I need to make a deposit.
+3;3;2021-04-27 11:42:17.480205;Will you be depositing cash or a check?
+3;4;2021-04-27 11:43:05.480205;I will be depositing cash.
+3;6;2021-04-27 11:43:16.480205;How much would you like to deposit?
+3;4;2021-04-27 11:44:05.480205;It's going to be $300.
+3;3;2021-04-27 11:44:17.480205;What account would you like to deposit that into?
+3;5;2021-04-27 11:45:18.480205;Could you deposit that into my checking account, please?
+3;6;2021-04-27 11:45:58.480205;Can I do anything else for you today?
+3;6;2021-04-27 11:46:41.480205;That'll be all. Thank you very much.
+3;5;2021-04-27 11:46:51.480205;How are you doing today?
+3;6;2021-04-27 11:48:12.480205;Great. Thank you.
+3;3;2021-04-27 11:49:39.480205;What can I do for you?
+3;5;2021-04-27 11:51:01.480205;I need to withdraw some money.
+3;4;2021-04-27 11:52:30.480205;How much would you like to take out?
+3;4;2021-04-27 11:53:58.480205;I need to withdraw $300.
+3;4;2021-04-27 11:54:46.480205;Which account would you like to take the money from?
+3;4;2021-04-27 11:55:04.480205;I want to take it from my checking account.
+3;6;2021-04-27 11:55:14.480205;Here you go.
+3;5;2021-04-27 11:55:50.480205;Thank you very much.
+3;4;2021-04-27 11:57:05.480205;Can I do anything else for you?
+3;4;2021-04-27 11:57:55.480205;No. That'll be all.
+3;5;2021-04-27 11:58:22.480205;How are you?
+3;4;2021-04-27 11:58:33.480205;I'm fabulous.
+3;5;2021-04-27 12:00:17.480205;What can I help you with?
+3;6;2021-04-27 12:00:52.480205;I need to make a withdrawal.
+3;3;2021-04-27 12:01:20.480205;How much are you withdrawing today?
+3;5;2021-04-27 12:01:52.480205;I need $300.
+3;5;2021-04-27 12:02:38.480205;What account would you like to take this money from?
+3;6;2021-04-27 12:03:07.480205;Take it from my checking account.
+3;6;2021-04-27 12:03:39.480205;Here's your $300.
+3;4;2021-04-27 12:04:30.480205;Thank you so much.
+3;3;2021-04-27 12:05:44.480205;Will you be needing anything else?
+3;5;2021-04-27 12:07:35.480205;That's it for today.
+3;5;2021-04-27 12:08:22.480205;How's it going?
+3;6;2021-04-27 12:09:10.480205;I'm fine. Thanks for asking.
+3;3;2021-04-27 12:09:43.480205;What did you need?
+3;3;2021-04-27 12:10:33.480205;I would like to make a withdrawal.
+3;6;2021-04-27 12:11:16.480205;How much money would you like to withdraw?
+3;4;2021-04-27 12:11:30.480205;I want to take out $300.
+3;6;2021-04-27 12:11:41.480205;Which account are you making this withdrawal from?
+3;3;2021-04-27 12:13:05.480205;I want it taken from my checking account.
+3;5;2021-04-27 12:14:14.480205;All right, here is your $300.
+3;4;2021-04-27 12:15:42.480205;Thanks a lot.
+3;6;2021-04-27 12:16:39.480205;Is there anything else that I can do for you today?
+3;6;2021-04-27 12:17:52.480205;No. That's everything. Thank you
+3;6;2021-04-27 12:19:03.480205;How are you doing today?
+3;3;2021-04-27 12:19:21.480205;I'm fine.
+3;4;2021-04-27 12:19:35.480205;What can I do for you?
+3;6;2021-04-27 12:19:53.480205;I would like to cancel a check.
+3;3;2021-04-27 12:21:17.480205;Is there a problem?
+3;4;2021-04-27 12:23:13.480205;I wrote the check out for too much.
+3;6;2021-04-27 12:23:44.480205;How much did you write it out for?
+3;5;2021-04-27 12:24:49.480205;I wrote it out for $150.
+3;6;2021-04-27 12:25:33.480205;How much was it supposed to be?
+3;5;2021-04-27 12:25:44.480205;It was supposed to be for $100.
+3;3;2021-04-27 12:26:53.480205;I'll cancel that check for you.
+3;6;2021-04-27 12:27:06.480205;I really appreciate your help.
+3;5;2021-04-27 12:27:35.480205;How are you?
+3;3;2021-04-27 12:29:28.480205;I'm doing well.
+3;3;2021-04-27 12:31:00.480205;How may I help you?
+3;5;2021-04-27 12:31:43.480205;Could you cancel a check for me?
+3;4;2021-04-27 12:33:07.480205;What's the problem?
+3;4;2021-04-27 12:34:51.480205;I wrote the check out for way too much.
+3;4;2021-04-27 12:35:19.480205;How much?
+3;6;2021-04-27 12:37:05.480205;I wrote the check out for $150.
+3;3;2021-04-27 12:37:30.480205;What were you supposed to write it out for?
+3;4;2021-04-27 12:37:42.480205;I was supposed to write the check out for $100.
+3;6;2021-04-27 12:39:36.480205;I'll just cancel it for you right now.
+3;3;2021-04-27 12:40:08.480205;That's great. You're a lifesaver.
+3;3;2021-04-27 12:41:51.480205;How's it going?
+3;3;2021-04-27 12:42:20.480205;Great. Thank you.
+3;3;2021-04-27 12:42:35.480205;What can I help you with?
+3;3;2021-04-27 12:44:13.480205;I need to cancel a check.
+3;3;2021-04-27 12:45:35.480205;What's wrong with the check?
+3;4;2021-04-27 12:46:58.480205;I accidentally wrote the check for too much.
+3;6;2021-04-27 12:47:45.480205;How much did you write the check for?
+3;6;2021-04-27 12:48:48.480205;The check was written for $150.
+3;5;2021-04-27 12:50:28.480205;How much were you supposed to write it for?
+3;5;2021-04-27 12:51:05.480205;I needed to write it for $100.
+3;4;2021-04-27 12:51:40.480205;I can cancel it for you right now.
+3;3;2021-04-27 12:51:52.480205;Thank you so much.
+3;3;2021-04-27 12:53:19.480205;Hi
+3;5;2021-04-27 12:53:39.480205;Greetings
+3;3;2021-04-27 12:55:27.480205;What do I have to do?
+3;4;2021-04-27 12:55:54.480205;Slide your card into the machine.
+3;6;2021-04-27 12:57:25.480205;Then what?
+3;3;2021-04-27 12:58:41.480205;You need to type your PIN in.
+3;6;2021-04-27 12:59:30.480205;What do I have to do next?
+3;5;2021-04-27 12:59:59.480205;Click on whichever option you want, and you're done.
+3;4;2021-04-27 13:00:42.480205;I have to use the ATM.
+3;5;2021-04-27 13:01:54.480205;Is there a problem?
+3;5;2021-04-27 13:02:16.480205;I don't know how to use it.
+3;5;2021-04-27 13:03:08.480205;What are you talking about?
+3;5;2021-04-27 13:04:57.480205;I have never used an ATM before.
+3;3;2021-04-27 13:05:47.480205;I can show you how to use it.
+3;3;2021-04-27 13:07:05.480205;How do I use it?
+3;5;2021-04-27 13:07:20.480205;You need to push your card into the machine.
+3;4;2021-04-27 13:08:08.480205;What's next?
+3;5;2021-04-27 13:08:43.480205;Enter your PIN.
+3;5;2021-04-27 13:09:46.480205;What else do I have to do?
+3;3;2021-04-27 13:10:10.480205;Every option you can choose will appear on the screen. That's about it.
+3;4;2021-04-27 13:11:50.480205;So, why don't you?
+3;4;2021-04-27 13:13:19.480205;I have no idea how to use the ATM.
+3;4;2021-04-27 13:13:46.480205;What do you mean?
+3;5;2021-04-27 13:14:36.480205;This will be my first time using an ATM.
+3;5;2021-04-27 13:14:56.480205;Now what do I do?
+3;5;2021-04-27 13:15:34.480205;Then you need to type in your PIN.
+3;4;2021-04-27 13:16:00.480205;Now what?
+3;6;2021-04-27 13:16:48.480205;Just click on one of the choices they give you, and that's it.
+3;6;2021-04-27 13:17:02.480205;Do you have any other questions?
+3;4;2021-04-27 13:18:42.480205;I want to know about fees.
+3;4;2021-04-27 13:19:03.480205;Which fees?
+3;6;2021-04-27 13:20:36.480205;Overdraft fees.
+3;6;2021-04-27 13:22:25.480205;How much is the fee?
+3;5;2021-04-27 13:23:54.480205;You'll have to pay $25 every time you overdraft.
+3;4;2021-04-27 13:25:14.480205;That's a small fee?
+3;6;2021-04-27 13:25:33.480205;It should stop you from overdrafting.
+3;4;2021-04-27 13:25:56.480205;Can I help you with anything else?
+3;6;2021-04-27 13:27:39.480205;That's it for today. Thank you.
+3;5;2021-04-27 13:29:21.480205;Do you have any questions?
+3;3;2021-04-27 13:31:00.480205;Tell me about fees.
+3;5;2021-04-27 13:32:15.480205;What fees are you referring to?
+3;6;2021-04-27 13:33:20.480205;I want to know about overdraft fees.
+3;5;2021-04-27 13:33:42.480205;We charge a small fee every time you overdraft.
+3;6;2021-04-27 13:34:13.480205;How much?
+3;6;2021-04-27 13:34:38.480205;Do you need help with anything else?
+3;6;2021-04-27 13:36:03.480205;That's all I needed to know. Thanks.
+3;6;2021-04-27 13:37:54.480205;Would you like to ask any questions?
+3;3;2021-04-27 13:39:45.480205;I need to know about the fees.
+3;4;2021-04-27 13:40:24.480205;What kind of fees?
+3;4;2021-04-27 13:41:02.480205;I'm asking about overdraft fees.
+3;6;2021-04-27 13:42:10.480205;How is that a small fee?
+3;5;2021-04-27 13:42:50.480205;That fee should keep you from overdrafting.
+3;4;2021-04-27 13:44:03.480205;Do you have any more questions?
+3;4;2021-04-27 13:45:07.480205;I don't need to know anything else. Thank you.
+3;5;2021-04-27 13:45:35.480205;How may I help you today?
+3;3;2021-04-27 13:46:39.480205;I need to open a second account.
+3;5;2021-04-27 13:48:11.480205;What kind of account would you like to open?
+3;3;2021-04-27 13:48:28.480205;I need another savings account.
+3;6;2021-04-27 13:48:55.480205;Do you have another account with us?
+3;4;2021-04-27 13:49:44.480205;I sure do.
+3;4;2021-04-27 13:51:42.480205;Would you like to transfer money from that account into your new one?
+3;6;2021-04-27 13:52:18.480205;That's fine.
+3;5;2021-04-27 13:53:17.480205;How much would you like to transfer?
+3;5;2021-04-27 13:54:02.480205;Transfer $100.
+3;5;2021-04-27 13:55:52.480205;That's fine.
+3;5;2021-04-27 13:56:03.480205;Thank you.
+3;3;2021-04-27 13:57:07.480205;How can I help you?
+3;3;2021-04-27 13:58:34.480205;I want to open another account.
+3;4;2021-04-27 13:58:53.480205;What kind would you like to open?
+3;6;2021-04-27 13:59:12.480205;I would like to open a savings account.
+3;6;2021-04-27 14:00:54.480205;Do you already have an account with us?
+3;3;2021-04-27 14:01:17.480205;I have another savings account open already.
+3;3;2021-04-27 14:02:59.480205;Do you want to transfer money from that account?
+3;3;2021-04-27 14:03:40.480205;I would like to do that.
+3;4;2021-04-27 14:05:13.480205;How much?
+3;6;2021-04-27 14:05:34.480205;I only want to transfer $100.
+3;4;2021-04-27 14:07:23.480205;What can I do for you?
+3;4;2021-04-27 14:07:59.480205;I would like to open another account.
+3;5;2021-04-27 14:09:00.480205;What kind do you want to open?
+3;3;2021-04-27 14:10:13.480205;I want to open a savings account.
+3;3;2021-04-27 14:11:13.480205;Do you have an account opened with this bank already?
+3;3;2021-04-27 14:12:32.480205;Yes, I do.
+3;4;2021-04-27 14:13:48.480205;How much money do you want to transfer?
+3;4;2021-04-27 14:14:38.480205;I want to transfer $100.
+3;3;2021-04-27 14:16:30.480205;All right
+3;3;2021-04-27 14:16:52.480205;yeah
+3;3;2021-04-27 14:18:15.480205;Could you help me?
+3;5;2021-04-27 14:19:45.480205;What do you need?
+3;5;2021-04-27 14:21:20.480205;What building is it in?
+3;4;2021-04-27 14:21:33.480205;It's in the C building.
+3;3;2021-04-27 14:23:19.480205;Do you think you can tell me where it is?
+3;4;2021-04-27 14:25:13.480205;Sure.
+3;5;2021-04-27 14:25:26.480205;May I get you some water or coffee?
+3;3;2021-04-27 14:26:11.480205;Sure, thank you.
+3;4;2021-04-27 14:27:19.480205;Would you like some tea or coffee?
+3;4;2021-04-27 14:28:37.480205;I'd love some.
+3;3;2021-04-27 14:29:21.480205;Would you care for some water?
+3;5;2021-04-27 14:30:13.480205;Yes, that would be great.
+3;4;2021-04-27 14:31:13.480205;would you rather do the computer work?
+3;4;2021-04-27 14:32:54.480205;I would like to help with the computer work.
+3;3;2021-04-27 14:34:23.480205;Well then, thanks for your help.
+3;6;2021-04-27 14:35:15.480205;Have a great day!
+3;5;2021-04-27 14:36:45.480205;Would you like me to help you on your new project?
+3;4;2021-04-27 14:37:52.480205;I would love the help! Would you prefer helping with the writing part or is programming more your thing?
+3;5;2021-04-27 14:38:25.480205;Could I help you on your new project?
+3;5;2021-04-27 14:39:43.480205;I have a need for help with writing and also a need for help with the computer work. Which would you prefer?
+3;4;2021-04-27 14:41:22.480205;Can you be there?
+3;4;2021-04-27 14:43:10.480205;I am not sure yet.
+3;5;2021-04-27 14:44:38.480205;Can you help me plan the office party?
+3;3;2021-04-27 14:46:06.480205;Sure.
+3;4;2021-04-27 14:47:40.480205;Should this party be formal or casual?
+3;5;2021-04-27 14:48:30.480205;I think it should be casual.
+3;5;2021-04-27 14:48:51.480205;Which one should we have?
+3;6;2021-04-27 14:50:03.480205;I would prefer Chinese food for this party.
+3;4;2021-04-27 14:50:54.480205;What do you feel like eating this morning?
+3;5;2021-04-27 14:52:46.480205;I usually just have a bowl of cereal.
+3;5;2021-04-27 14:53:04.480205;What do you make?
+3;5;2021-04-27 14:53:54.480205;All I make is oatmeal, toast, and some orange juice.
+3;5;2021-04-27 14:55:16.480205;What are you going to have for breakfast?
+3;5;2021-04-27 14:56:33.480205;I just have some cereal each morning.
+3;3;2021-04-27 14:58:06.480205;What do you have for breakfast?
+3;4;2021-04-27 14:58:30.480205;I just make some oatmeal, toast, and OJ.
+3;5;2021-04-27 14:58:46.480205;Would you like me to make something?
+3;4;2021-04-27 15:00:21.480205;Thank you, it's not needed.
+3;3;2021-04-27 15:01:13.480205;What do you want to eat for breakfast?
+3;4;2021-04-27 15:03:00.480205;All I usually have is some python codes for breakfast.
+3;5;2021-04-27 15:04:23.480205;What's for lunch?
+3;6;2021-04-27 15:06:12.480205;I don't know.
+3;6;2021-04-27 15:06:54.480205;What do you want to eat?
+3;6;2021-04-27 15:07:59.480205;I was thinking of pizza.
+3;4;2021-04-27 15:08:19.480205;Where can we go to get both?
+3;4;2021-04-27 15:09:50.480205;We can get both at the cafeteria.
+3;3;2021-04-27 15:10:47.480205;What are we eating for lunch?
+3;5;2021-04-27 15:12:17.480205;I have no idea.
+3;3;2021-04-27 15:12:38.480205;Do you want to get a burger?
+3;6;2021-04-27 15:14:26.480205;Yes I want to get a burger.
+3;5;2021-04-27 15:15:59.480205;Where do they sell both at?
+3;3;2021-04-27 15:16:46.480205;They sell pizza and burgers at the cafeteria.
+3;6;2021-04-27 15:18:16.480205;What's for dinner tonight?
+3;5;2021-04-27 15:20:11.480205;I'm not making anything.
+3;4;2021-04-27 15:21:41.480205;What do you feel like having?
+3;3;2021-04-27 15:23:09.480205;I want some chicken and potatoes.
+3;6;2021-04-27 15:24:49.480205;When are you going to make it?
+3;3;2021-04-27 15:25:12.480205;I have no plans on cooking tonight.
+3;3;2021-04-27 15:26:01.480205;What are we going to eat for dinner?
+3;6;2021-04-27 15:26:51.480205;I didn't plan on cooking tonight.
+3;6;2021-04-27 15:28:48.480205;Are we going to have dinner tonight?
+3;5;2021-04-27 15:29:51.480205;I'm not cooking dinner.
+3;5;2021-04-27 15:31:31.480205;What do you want to eat?
+3;4;2021-04-27 15:32:13.480205;I have a taste for some chicken and potatoes.
+3;6;2021-04-27 15:33:44.480205;are you planning on cooking it?
+3;6;2021-04-27 15:35:33.480205;I'll cook dinner.
+3;6;2021-04-27 15:36:23.480205;Hi, can I speak with the apartment manager, please?
+3;4;2021-04-27 15:37:01.480205;Hello, this is the apartment manager speaking.
+3;3;2021-04-27 15:37:49.480205;Would you be interested in seeing the apartment?
+3;5;2021-04-27 15:38:42.480205;I would love to see it.
+3;4;2021-04-27 15:40:25.480205;Are you free today at around 6 p.m.?
+3;5;2021-04-27 15:41:21.480205;Yes, I will be able to make it then.
+3;6;2021-04-27 15:42:41.480205;Do I need to bring anything?
+3;3;2021-04-27 15:43:01.480205;No.
+3;6;2021-04-27 15:44:06.480205;How can I help you?
+3;4;2021-04-27 15:44:20.480205;I was wondering if the apartment on Main Street is still available.
+3;5;2021-04-27 15:45:35.480205;Are you interested in seeing it?
+3;3;2021-04-27 15:46:29.480205;Yes, I would love to see
+3;3;2021-04-27 15:47:19.480205;should I bring anything with me?
+3;6;2021-04-27 15:47:32.480205;No. I might need to see your ID card, but that's about it.
+3;6;2021-04-27 15:49:30.480205;Could I speak to the apartment manager?
+3;5;2021-04-27 15:51:14.480205;I am the apartment manager.
+3;5;2021-04-27 15:52:20.480205;How can I help you?
+3;3;2021-04-27 15:54:12.480205;I wanted to know if that apartment on Main Street is still for rent.
+3;6;2021-04-27 15:55:10.480205;How about today?
+3;6;2021-04-27 15:55:49.480205;That time is okay with me.
+3;6;2021-04-27 15:56:14.480205;Do I need to bring anything myself?
+3;4;2021-04-27 15:57:39.480205;No. The only thing I need to see is your driver's license.
+3;5;2021-04-27 15:58:08.480205;What can I do for you?
+3;5;2021-04-27 16:00:01.480205;I'm interested in the apartment on Main Street.
+3;5;2021-04-27 16:01:18.480205;Do you want to see it?
+3;3;2021-04-27 16:02:02.480205;Yes, I would very much like to see it.
+3;3;2021-04-27 16:02:41.480205;Does today at 6 p.m. sound okay to you?
+3;5;2021-04-27 16:03:28.480205;I have no problem with 6 p.m.
+3;5;2021-04-27 16:03:40.480205;Do you need any directions?
+3;5;2021-04-27 16:04:46.480205;No, thanks. I already drove by to see what the neighborhood looks like.
+3;3;2021-04-27 16:05:55.480205;Should I bring anything with me?
+3;5;2021-04-27 16:06:46.480205;No. I only need to check your driver's license.
+3;6;2021-04-27 16:07:15.480205;How can I help you?
+3;4;2021-04-27 16:09:08.480205;I was hoping that the apartment on Main Street was still available.
+3;3;2021-04-27 16:10:59.480205;Is there anything that I need to bring with me?
+3;4;2021-04-27 16:12:06.480205;No. I won't need to see anything except your driver's license.
+3;4;2021-04-27 16:13:54.480205;Hi. How can I help you today?
+3;6;2021-04-27 16:14:47.480205;Well, my window facing the empty lot is broken.
+3;4;2021-04-27 16:15:43.480205;Oh, that's not good. What happened?
+3;3;2021-04-27 16:16:59.480205;I dont know. I wasn't home when it happened.
+3;3;2021-04-27 16:18:58.480205;Do you have any clue who might have done this?
+3;5;2021-04-27 16:19:17.480205;I have a feeling that it might have been the neighborhood kids.
+3;3;2021-04-27 16:20:18.480205;Why, what leads you to that suspicion?
+3;5;2021-04-27 16:21:02.480205;Well, next to the broken glass was a baseball.
+3;6;2021-04-27 16:22:20.480205;Hello. What can I do for you today?
+3;3;2021-04-27 16:23:19.480205;My living room window is broken.
+3;3;2021-04-27 16:24:17.480205;Are you serious?
+3;6;2021-04-27 16:24:52.480205;no
+3;3;2021-04-27 16:25:31.480205;Do you know any of them?
+3;6;2021-04-27 16:26:13.480205;No, I didn't pay any attention to who they were.
+3;6;2021-04-27 16:27:03.480205;What can I do for you?
+3;6;2021-04-27 16:27:40.480205;Something happened to my window. It's broken.
+3;5;2021-04-27 16:29:36.480205;How about if I call a friend of mine who is a repairman?
+3;3;2021-04-27 16:31:10.480205;That's no problem. I'll come by right now to look at the damage.
+3;4;2021-04-27 16:33:03.480205;How may I help you?
+3;6;2021-04-27 16:34:22.480205;My window that faces the empty lot is broken.
+3;3;2021-04-27 16:36:06.480205;Hi
+3;6;2021-04-27 16:36:39.480205;how may I help you?
+3;5;2021-04-27 16:38:17.480205;Hello
+3;6;2021-04-27 16:39:21.480205;hello, how may I help you?
+3;4;2021-04-27 16:39:36.480205;Hi
+3;3;2021-04-27 16:41:30.480205;Greetings, how can i help you?
+3;3;2021-04-27 16:42:54.480205;Can you tell me which credit card it was for?
+3;5;2021-04-27 16:43:16.480205;It was for my Master Card.
+3;6;2021-04-27 16:43:47.480205;What am I supposed to do about my bill then?
+3;3;2021-04-27 16:44:52.480205;Maybe you should call your post office.
+3;3;2021-04-27 16:45:06.480205;can I get an extension on my bill payment?
+3;5;2021-04-27 16:46:56.480205;Yes, but you will need to send us proof of their mistake.
+3;4;2021-04-27 16:48:27.480205;Thank you very much for your help.
+3;5;2021-04-27 16:49:50.480205;Enjoy the rest of your day.
+3;5;2021-04-27 16:51:42.480205;What am I going to do since I haven't received the bill?
+3;4;2021-04-27 16:53:34.480205;If you haven't gotten it yet, then you should probably take that up with your post office.
+3;5;2021-04-27 16:54:13.480205;Thanks for your help
+3;5;2021-04-27 16:55:56.480205;Nice. Have a great day ahead.
+3;5;2021-04-27 16:57:44.480205;Happy to help you
+3;5;2021-04-27 16:59:07.480205;You are welcome
+3;3;2021-04-27 16:59:40.480205;Thanks
+3;3;2021-04-27 17:00:20.480205;Welcome
+3;4;2021-04-27 17:00:49.480205;Thank you so much
+3;4;2021-04-27 17:02:30.480205;You are welcome
+3;6;2021-04-27 17:03:33.480205;Good evening.
+3;5;2021-04-27 17:05:10.480205;Good evening.
+3;6;2021-04-27 17:07:05.480205;What are you doing?
+3;4;2021-04-27 17:07:15.480205;I am chatting with you.Tell me what is your query?
+3;5;2021-04-27 17:08:54.480205;What's the matter?
+3;6;2021-04-27 17:10:00.480205;I have always got a headache. I never feel fresh.
+3;5;2021-04-27 17:11:26.480205;Do you take exercise?
+3;4;2021-04-27 17:11:40.480205;No. I don't find time.
+3;6;2021-04-27 17:13:14.480205;Good bye.
+3;6;2021-04-27 17:13:37.480205;Good bye.
+3;5;2021-04-27 17:14:04.480205;Hello,how may I help you today?
+3;3;2021-04-27 17:15:46.480205;Hi.I would like to increase my Internet data.
+3;4;2021-04-27 17:16:44.480205;I'll be glad to help you with that.
+3;3;2021-04-27 17:17:31.480205;Thankyou.
+3;4;2021-04-27 17:17:45.480205;What is your account number?
+3;5;2021-04-27 17:17:57.480205;I don't have my account number with me,but my phone number is 310-865-9274.
+3;4;2021-04-27 17:19:42.480205;Alright,I see you use our mobile service.
+3;4;2021-04-27 17:21:03.480205;Yes.I also have a landline.
+3;3;2021-04-27 17:21:23.480205;What does this new service include?
+3;4;2021-04-27 17:22:39.480205;It makes the Internet connection twice as fast.
+3;5;2021-04-27 17:24:16.480205;This is Tech Support,how may I help you?
+3;6;2021-04-27 17:25:18.480205;I am having problems with my Internet service.
+3;4;2021-04-27 17:25:43.480205;What seems to be the problem?
+3;6;2021-04-27 17:27:00.480205;None of my wireless devices are connecting to the Wi-Fi.
+3;6;2021-04-27 17:27:21.480205;Have you tried disconnecting and reconnecting the modem?
+3;6;2021-04-27 17:27:45.480205;No,how do I do that?
+3;3;2021-04-27 17:29:25.480205;Are all of the lights back on the modem?
+3;4;2021-04-27 17:31:02.480205;Yes,they're all green!
+3;4;2021-04-27 17:31:48.480205;Hello, is this the Smith residence?
+3;6;2021-04-27 17:33:14.480205;Hello, how can I help you today?
+3;3;2021-04-27 17:35:01.480205;I am very upset with the quality of your service.
+3;6;2021-04-27 17:35:34.480205;I'm sorry, what seems to be the problem?
+3;6;2021-04-27 17:35:52.480205;My Internet service did not work for three days.
+3;4;2021-04-27 17:37:17.480205;My records say a technician visited your area yesterday?
+3;6;2021-04-27 17:37:32.480205;Yes,he installed a new modem.
+3;5;2021-04-27 17:38:39.480205;Did it solve the problem?
+3;6;2021-04-27 17:39:42.480205;Yes,but I was overcharged for Internet service.
+3;6;2021-04-27 17:40:13.480205;Sorry about that.
+3;5;2021-04-27 17:41:30.480205;I was sold a wireless service unavailable in my area.
+3;5;2021-04-27 17:42:58.480205;I see it here,we charged you $5 extra a month.
+3;5;2021-04-27 17:44:27.480205;How may I help you?
+3;3;2021-04-27 17:45:49.480205;My computer is not letting me run JavaScript.
+3;4;2021-04-27 17:46:30.480205;That can easily be fixed.
+3;6;2021-04-27 17:46:47.480205;I've tried fixing it myself, but nothing worked.
+3;5;2021-04-27 17:47:43.480205;Hello? I'd like to schedule an appointment.
+3;3;2021-04-27 17:48:11.480205;Hello!What time would you like to come in?
+3;3;2021-04-27 17:50:00.480205;Can I have your name?
+3;3;2021-04-27 17:51:30.480205;My name is Sarah.
+3;5;2021-04-27 17:52:13.480205;Alright,thank you!
+3;4;2021-04-27 17:54:05.480205;See you soon!
+3;3;2021-04-27 17:54:23.480205;I don't have any clean laundry for tomorrow!
+3;6;2021-04-27 17:55:26.480205;Well,you should do your laundry then.
+3;6;2021-04-27 17:56:59.480205;Do you have any quarters?
+3;3;2021-04-27 17:58:52.480205;Yes.I have enough for the washer and dryer.
+3;4;2021-04-27 17:59:04.480205;Alright then,let us get going.
+3;5;2021-04-27 18:01:03.480205;This is going to take forever.
+3;4;2021-04-27 18:01:21.480205;How long should I put them in for?
+3;5;2021-04-27 18:02:48.480205;Put them on low heat for thirty minutes.
+3;6;2021-04-27 18:03:26.480205;Why low heat?
+3;6;2021-04-27 18:03:58.480205;If the air is too hot,the clothes will shrink.
+3;4;2021-04-27 18:05:00.480205;Does warm water make them fade?
+3;6;2021-04-27 18:05:29.480205;Yes.Put the detergent here,and don't use bleach.
+3;5;2021-04-27 18:07:24.480205;Excuse me,Can I borrow your fabric softener?
+3;6;2021-04-27 18:08:31.480205;Of course,take as much as you need.
+3;5;2021-04-27 18:10:26.480205;Thank you.You're very kind.
+3;6;2021-04-27 18:11:51.480205;Itis no problem at all.
+3;4;2021-04-27 18:12:51.480205;I love the subtle smell of this brand
+3;5;2021-04-27 18:13:51.480205;Me too,It is not overpowering or strong.
+3;3;2021-04-27 18:14:38.480205;Hello, is this the Smith residence?
+3;4;2021-04-27 18:15:09.480205;Sarah! Hurry up and get out of bed!
+3;5;2021-04-27 18:16:29.480205;Why I do it every morning?
+3;5;2021-04-27 18:16:40.480205;If you don't get out of bed, you'll get to school late.
+3;3;2021-04-27 18:18:33.480205;How is it not so bad?
+3;5;2021-04-27 18:20:27.480205;Sleep is good for growing children.
+3;4;2021-04-27 18:21:32.480205;Hello,is this Mr. Smith? I'm Mrs. Jones.
+3;5;2021-04-27 18:21:47.480205;Hello,Mrs.Jones.Did you get my message?
+3;3;2021-04-27 18:22:04.480205;What is the purpose of this meeting exactly?
+3;3;2021-04-27 18:22:21.480205;I just wanted to let you know that James is doing very well.
+3;3;2021-04-27 18:23:32.480205;What about history?
+3;6;2021-04-27 18:23:58.480205;Only the parts about Woodstock.
+3;3;2021-04-27 18:25:17.480205;Hello,is this the Smith residence?
+3;5;2021-04-27 18:26:23.480205;Children,it is time to go to bed!
+3;6;2021-04-27 18:27:18.480205;But we're not sleepy yet!
+3;5;2021-04-27 18:28:54.480205;If you get into bed right now, I'll read you a fairytale.
+3;5;2021-04-27 18:30:52.480205;Why do we hear fairytales before bed?
+3;4;2021-04-27 18:32:19.480205;So that the magic from stories can grow while you're sleeping.
+3;6;2021-04-27 18:33:40.480205;Hello,is this the Smith residence?
+3;5;2021-04-27 18:35:17.480205;David!Clean your room.It is filthy!
+3;6;2021-04-27 18:36:58.480205;Have you no shame?
+3;4;2021-04-27 18:38:45.480205;What should I be ashamed of?
+3;4;2021-04-27 18:40:33.480205;There are clothes all over the ground!
+3;4;2021-04-27 18:42:04.480205;It is just easier to leave them there.
+3;3;2021-04-27 18:43:03.480205;I think these puppies are hungry!
+3;4;2021-04-27 18:44:22.480205;They've done nothing but play all day.
+3;3;2021-04-27 18:45:13.480205;Do you think they're old enough to eat kibble?
+3;6;2021-04-27 18:45:58.480205;They're six weeks old; I think they're old enough.
+3;5;2021-04-27 18:47:09.480205;Look!They're digging right in!
+3;6;2021-04-27 18:48:56.480205;Now they're settling for a nap.
+3;6;2021-04-27 18:49:43.480205;Between keeping them from chewing things and cleaning, they're a hassle.
+3;5;2021-04-27 18:50:26.480205;Yeah,they are.But look how cute they are while asleep!
+3;5;2021-04-27 18:51:49.480205;Suddenly,I don't mind the chores so much.
+3;5;2021-04-27 18:52:33.480205;Yeah, neither do I.
+3;5;2021-04-27 18:54:00.480205;These puppies are truly worth it.
+3;4;2021-04-27 18:55:33.480205;I wouldn't lose a single minute with them
+3;6;2021-04-27 18:56:36.480205;Hello,is this the Smith residence?
+3;6;2021-04-27 18:57:11.480205;yes
+3;5;2021-04-27 18:58:38.480205;What is for dinner?
+3;4;2021-04-27 18:59:05.480205;I should be asking you that.
+3;6;2021-04-27 19:00:55.480205;Why do you say that?
+3;5;2021-04-27 19:02:39.480205;You're old enough to cook dinner.
+3;6;2021-04-27 19:03:32.480205;Are you saying itis my turn now?
+3;4;2021-04-27 19:04:26.480205;Actually, thatis exactly what I'm saying.
+3;6;2021-04-27 19:05:53.480205;What would you like to eat,then?
+3;4;2021-04-27 19:06:28.480205;I'm craving some spaghetti,bread and even a salad.
+3;4;2021-04-27 19:07:14.480205;Can you even cook?
+3;4;2021-04-27 19:08:52.480205;Of course I can cook!I choose not to.
+3;3;2021-04-27 19:10:28.480205;Hello, how are you doing?
+3;4;2021-04-27 19:10:44.480205;I am doing quite well,how are you?
+3;4;2021-04-27 19:10:58.480205;I've been better,I'm completely swamped with work.
+3;4;2021-04-27 19:11:44.480205;I know the feeling
+3;6;2021-04-27 19:12:29.480205;How are the kids?
+3;6;2021-04-27 19:14:01.480205;They are good.The oldest is about to graduate from high school.
+3;5;2021-04-27 19:14:57.480205;You're kidding me!Thatis great, man.
+3;3;2021-04-27 19:15:12.480205;The youngest is about to start middle school soon.
+3;5;2021-04-27 19:16:18.480205;My son is about to start middle school as well.
+3;4;2021-04-27 19:17:35.480205;Hey, maybe they will be classmates.
+3;4;2021-04-27 19:18:03.480205;Good morning.How are you today?
+3;6;2021-04-27 19:19:05.480205;I'm fantastic.How about yourself?
+3;5;2021-04-27 19:19:36.480205;That is great! I'm good,but I feel a little sick.
+3;6;2021-04-27 19:21:33.480205;That is not good.I heard there is a flu going around.
+3;4;2021-04-27 19:21:56.480205;Well,I have to be sure to take good care of myself.
+3;6;2021-04-27 19:23:32.480205;Sucks that you aren't feeling well,it is a nice day.
+3;5;2021-04-27 19:25:06.480205;The sunshine makes me want to go to the beach.
+3;4;2021-04-27 19:26:55.480205;That is a great idea,but I think you'll get sicker if you go.
+3;4;2021-04-27 19:28:07.480205;can we go some other time?
+3;3;2021-04-27 19:29:13.480205;For sure
+3;4;2021-04-27 19:29:24.480205;Sounds like a plan.I'll talk to you later.
+3;6;2021-04-27 19:31:05.480205;Cool,see you later.
+3;3;2021-04-27 19:32:22.480205;Everything is going wrong today.
+3;5;2021-04-27 19:32:39.480205;Well,at least the weather is nice.
+3;4;2021-04-27 19:33:56.480205;Yeah,I love when the sun is shining, but itis not too hot.
+3;4;2021-04-27 19:35:35.480205;I do,too.
+3;5;2021-04-27 19:36:13.480205;This weather is pretty sweet.
+3;3;2021-04-27 19:37:17.480205;I guess everything will be okay in the end.
+3;6;2021-04-27 19:39:05.480205;So all you needed was some sunshine.
+3;4;2021-04-27 19:39:18.480205;Yeah,I guess you were right for once.
+3;5;2021-04-27 19:40:11.480205;Hey I'm always right
+3;6;2021-04-27 19:41:39.480205;Quick! Get in here and wait out the storm!
+3;6;2021-04-27 19:43:21.480205;Oh,my word
+3;5;2021-04-27 19:44:30.480205;It is raining cats and dogs out there.
+3;5;2021-04-27 19:45:17.480205;More like lions and wolves
+3;3;2021-04-27 19:45:27.480205;I was watching the news.
+3;4;2021-04-27 19:46:13.480205;What did they say?
+3;5;2021-04-27 19:47:41.480205;This is going to be one heck of a storm.
+3;4;2021-04-27 19:49:40.480205;Should we be worried?
+3;6;2021-04-27 19:51:06.480205;I don't think so.
+3;3;2021-04-27 19:52:02.480205;True,Well,thank you for saving me from this storm.
+3;5;2021-04-27 19:52:42.480205;No problem.I'm making some tea
+3;4;2021-04-27 19:53:25.480205;would you like some?
+3;5;2021-04-27 19:54:21.480205;Please,Something warm would be great at the moment!
+3;5;2021-04-27 19:55:12.480205;Heard itis supposed to rain.
+3;6;2021-04-27 19:56:50.480205;Where did you hear that from?
+3;5;2021-04-27 19:58:37.480205;The weatherman said there is a high probability of rain.
+3;3;2021-04-27 20:00:05.480205;Since when have you started watching the news?
+3;4;2021-04-27 20:00:29.480205;I've always watched the news.
+3;5;2021-04-27 20:02:14.480205;What else did they say about the weekend?
+3;4;2021-04-27 20:02:35.480205;I think they said it was going to rain throughout the weekend.
+3;4;2021-04-27 20:03:24.480205;Throughout the weekend?
+3;3;2021-04-27 20:03:47.480205;Don't pull my chain.
+3;5;2021-04-27 20:05:30.480205;I'm not.
+3;3;2021-04-27 20:07:17.480205;Okay,suit yourself
+3;6;2021-04-27 20:09:13.480205;I won't.
+3;3;2021-04-27 20:10:37.480205;I'd rather get wet than listen to you.
+3;4;2021-04-27 20:12:35.480205;Why don't you ever answer your phone?
+3;4;2021-04-27 20:13:26.480205;I'm usually busy.Whatis up?
+3;4;2021-04-27 20:14:49.480205;I wanted to see if you were down to kick it.
+3;5;2021-04-27 20:16:45.480205;Where do you want to go?
+3;3;2021-04-27 20:17:44.480205;Let us go for a drink at the bar where we went last week.
+3;5;2021-04-27 20:18:42.480205;Okay,but I only have enough for three beers.
+3;5;2021-04-27 20:19:45.480205;It is fine.I'll pay for the rest
+3;5;2021-04-27 20:20:07.480205;I paid for you last time.You owe me!
+3;4;2021-04-27 20:22:00.480205;Well, then we can call it even.
+3;3;2021-04-27 20:22:33.480205;Where should we meet?
+3;3;2021-04-27 20:23:49.480205;How about at the train station by the bar?
+3;4;2021-04-27 20:25:41.480205;Sounds good.I'll see you in an hour.
+3;5;2021-04-27 20:27:30.480205;Great.See you then,later
+3;6;2021-04-27 20:28:45.480205;I forgot to tell you,I'm going out with Sarah.
+3;6;2021-04-27 20:29:42.480205;Which one is Sarah?
+3;5;2021-04-27 20:30:35.480205;You date so many girls that I get confused.
+3;6;2021-04-27 20:32:06.480205;First off,I don't date.
+3;4;2021-04-27 20:32:58.480205;So,which one is she?
+3;4;2021-04-27 20:33:15.480205;Which girl?
+3;4;2021-04-27 20:35:07.480205;The cute one.You know the one with the tattoo up her thigh?
+3;6;2021-04-27 20:35:43.480205;I think I would have noticed that.
+3;6;2021-04-27 20:35:54.480205;She is the only one with blonde hair.
+3;3;2021-04-27 20:37:35.480205;Well.
+3;4;2021-04-27 20:37:50.480205;I know you check her out,I assumed you saw the tattoo.
+3;4;2021-04-27 20:39:23.480205;I'm not that big of a pervert.
+3;5;2021-04-27 20:41:22.480205;I have a new co-worker at work,She is pretty.
+3;3;2021-04-27 20:42:00.480205;Oh,yeah?
+3;4;2021-04-27 20:43:33.480205;Is she prettier than your ex-girlfriend?
+3;3;2021-04-27 20:45:30.480205;Yeah,she is.
+3;5;2021-04-27 20:46:08.480205;Sheis tall,thin,and wears glasses.
+3;5;2021-04-27 20:48:01.480205;What is it with you and girls with glasses?
+3;6;2021-04-27 20:49:50.480205;You know what?I don't know.
+3;6;2021-04-27 20:50:42.480205;Well,tell me about her.
+3;5;2021-04-27 20:50:52.480205;She likes music.She is always wearing band t-shirts.
+3;6;2021-04-27 20:52:34.480205;Really? Are they any bands you like?
+3;5;2021-04-27 20:54:19.480205;Yeah,actually a lot of them are.
+3;6;2021-04-27 20:55:30.480205;How does she act?
+3;5;2021-04-27 20:56:22.480205;Is she nice?
+3;6;2021-04-27 20:57:36.480205;She is.
+3;3;2021-04-27 20:58:19.480205;I dropped my wallet,and didn't notice,She took it to me.
+3;3;2021-04-27 20:59:49.480205;Well,ask her out tomorrow,or somebody will.
+3;6;2021-04-27 21:00:53.480205;I heard that your brother is in the hospital.
+3;5;2021-04-27 21:02:51.480205;Yeah,He is been there since last week.
+3;5;2021-04-27 21:04:06.480205;What happened?
+3;4;2021-04-27 21:05:06.480205;Is he alright?
+3;5;2021-04-27 21:06:13.480205;The doctors told you he would be alright?
+3;3;2021-04-27 21:06:27.480205;Yes,but they need to keep him for further tests.
+3;5;2021-04-27 21:07:20.480205;Really lucky.Did anyone else get injured?
+3;6;2021-04-27 21:08:39.480205;His girlfriend broke her arm,but that is all.
+3;5;2021-04-27 21:09:11.480205;Oh,thatis not good.Is she at the hospital?
+3;4;2021-04-27 21:09:57.480205;Yes,she is taking care of my brother.
+3;6;2021-04-27 21:11:22.480205;C'mon,guess what?
+3;6;2021-04-27 21:12:59.480205;I don't know, chicken butt?
+3;5;2021-04-27 21:13:14.480205;Stop playing games.I got the part in the school play!
+3;4;2021-04-27 21:13:48.480205;Really? Thatis great!
+3;6;2021-04-27 21:14:18.480205;All this practice is finally paying off.
+3;4;2021-04-27 21:15:18.480205;Yes,it is.I can't believe it!
+3;4;2021-04-27 21:16:57.480205;Same here.I'm going to be the main character!
+3;5;2021-04-27 21:17:23.480205;I'm so proud of you.I can't wait to see the play.
+3;6;2021-04-27 21:19:16.480205;It is going to be a lot of hard work,but I'm glad I got the part.
+3;3;2021-04-27 21:20:47.480205;When does the play open?
+3;6;2021-04-27 21:21:09.480205;It opens in three weeks.
+3;6;2021-04-27 21:23:01.480205;Great.Get me a ticket.I want to be sitting in the front row.
+3;4;2021-04-27 21:23:15.480205;That is an awesome shirt.
+3;5;2021-04-27 21:23:48.480205;Thank you.It is so nice of you to say.
+3;4;2021-04-27 21:25:01.480205;Where did you get it?
+3;6;2021-04-27 21:26:45.480205;I got it at a store at the mall.
+3;4;2021-04-27 21:28:37.480205;Did it cost a lot?
+3;5;2021-04-27 21:28:56.480205;Things are usually overpriced there.
+3;3;2021-04-27 21:29:13.480205;Actually,it was quite cheap.I got it for $15.99.
+3;6;2021-04-27 21:30:57.480205;That is pretty cheap.
+3;4;2021-04-27 21:31:34.480205;Do they have it in other colors?
+3;6;2021-04-27 21:31:45.480205;Yes,sure.
+3;5;2021-04-27 21:32:43.480205;Would you want to come with me?
+3;5;2021-04-27 21:33:34.480205;We can go after school,if you want?
+3;4;2021-04-27 21:35:08.480205;Do you want to do something?
+3;3;2021-04-27 21:36:45.480205;What did you have in mind?
+3;3;2021-04-27 21:38:31.480205;Do you want to go drink?
+3;3;2021-04-27 21:39:35.480205;No,I have work tomorrow,and I don't want to be hung over.
+3;4;2021-04-27 21:41:02.480205;You don't have to get wasted.
+3;4;2021-04-27 21:42:53.480205;I know you.You won't shut your mouth until I get wasted.
+3;6;2021-04-27 21:43:34.480205;I'm down to go to the record store.
+3;4;2021-04-27 21:44:50.480205;I haven't been there in a while.
+3;5;2021-04-27 21:46:25.480205;Well,what do you want to do?
+3;6;2021-04-27 21:47:32.480205;Let us go to the movies instead?
+3;4;2021-04-27 21:48:33.480205;What is your favorite movie?
+3;4;2021-04-27 21:49:32.480205;The Grand Budapest Hotel.Why do you ask?
+3;3;2021-04-27 21:51:15.480205;I was wondering what types of movies you liked.
+3;6;2021-04-27 21:52:35.480205;Well, that is my favorite movie, but I like all sorts of movies.
+3;6;2021-04-27 21:53:30.480205;How many times would you say you have seen it?
+3;5;2021-04-27 21:55:09.480205;Too many to say.I watch it at least twice a month.
+3;3;2021-04-27 21:57:04.480205;Really,you like it that much?
+3;4;2021-04-27 21:58:11.480205;It is a really good movie.You should watch it.
+3;5;2021-04-27 21:58:52.480205;Could I borrow it?I don't have money to buy it.
+3;4;2021-04-27 22:00:01.480205;Yes,I could lend you the movie,but be careful with it.
+3;4;2021-04-27 22:01:19.480205;I don't know which class to register for.
+3;4;2021-04-27 22:02:52.480205;You should pick the class you need.
+3;6;2021-04-27 22:03:22.480205;I know I need a science class.
+3;4;2021-04-27 22:04:16.480205;I would take biology with Mr. Green.
+3;4;2021-04-27 22:05:14.480205;Its a challenging yet fun class.
+3;6;2021-04-27 22:05:52.480205;I don't like challenges.
+3;3;2021-04-27 22:07:43.480205;Why are you in college then?
+3;5;2021-04-27 22:09:31.480205;My mom forced me to enroll.
+3;3;2021-04-27 22:11:23.480205;You should go to a vocational school instead.
+3;6;2021-04-27 22:11:39.480205;I don't think you understand.
+3;4;2021-04-27 22:12:44.480205;Okay, fine.I recommend Earth Science 125 with Mr. Anderson.
+3;4;2021-04-27 22:14:02.480205;Thanks for the recommendation!
+3;4;2021-04-27 22:14:45.480205;I am so upset.
+3;3;2021-04-27 22:16:16.480205;Oh,no.Talk to me about it.
+3;6;2021-04-27 22:17:48.480205;I can't register for a class I really need.
+3;4;2021-04-27 22:19:19.480205;Is it full?
+3;4;2021-04-27 22:20:25.480205;I have a hold on my record, because my library books were overdue.
+3;3;2021-04-27 22:22:09.480205;Can't you just pay the overdue fees?
+3;3;2021-04-27 22:22:22.480205;I can't afford it.I'm totally broke.
+3;5;2021-04-27 22:24:06.480205;How much do you need?
+3;6;2021-04-27 22:25:57.480205;I need $50.
+3;3;2021-04-27 22:26:43.480205;Wow, you must have kept those books long past the due date.
+3;4;2021-04-27 22:28:24.480205;Yes,I know I am horrible.
+3;3;2021-04-27 22:29:06.480205;I'll lend you the money.
+3;4;2021-04-27 22:30:46.480205;Hi,I'm James.What is your name?
+3;6;2021-04-27 22:32:29.480205;Hi James. My name is Lisa.
+3;4;2021-04-27 22:32:59.480205;I'm taking this class because it seems interesting.Why are you?
+3;6;2021-04-27 22:33:25.480205;I'm taking this class because it is a requirement.
+3;5;2021-04-27 22:34:18.480205;We should get to know each other.
+3;5;2021-04-27 22:35:50.480205;I don't think so.I like keeping to myself.
+3;3;2021-04-27 22:36:47.480205;So you don't like meeting new students?
+3;4;2021-04-27 22:37:32.480205;Nope,I would rather just be alone.
+3;3;2021-04-27 22:38:25.480205;That is so sad!It is not.
+3;4;2021-04-27 22:39:01.480205;It is really peaceful and self-empowering.
+3;4;2021-04-27 22:40:42.480205;Can we at least study together?
+3;4;2021-04-27 22:42:28.480205;Nope,we can't do that.
+3;4;2021-04-27 22:43:52.480205;It takes me hours to find my classroom.
+3;4;2021-04-27 22:45:36.480205;I might be able to help you.
+3;6;2021-04-27 22:46:40.480205;Really?That would be great!
+3;6;2021-04-27 22:48:38.480205;What is your classroom number?
+3;5;2021-04-27 22:50:07.480205;My classroom number is A21.
+3;5;2021-04-27 22:50:32.480205;So the A is the building type.
+3;6;2021-04-27 22:52:08.480205;Okay,but I don't know where that is.
+3;4;2021-04-27 22:53:40.480205;Do you know where the gym is?
+3;3;2021-04-27 22:55:30.480205;Yeah,I do.
+3;5;2021-04-27 22:57:12.480205;Okay,your classroom is behind the gym.
+3;3;2021-04-27 22:58:23.480205;That is really helpful!Thank you.
+3;4;2021-04-27 23:00:08.480205;No problem,and the 21 means it is upstairs
+3;5;2021-04-27 23:00:20.480205;I can't spend anymore money after I buy my English textbook.
+3;3;2021-04-27 23:00:50.480205;How much is your English textbook?
+3;4;2021-04-27 23:02:47.480205;It is $198.I'm not kidding.
+3;6;2021-04-27 23:03:06.480205;That is ridiculously expensive!What is the title of the textbook?
+3;5;2021-04-27 23:04:23.480205;It is called How to Write Well.
+3;3;2021-04-27 23:05:46.480205;Dude, someone is selling that book for $30.
+3;3;2021-04-27 23:07:17.480205;No way.What edition is it?
+3;3;2021-04-27 23:07:54.480205;I think it was the 10th edition.
+3;5;2021-04-27 23:08:31.480205;Oh,no wonder he or she is selling it for only $30.
+3;6;2021-04-27 23:08:48.480205;What edition do you need?
+3;5;2021-04-27 23:09:35.480205;I need the 21st edition.
+3;3;2021-04-27 23:10:03.480205;The publisher seems to be really making money,considering the number of editions.
+3;5;2021-04-27 23:11:46.480205;I hate Professor Hernandez!
+3;3;2021-04-27 23:12:12.480205;Me too! He keeps calling me stupid!
+3;4;2021-04-27 23:13:21.480205;You think that is bad? He gave me an F,because I double spaced my essay!
+3;4;2021-04-27 23:14:30.480205;But every professor wants essays double spaced.He is crazy!
+3;6;2021-04-27 23:15:23.480205;Professor Hernandez is weird.He wants essays triple spaced.
+3;5;2021-04-27 23:16:49.480205;That is just a waste of paper.Why does he like triple spacing?
+3;3;2021-04-27 23:17:02.480205;He says it is because he has to make a lot of corrections,because we're stupid.
+3;4;2021-04-27 23:19:00.480205;We should start a petition, and get him fired!
+3;6;2021-04-27 23:20:06.480205;We should,but he can find out.
+3;5;2021-04-27 23:21:41.480205;I know.If he found out,he would ruin everyone is life.
+3;3;2021-04-27 23:21:59.480205;He is so evil.
+3;4;2021-04-27 23:22:24.480205;That is why this petition has to work
+3;4;2021-04-27 23:22:49.480205;Hey,Professor Hill.
+3;3;2021-04-27 23:24:10.480205;What is it?
+3;6;2021-04-27 23:24:52.480205;I've been having trouble with derivatives.
+3;6;2021-04-27 23:25:49.480205;That is not good.There is a test on derivatives next week.
+3;4;2021-04-27 23:27:03.480205;Can I make an appointment with you for some help?
+3;6;2021-04-27 23:28:17.480205;I'm a busy man.
+3;5;2021-04-27 23:28:55.480205;You didn't even check your schedule yet!
+3;6;2021-04-27 23:30:41.480205;I know I'm busy,because many people already made appointments.
+3;4;2021-04-27 23:31:23.480205;So I'm hopeless?
+3;4;2021-04-27 23:33:08.480205;Of course not!There is the tutoring center.
+3;4;2021-04-27 23:34:23.480205;But the tutors are not professors.They're just students.
+3;3;2021-04-27 23:35:23.480205;They might surprise you
+3;5;2021-04-27 23:36:13.480205;May I turn in my homework tomorrow?
+3;5;2021-04-27 23:37:45.480205;It is due today.
+3;5;2021-04-27 23:39:05.480205;I know,but I don't have it right now.
+3;4;2021-04-27 23:39:59.480205;How come?
+3;6;2021-04-27 23:40:15.480205;No!I left it at home.
+3;6;2021-04-27 23:40:28.480205;I can't take your word for it.
+3;5;2021-04-27 23:42:24.480205;Why not?I'm an A+ student.
+3;6;2021-04-27 23:43:37.480205;How do I know if you even did the homework?
+3;5;2021-04-27 23:44:51.480205;I'll ask my mom to take a picture of it and send it to me.
+3;5;2021-04-27 23:46:42.480205;That is fair enough.
+3;6;2021-04-27 23:47:05.480205;Thanks,Also,you should try trusting students more. We're not all that bad.
+3;3;2021-04-27 23:47:58.480205;I'll try,but I can't promise anything.
+3;4;2021-04-27 23:48:58.480205;I have to tell you something.
+3;6;2021-04-27 23:49:10.480205;What is it?
+3;4;2021-04-27 23:49:39.480205;You graded my test incorrectly.I got this wrong,but you didn't mark it.
+3;3;2021-04-27 23:51:31.480205;Wow!I have never met a more honest student.
+3;3;2021-04-27 23:52:15.480205;I just felt wrong.
+3;4;2021-04-27 23:54:11.480205;Just keep the score you have.
+3;6;2021-04-27 23:55:35.480205;Really?That is awesome.
+3;5;2021-04-27 23:57:20.480205;Yes,I have to ask,why did you decide to tell me?
+3;4;2021-04-27 23:57:44.480205;I'm really bad at lying.
+3;5;2021-04-27 23:58:03.480205;That is a good thing!Your honesty is praiseworthy.
+3;5;2021-04-27 23:58:34.480205;Thanks,Want to give me extra credit?
+3;5;2021-04-27 23:59:14.480205;Don't push it.
+3;3;2021-04-27 23:59:33.480205;Can I borrow your class notes from yesterday is lecture?
+3;5;2021-04-27 23:59:56.480205;You're so lazy.
+3;6;2021-04-28 00:00:17.480205;What are you talking about? I was sick yesterday.
+3;6;2021-04-28 00:00:37.480205;I don't care.
+3;3;2021-04-28 00:01:09.480205;You're so mean!
+3;6;2021-04-28 00:02:11.480205;I can't let anyone borrow my class notes.
+3;3;2021-04-28 00:02:33.480205;Why not?They're just notes.
+3;6;2021-04-28 00:02:48.480205;I let a classmate borrow my notes once,and she sold copies to people.
+3;5;2021-04-28 00:04:00.480205;That is crazy,For how much?
+3;4;2021-04-28 00:04:54.480205;She sold each class note set for $5.
+3;4;2021-04-28 00:05:51.480205;Don't worry,I promise not to sell your notes.
+3;3;2021-04-28 00:06:31.480205;I can't take your word for it
+3;3;2021-04-28 00:06:45.480205;I think your grading policy is unfair.
+3;6;2021-04-28 00:07:16.480205;I beg your pardon?!
+3;6;2021-04-28 00:08:39.480205;Why is a 90% a B?
+3;4;2021-04-28 00:08:51.480205;I'm trying to challenge you guys.
+3;4;2021-04-28 00:09:51.480205;That is not a challenge,that is a punishment.
+3;3;2021-04-28 00:11:41.480205;I've had this policy since I started teaching.
+3;3;2021-04-28 00:13:18.480205;It is time for a change.
+3;4;2021-04-28 00:13:47.480205;I'm not changing my policy because you don't like it.
+3;3;2021-04-28 00:14:28.480205;Put yourself in my shoes.
+3;3;2021-04-28 00:15:56.480205;I have been a student once,and I think my policy is fair.
+3;4;2021-04-28 00:16:31.480205;I'm going to drop your class
+3;6;2021-04-28 00:16:42.480205;Go ahead!Less for me to grade!
+3;6;2021-04-28 00:17:34.480205;I have a 89.5%.
+3;4;2021-04-28 00:17:54.480205;Okay,so what?
+3;4;2021-04-28 00:19:18.480205;It is really close to an A.
+3;3;2021-04-28 00:19:52.480205;You know I don't round up.
+3;5;2021-04-28 00:21:28.480205;But I really need a 4.0 GPA.
+3;3;2021-04-28 00:22:52.480205;You get what you deserve.
+3;5;2021-04-28 00:24:00.480205;I know I deserve an A,I always do great work and participate.
+3;4;2021-04-28 00:25:50.480205;I can't change it.
+3;6;2021-04-28 00:27:30.480205;Please? I'll wash your car.
+3;3;2021-04-28 00:28:33.480205;Are you bribing me?
+3;6;2021-04-28 00:29:49.480205;I just want an A.
+3;3;2021-04-28 00:30:44.480205;I'll give you a C if you don't leave now.
+3;3;2021-04-28 00:31:26.480205;Why were you absent yesterday?
+3;6;2021-04-28 00:33:11.480205;Why do you care?
+3;5;2021-04-28 00:34:40.480205;You should be thankful I care so much about your education.
+3;4;2021-04-28 00:35:45.480205;The truth is,I didn't hear the alarm clock.
+3;4;2021-04-28 00:36:52.480205;You missed out on a very important lecture.
+3;5;2021-04-28 00:38:17.480205;It happens. I'll just ask my friend what was on the lecture.
+3;6;2021-04-28 00:39:08.480205;Is she a good note taker?
+3;6;2021-04-28 00:39:24.480205;I don't know.I guess?
+3;3;2021-04-28 00:40:55.480205;If you were in class,you wouldn't have to rely on anyone is notes.
+3;3;2021-04-28 00:42:39.480205;I can't change the past.
+3;4;2021-04-28 00:43:41.480205;I know,Anyways,you should increase the volume on your alarm clock.
+3;6;2021-04-28 00:45:34.480205;I suppose I could do that.
+3;4;2021-04-28 00:46:19.480205;I have to leave class early tomorrow.
+3;5;2021-04-28 00:47:51.480205;I don't like that.Just don't come to class.
+3;6;2021-04-28 00:48:47.480205;Don't be like that,Professor I have to attend my moms funeral.
+3;3;2021-04-28 00:50:25.480205;I'm sorry for your loss.
+3;5;2021-04-28 00:51:35.480205;It is okay.I'm going to miss her.
+3;5;2021-04-28 00:53:32.480205;I lost my mom when I was in college, too.
+3;3;2021-04-28 00:54:36.480205;Saddest thing ever,right?
+3;3;2021-04-28 00:55:00.480205;Yes.You know what?Take a week off school.
+3;6;2021-04-28 00:56:49.480205;I can't do that.I have too many responsibilities.
+3;4;2021-04-28 00:57:42.480205;Take my advice.
+3;3;2021-04-28 00:58:21.480205;I'll think about it.
+3;4;2021-04-28 00:58:45.480205;If you ever need to talk,my door is open.
+3;6;2021-04-28 00:59:28.480205;I would like to see my counselor now.
+3;3;2021-04-28 00:59:45.480205;Sorry,she doesn't have any time today.
+3;4;2021-04-28 01:01:38.480205;Are you serious?
+3;3;2021-04-28 01:02:13.480205;Yes,I am,Please make an appointment for next week.
+3;5;2021-04-28 01:02:49.480205;I really need to see her.
+3;4;2021-04-28 01:03:03.480205;I'm sorry,but you really can't.
+3;4;2021-04-28 01:05:01.480205;I swear,I will bang on her door and scream.
+3;5;2021-04-28 01:06:25.480205;Don't make a scene.
+3;3;2021-04-28 01:06:41.480205;If you don't want me to make a scene,tell the counselor I'm here.
+3;6;2021-04-28 01:08:15.480205;Fine!You can only talk to her for five minutes,though.
+3;3;2021-04-28 01:10:14.480205;That is all I need.
+3;4;2021-04-28 01:11:21.480205;Next time,you'd better make an appointment.
+3;6;2021-04-28 01:12:28.480205;I'm glad you came to talk to me today.
+3;6;2021-04-28 01:13:54.480205;You kind of forced me to.
+3;4;2021-04-28 01:14:35.480205;That is because I'm worried.
+3;3;2021-04-28 01:15:34.480205;What are you worried about?
+3;6;2021-04-28 01:17:02.480205;You withdrew from 4 of your 5 classes last semester.
+3;4;2021-04-28 01:17:30.480205;I was doing poorly!
+3;6;2021-04-28 01:18:02.480205;And why was that exactly?
+3;4;2021-04-28 01:18:53.480205;It was just too hard.
+3;5;2021-04-28 01:20:51.480205;You're really behind now.You might have to spend 6 years here.
+3;6;2021-04-28 01:21:36.480205;Can't I just take summer classes?
+3;4;2021-04-28 01:22:07.480205;Yes,but you don't want to stress yourself out.
+3;5;2021-04-28 01:22:22.480205;I don't really have a choice.
+3;4;2021-04-28 01:23:37.480205;I'm thinking of adding another class.
+3;3;2021-04-28 01:24:10.480205;Another one?You already have 7 classes.
+3;3;2021-04-28 01:25:47.480205;I know,but I really want to add Psychology 101,It seems interesting.
+3;4;2021-04-28 01:26:08.480205;You're going to be so stressed out.
+3;6;2021-04-28 01:27:20.480205;I think I can handle 8 classes.
+3;3;2021-04-28 01:27:50.480205;Seriously?You're going to be constantly in class or studying.
+3;5;2021-04-28 01:28:53.480205;I know,but it is worth it.
+3;5;2021-04-28 01:29:42.480205;Tell me that when I'm partying and you're not.
+3;6;2021-04-28 01:31:25.480205;How many classes are you taking?Two?
+3;5;2021-04-28 01:32:57.480205;Haha!You're funny.I'm taking three.
+3;6;2021-04-28 01:34:37.480205;That is so little.Don't you feel like an underachiever?
+3;3;2021-04-28 01:35:57.480205;Remind me again why we're friends.
+3;3;2021-04-28 01:36:26.480205;Want to go to the writing workshop with me today?
+3;4;2021-04-28 01:38:06.480205;Nah man,my writing skills is tight.
+3;5;2021-04-28 01:39:23.480205;You mean "are" instead of "is,"right?
+3;3;2021-04-28 01:41:09.480205;Yeah,of course!
+3;5;2021-04-28 01:42:07.480205;You should come with me.Our college has great workshops.
+3;6;2021-04-28 01:42:38.480205;I don't want to look stupid.
+3;6;2021-04-28 01:43:31.480205;You won't.You look stupid using incorrect grammar.
+3;6;2021-04-28 01:43:41.480205;Fine.How long is the workshop?
+3;3;2021-04-28 01:45:07.480205;It is about an hour.
+3;3;2021-04-28 01:45:21.480205;I don't think my attention span is more than 5 minutes.
+3;4;2021-04-28 01:47:14.480205;Don't worry,I'll pinch you to wake you up.
+3;6;2021-04-28 01:48:49.480205;That is a clever idea.
+3;5;2021-04-28 01:50:22.480205;I'm planning to study abroad this summer.
+3;5;2021-04-28 01:50:35.480205;Cool!Where are you going?
+3;5;2021-04-28 01:51:48.480205;I'm going to Italy.
+3;5;2021-04-28 01:52:25.480205;What are you doing there?
+3;5;2021-04-28 01:53:53.480205;I'm taking a cooking class.
+3;6;2021-04-28 01:54:48.480205;That sounds interesting.
+3;4;2021-04-28 01:56:46.480205;I'm excited to learn in a totally new environment.
+3;3;2021-04-28 01:57:14.480205;Italy seems beautiful.
+3;6;2021-04-28 01:58:43.480205;It is beautiful in the pictures I've seen.
+3;5;2021-04-28 02:00:03.480205;Take a lot when you're there.
+3;4;2021-04-28 02:00:21.480205;I will,and I'll study hard, too.
+3;5;2021-04-28 02:00:31.480205;Also,learn some Italian while you're there.
+3;6;2021-04-28 02:01:15.480205;I hope I can find a job after graduation.
+3;4;2021-04-28 02:02:27.480205;What is your major?
+3;6;2021-04-28 02:02:48.480205;My major is geology.
+3;5;2021-04-28 02:04:22.480205;Geology majors aren't very high in demand,but you'll do fine.
+3;5;2021-04-28 02:05:52.480205;What makes you say that?
+3;3;2021-04-28 02:06:08.480205;You're smart and likeable.Don't worry.
+3;4;2021-04-28 02:07:03.480205;Thanks,but I'm still scared.
+3;3;2021-04-28 02:07:23.480205;Oh,hey!You should go to the job fair.
+3;3;2021-04-28 02:08:59.480205;We have that here?
+3;4;2021-04-28 02:09:43.480205;Yes.Take advantage of it.
+3;6;2021-04-28 02:11:35.480205;Have you ever been there?
+3;6;2021-04-28 02:13:21.480205;Yes,and it is really helpful.Dress nicely!
+3;4;2021-04-28 02:13:32.480205;I am so sick of dining hall food.
+3;5;2021-04-28 02:14:24.480205;Me too!It is so unhealthy.
+3;5;2021-04-28 02:15:09.480205;We should go to a restaurant nearby.
+3;5;2021-04-28 02:16:46.480205;Want to go to Health Nut?
+3;6;2021-04-28 02:17:19.480205;What a funny name!
+3;5;2021-04-28 02:18:54.480205;I like it!
+3;4;2021-04-28 02:20:27.480205;Do they sell nuts?
+3;5;2021-04-28 02:20:56.480205;I'm not sure.Anyways,I want to try their organic tofu.
+3;3;2021-04-28 02:22:49.480205;I'm allergic to tofu.
+3;3;2021-04-28 02:23:36.480205;That is okay!They serve a wide variety of food.
+3;6;2021-04-28 02:24:37.480205;Great!I'm just glad we're not eating dining hall food.
+3;6;2021-04-28 02:26:08.480205;Me too.Let us go!
+3;3;2021-04-28 02:26:24.480205;Why are you taking so long?Is something wrong?
+3;3;2021-04-28 02:27:09.480205;Sorry,my bag of chips got stuck.
+3;4;2021-04-28 02:28:18.480205;Vending machines suck,huh?
+3;3;2021-04-28 02:29:46.480205;They're the worst,but the food is great.
+3;5;2021-04-28 02:30:08.480205;It might come out if someone buys an item from the same column yours is on.
+3;5;2021-04-28 02:31:28.480205;Can you be that someone?
+3;3;2021-04-28 02:31:57.480205;Sure,why not?I could use some chips.
+3;5;2021-04-28 02:33:16.480205;Thanks!Hey,what is your name?
+3;3;2021-04-28 02:34:27.480205;My name is Charlie.
+3;4;2021-04-28 02:35:52.480205;Nice to meet you,Charlie.
+3;4;2021-04-28 02:36:04.480205;What is your name?
+3;3;2021-04-28 02:37:16.480205;Hater of Vending Machines.
+3;5;2021-04-28 02:39:08.480205;I would like to purchase the book for Sociology
+3;4;2021-04-28 02:40:36.480205;May I see your student ID?
+3;3;2021-04-28 02:40:55.480205;I didn't know we needed it.
+3;3;2021-04-28 02:42:34.480205;Please go get your ID,and get in line again.
+3;6;2021-04-28 02:44:31.480205;But I waited in line for two hours!
+3;3;2021-04-28 02:45:32.480205;I'm sorry,but you need a student ID to purchase textbooks here.
+3;4;2021-04-28 02:45:55.480205;Are there any other options?
+3;3;2021-04-28 02:46:47.480205;Show me proof that you're a student at this college,and you'll be good.
+3;5;2021-04-28 02:47:15.480205;I have my report card.Here it is.
+3;5;2021-04-28 02:48:25.480205;This will do.Nice grades by the way.
+3;4;2021-04-28 02:48:43.480205;Thanks!I worked very hard for them.
+3;4;2021-04-28 02:50:19.480205;Good luck with this semester.
+3;4;2021-04-28 02:51:23.480205;Wow!Your books are over the due date by one month.
+3;6;2021-04-28 02:53:19.480205;It would have been longer if there wasn't a hold on my record.
+3;3;2021-04-28 02:54:36.480205;What kind of hold is on your record?
+3;5;2021-04-28 02:55:19.480205;A hold that won't let me go to the college football game.
+3;6;2021-04-28 02:56:04.480205;Oh,that is tough.
+3;4;2021-04-28 02:56:46.480205;Yeah.My girlfriend is actually a cheerleader and so I have to go.
+3;4;2021-04-28 02:57:23.480205;You're not going to like what I'm going to say.
+3;4;2021-04-28 02:58:59.480205;What is it?
+3;5;2021-04-28 03:00:52.480205;I can't remove the hold even if you pay the overdue fee.
+3;4;2021-04-28 03:02:14.480205;Is it a technical error?
+3;4;2021-04-28 03:02:53.480205;I don't know!I just can't remove it!
+3;4;2021-04-28 03:04:00.480205;If my girlfriend breaks up with me,I'm blaming you
+3;6;2021-04-28 03:05:35.480205;What do you plan to do after you graduate from here?
+3;4;2021-04-28 03:06:51.480205;I'm planning to go to medical school,You?
+3;4;2021-04-28 03:07:58.480205;I'm planning to teach English in underprivileged countries.
+3;5;2021-04-28 03:08:46.480205;That is really kind of you.
+3;6;2021-04-28 03:09:41.480205;Thanks,The first country I'm teaching in is Kenya.
+3;4;2021-04-28 03:11:19.480205;While you're at Kenya,I'll be studying for medical school.
+3;5;2021-04-28 03:11:58.480205;What kind of doctor do you want to be?
+3;5;2021-04-28 03:13:34.480205;I want to be a pediatrician.
+3;5;2021-04-28 03:15:10.480205;Because you like kids?
+3;5;2021-04-28 03:17:01.480205;I don't really have a good reason.I just think I'll be good at it.
+3;5;2021-04-28 03:17:21.480205;You should do what you love,not necessarily what you're good at.
+3;6;2021-04-28 03:19:05.480205;That is very cheesy advice.
+3;5;2021-04-28 03:20:42.480205;The parking permit is $200 per semester,right?
+3;6;2021-04-28 03:21:19.480205;It is actually $300.
+3;5;2021-04-28 03:21:53.480205;Why?!That is ridiculous.
+3;6;2021-04-28 03:22:45.480205;It is because of the budget cuts.
+3;3;2021-04-28 03:24:01.480205;That is a terrible excuse.
+3;6;2021-04-28 03:25:56.480205;It is the truth.
+3;6;2021-04-28 03:26:52.480205;Give me something better than that.
+3;6;2021-04-28 03:27:28.480205;Miss,if you don't want to pay,then don't.
+3;5;2021-04-28 03:28:01.480205;This is so stressful.
+3;4;2021-04-28 03:29:10.480205;I advise writing a letter to the dean.
+3;5;2021-04-28 03:30:48.480205;I bet he'll just throw it away.
+3;6;2021-04-28 03:31:23.480205;You would be surprised.
+3;6;2021-04-28 03:33:13.480205;Do you have a car on campus?
+3;5;2021-04-28 03:35:00.480205;No,because it is hard to find parking here.
+3;3;2021-04-28 03:36:23.480205;How do you get to places then?
+3;6;2021-04-28 03:38:16.480205;I walk or take the bus.
+3;6;2021-04-28 03:38:29.480205;That is crazy!I could never do that.
+3;6;2021-04-28 03:39:12.480205;You should.It is great for the environment.
+3;4;2021-04-28 03:40:06.480205;That is true.What do you do for fun then?
+3;4;2021-04-28 03:41:24.480205;There is a lot of stuff to do around campus.
+3;6;2021-04-28 03:42:17.480205;I never realized.
+3;6;2021-04-28 03:43:58.480205;You should do some exploring.
+3;4;2021-04-28 03:44:48.480205;You convinced me.I won't bring my car this semester.
+3;6;2021-04-28 03:45:38.480205;We can walk to places together now!
+3;3;2021-04-28 03:46:59.480205;You know you can't park here,right?
+3;4;2021-04-28 03:48:52.480205;Listen,I had to talk to my friend really quickly and there was no parking spaces.
+3;3;2021-04-28 03:50:11.480205;I'm going to have to give you a ticket.
+3;5;2021-04-28 03:50:52.480205;I'm a broke college student.
+3;3;2021-04-28 03:51:12.480205;And I'm a broke police officer.Deal with it.
+3;4;2021-04-28 03:51:58.480205;Can't you just let me off with a warning?
+3;5;2021-04-28 03:53:21.480205;No way.I have to be firm with you.
+3;5;2021-04-28 03:54:03.480205;I'll buy you a box of donuts.
+3;5;2021-04-28 03:55:07.480205;You have got to be kidding me.
+3;6;2021-04-28 03:56:29.480205;I thought all cops liked donuts.
+3;5;2021-04-28 03:57:26.480205;That is a stereotype.You should really learn to be quiet.
+3;3;2021-04-28 03:58:43.480205;I'll stay quiet if you let me off with a warning.
+3;5;2021-04-28 03:59:51.480205;I'm thinking of joining a sports club on campus.
+3;3;2021-04-28 04:00:39.480205;You should!It takes away the stress of studying.
+3;6;2021-04-28 04:01:44.480205;What sport do you play?
+3;4;2021-04-28 04:03:06.480205;I actually play on our university is baseball team.
+3;5;2021-04-28 04:03:19.480205;That is cool!You must be really good.
+3;6;2021-04-28 04:04:11.480205;Yeah,I have a baseball scholarship.
+3;5;2021-04-28 04:04:53.480205;No wonder you're in such great shape!
+3;4;2021-04-28 04:06:04.480205;You'll be in great shape too after joining a sports club.
+3;4;2021-04-28 04:06:37.480205;I'm thinking of joining the tennis club.
+3;6;2021-04-28 04:07:31.480205;I wouldn't if I were you.The members don't even play tennis.
+3;6;2021-04-28 04:09:00.480205;What do they do then?
+3;5;2021-04-28 04:09:50.480205;They just talk about tennis.They never even touched a racket,though.
+3;6;2021-04-28 04:10:04.480205;College is so boring.All I do is go to class.
+3;3;2021-04-28 04:11:45.480205;You should join some clubs.
+3;4;2021-04-28 04:12:26.480205;Are you a part of any clubs?
+3;4;2021-04-28 04:14:12.480205;Yes!I am currently in the Animal Lovers Club and the Knitting Club.
+3;5;2021-04-28 04:15:46.480205;What do you do in the Animal Lovers Club?
+3;6;2021-04-28 04:16:05.480205;We do a lot of things!Last week,we walked dogs.
+3;4;2021-04-28 04:16:50.480205;That sounds fun,What is the wildest animal you ever interacted with?
+3;5;2021-04-28 04:17:18.480205;I touched a dodo bird a couple weeks ago.
+3;4;2021-04-28 04:18:55.480205;Dodo birds are extinct.
+3;5;2021-04-28 04:20:18.480205;I'm just messing with you!
+3;3;2021-04-28 04:20:44.480205;You're silly!Okay,I'll join the Animal Lovers Club.
+3;3;2021-04-28 04:21:17.480205;Great!We always welcome new members.
+3;5;2021-04-28 04:23:13.480205;I have to go to bed early.
+3;4;2021-04-28 04:24:55.480205;Why?The night is still young!
+3;6;2021-04-28 04:26:10.480205;I have a class at 7 a.m.
+3;5;2021-04-28 04:27:52.480205;That is tough!My earliest class is at 9 a.m.
+3;5;2021-04-28 04:28:18.480205;That sounds amazing to me.
+3;4;2021-04-28 04:30:14.480205;How do you stay awake in that class?
+3;4;2021-04-28 04:30:50.480205;Before I go to class,I drink four cups of coffee and take a cold shower.
+3;4;2021-04-28 04:31:13.480205;Interesting routine.Does it work?
+3;6;2021-04-28 04:31:47.480205;Kind of.It is better than not doing it at all.
+3;5;2021-04-28 04:33:35.480205;Why are you taking that class?
+3;4;2021-04-28 04:34:59.480205;It is only offered once a year,so I have to take it now.
+3;6;2021-04-28 04:36:08.480205;I hope the class is interesting,at least.
+3;3;2021-04-28 04:37:50.480205;I hate my roommate.
+3;6;2021-04-28 04:38:31.480205;I'm sorry to hear that.What is wrong with her?
+3;4;2021-04-28 04:40:12.480205;A lot of things.First of all,she snores so loudly!
+3;6;2021-04-28 04:40:35.480205;That is not really her fault.What else?
+3;5;2021-04-28 04:41:33.480205;She never takes a shower.
+3;3;2021-04-28 04:42:09.480205;That is disgusting!You should tell her to take a shower.
+3;5;2021-04-28 04:44:08.480205;I did!She got mad at me and then proceeded to slap me.
+3;3;2021-04-28 04:44:36.480205;Ouch!Did you try to get a new roommate?
+3;6;2021-04-28 04:46:04.480205;I tried,but I could not.No one was willing to switch.
+3;5;2021-04-28 04:46:55.480205;I guess you can get a new room by yourself.
+3;3;2021-04-28 04:47:47.480205;Are you okay?You look really sad.
+3;5;2021-04-28 04:49:45.480205;I'm homesick,I feel so out of place here.
+3;6;2021-04-28 04:50:18.480205;But this college is so awesome?
+3;6;2021-04-28 04:52:14.480205;I know,but I really miss home.
+3;5;2021-04-28 04:52:46.480205;How far do you live?
+3;4;2021-04-28 04:54:21.480205;Far.Let is just say I need an airplane to get there.
+3;4;2021-04-28 04:55:22.480205;It is almost winter break.Hang in there?
+3;6;2021-04-28 04:55:35.480205;I don't think I can handle it anymore.
+3;3;2021-04-28 04:57:13.480205;Don't you want to stop feeling sad?
+3;6;2021-04-28 04:58:19.480205;Okay,I'll call them now.
+3;6;2021-04-28 04:59:27.480205;could I change my major from biology to political science?
+3;5;2021-04-28 05:00:45.480205;Those majors are very different from each other.
+3;5;2021-04-28 05:02:12.480205;can't I see myself studying it anymore?
+3;4;2021-04-28 05:03:13.480205;You can change it,but you'll have to take more classes.
+3;6;2021-04-28 05:03:56.480205;I don't mind.Political science is really interesting to me.
+3;5;2021-04-28 05:05:11.480205;You would be graduating a year late?
+3;6;2021-04-28 05:07:10.480205;Oh,no.I have to think a little more about this then.
+3;5;2021-04-28 05:08:47.480205;I think you should change it,since you hate biology.
+3;6;2021-04-28 05:09:08.480205;Are you making the right choice?
+3;5;2021-04-28 05:10:25.480205;I have decided to drop out of college.
+3;3;2021-04-28 05:12:12.480205;Are you making the worst decision of your life?
+3;3;2021-04-28 05:14:06.480205;I just don't get the point of college.It is just memorizing.
+3;3;2021-04-28 05:15:02.480205;What are you going to do then?
+3;5;2021-04-28 05:16:03.480205;I'm going to get a job!
+3;3;2021-04-28 05:16:48.480205;As what?A burger flipper?
+3;5;2021-04-28 05:18:29.480205;Don't be mean.I'm going to be rich and successful when I'm older.
+3;3;2021-04-28 05:20:13.480205;is it almost impossible to be rich and successful without a college degree?
+3;6;2021-04-28 05:20:31.480205;Look at Steve Jobs!He dropped out of college.
+3;3;2021-04-28 05:21:55.480205;is he a rare case?
+3;4;2021-04-28 05:23:32.480205;Watch me prove you wrong.
+3;5;2021-04-28 05:24:42.480205;What is that exactly?
+3;4;2021-04-28 05:26:27.480205;It is an expression to refer to the observation that many college freshmen gain weight.
+3;4;2021-04-28 05:26:44.480205;Do I have time?
+3;3;2021-04-28 05:28:07.480205;You just have to make time.
+3;6;2021-04-28 05:29:28.480205;Did you gain any weight?
+3;4;2021-04-28 05:30:01.480205;Yeah,I just wear big clothes to hide my fat.
+3;3;2021-04-28 05:32:00.480205;Hi,I'm here to apply for a library card.
+3;3;2021-04-28 05:32:21.480205;Is this your first time applying for one?
+3;3;2021-04-28 05:33:08.480205;It is my first time applying for a card here.
+3;5;2021-04-28 05:34:31.480205;Do you have cards with any other libraries?
+3;5;2021-04-28 05:35:55.480205;Yes,I have one with my college and one with my local library.
+3;5;2021-04-28 05:36:13.480205;What college do you go to?
+3;6;2021-04-28 05:37:01.480205;What do you like about it?
+3;5;2021-04-28 05:37:55.480205;I like the foreign language books.That is rare for any library.
+3;3;2021-04-28 05:38:21.480205;Yes,it is!We get people all over the world because of that section.
+3;5;2021-04-28 05:38:31.480205;I really need a book,but I didn't see it on the shelf.
+3;4;2021-04-28 05:39:37.480205;So someone else has the book and plans on checking it out?
+3;6;2021-04-28 05:40:08.480205;Either that or someone took it out of the shelf and misplaced it.
+3;5;2021-04-28 05:40:45.480205;I really need that book.
+3;5;2021-04-28 05:42:33.480205;You're going to have to look everywhere for it.
+3;3;2021-04-28 05:44:09.480205;Can't you just make an announcement asking whoever has the book to come forward?
+3;6;2021-04-28 05:45:39.480205;You are not that special.
+3;5;2021-04-28 05:47:05.480205;can you help me find a book on tigers?
+3;4;2021-04-28 05:47:30.480205;Yes,of course.
+3;3;2021-04-28 05:48:30.480205;Is it for a school project?
+3;6;2021-04-28 05:49:19.480205;Yes,I'm doing an essay on the life of a tiger.
+3;4;2021-04-28 05:50:51.480205;You're going to want one with a lot of words and less pictures
+3;3;2021-04-28 05:51:04.480205;yes,ofcourse.
+3;4;2021-04-28 05:51:40.480205;Fine,I admit you're right.
+3;6;2021-04-28 05:53:19.480205;You can borrow the book with pictures for your own pleasure
+3;4;2021-04-28 05:55:10.480205;Great!You're so helpful.
+3;4;2021-04-28 05:55:28.480205;It is my job to be helpful.
+3;5;2021-04-28 05:56:49.480205;I would like to reserve The Hunger Games. 
+3;5;2021-04-28 05:58:17.480205;Everyone wants to reserve that book these days.
+3;5;2021-04-28 05:58:45.480205;It is really popular,because the movie just came out.
+3;4;2021-04-28 06:00:32.480205;You have to pay $1 to reserve the book.
+3;5;2021-04-28 06:01:13.480205;What?!That is ridiculous.
+3;3;2021-04-28 06:01:39.480205;Like you said,it is popular.
+3;5;2021-04-28 06:02:39.480205;How much is the book?
+3;4;2021-04-28 06:03:14.480205;On the back,it says it is $15,It depends on the bookstore you go to though.
+3;5;2021-04-28 06:03:33.480205;Fine,I'll give you a $1.
+3;5;2021-04-28 06:03:59.480205;You won't regret it!The book is really good.
+3;3;2021-04-28 06:04:35.480205;I'm sorry,but you can't borrow this book.
+3;6;2021-04-28 06:06:07.480205;What do you mean?
+3;3;2021-04-28 06:07:48.480205;You have not paid your late fees for your overdue books.
+3;6;2021-04-28 06:09:14.480205;I never had any overdue books!
+3;4;2021-04-28 06:10:55.480205;The computer doesn't lie.
+3;3;2021-04-28 06:11:24.480205;What books do I have late fees for?
+3;6;2021-04-28 06:11:52.480205;They're all math books,and according to the system, you still have them.
+3;4;2021-04-28 06:12:30.480205;Oh yeah,I do!I totally forgot about them and left them on my bed.
+3;6;2021-04-28 06:13:56.480205;Once you return them and pay the fee,you can borrow books again.
+3;6;2021-04-28 06:14:36.480205;But I really need to borrow those books now.
+3;5;2021-04-28 06:16:27.480205;I can put them on hold for you.
+3;6;2021-04-28 06:16:46.480205;Yes!You are the best.
+3;5;2021-04-28 06:18:27.480205;I'm so frustrated,I can't find any books on my research topic at my library.
+3;4;2021-04-28 06:18:45.480205;Why don't you try a different library?
+3;5;2021-04-28 06:18:58.480205;I don't want to waste gas money.
+3;5;2021-04-28 06:20:10.480205;But you might find your book.
+3;6;2021-04-28 06:20:59.480205;What library do you suggest?
+3;4;2021-04-28 06:21:09.480205;I suggest the one near my house.
+3;5;2021-04-28 06:21:46.480205;That is way too far for me.
+3;3;2021-04-28 06:23:42.480205;They have a lot of books.That library has never disappointed me.
+3;6;2021-04-28 06:25:31.480205;Why don't you borrow them for me?
+3;5;2021-04-28 06:27:00.480205;I don't know about that.
+3;6;2021-04-28 06:27:17.480205;What if you lose the books?
+3;4;2021-04-28 06:27:50.480205;I won't.I swear on my life.
+3;3;2021-04-28 06:28:58.480205;Wow,you're so serious.
+3;5;2021-04-28 06:29:22.480205;This is a great book you're checking out.
+3;6;2021-04-28 06:30:32.480205;You have read it?
+3;3;2021-04-28 06:31:34.480205;Read it?I memorized it!It is one of my favorites.
+3;3;2021-04-28 06:32:20.480205;can I check out more than one?
+3;4;2021-04-28 06:32:39.480205;Of course!It would be crazy if you could only get one book.
+3;5;2021-04-28 06:33:03.480205;That is awesome!I'll be back.
+3;6;2021-04-28 06:34:09.480205;Don't go crazy now.The limit is 15 books.
+3;6;2021-04-28 06:34:59.480205;Don't worry.I'll probably come back with 5 more books.
+3;4;2021-04-28 06:36:40.480205;It is great to see a kid excited about reading.
+3;6;2021-04-28 06:38:35.480205;Would you like to check it out?
+3;4;2021-04-28 06:39:51.480205;Yes,I'd like to check it out.
+3;6;2021-04-28 06:41:35.480205;Interesting magazine choice,Reading about celebrities is not really smart of you.
+3;5;2021-04-28 06:42:59.480205;Don't judge me,I can't read educational stuff all the time.
+3;6;2021-04-28 06:43:22.480205;I do!I read Time and National Geographic.
+3;4;2021-04-28 06:44:16.480205;Everyone is taste is different.
+3;3;2021-04-28 06:45:23.480205;How long do you want to check that video out for?
+3;4;2021-04-28 06:46:14.480205;One week would be nice.
+3;6;2021-04-28 06:46:58.480205;That will be $5.
+3;5;2021-04-28 06:48:03.480205;What?!I thought I could check out videos for free.
+3;4;2021-04-28 06:48:58.480205;You can check out educational videos for free.
+3;6;2021-04-28 06:49:08.480205;This is bogus.
+3;5;2021-04-28 06:50:41.480205;It is still not a bad price.
+3;4;2021-04-28 06:52:35.480205;Okay,what if I only borrow it for a day?
+3;5;2021-04-28 06:53:49.480205;It will be $2.
+3;6;2021-04-28 06:54:38.480205;Okay,here is $2.
+3;4;2021-04-28 06:56:13.480205;So much for a library that services the public.
+3;5;2021-04-28 06:57:14.480205;I hope you enjoy the movie.
+3;4;2021-04-28 06:58:06.480205;For 2 bucks,I'd better love the movie
+3;3;2021-04-28 06:58:16.480205;There is a huge rip here.
+3;5;2021-04-28 07:00:00.480205;Did you put the tape there?
+3;3;2021-04-28 07:00:35.480205;No,it was there before.
+3;5;2021-04-28 07:01:31.480205;I know you're lying to me.
+3;6;2021-04-28 07:02:15.480205;If you know,then why did you ask if I put the tape on?
+3;6;2021-04-28 07:03:44.480205;I wanted to see if you were a liar or not.
+3;5;2021-04-28 07:04:34.480205;How did you know I'm lying?
+3;3;2021-04-28 07:05:25.480205;Before you check out the book,the librarian checks it for damage.
+3;4;2021-04-28 07:06:42.480205;Wow,you guys think of everything.
+3;3;2021-04-28 07:07:40.480205;Are you kidding me?
+3;6;2021-04-28 07:09:35.480205;No,I am not kidding you.
+3;5;2021-04-28 07:11:05.480205;Are you looking for something?
+3;5;2021-04-28 07:13:00.480205;I'm researching for my project.
+3;5;2021-04-28 07:13:10.480205;Can you come back tomorrow?Your daily computer limit time is up.
+3;6;2021-04-28 07:13:30.480205;I don't have a computer at home.
+3;6;2021-04-28 07:14:38.480205;My project is due very soon.I need to research.
+3;3;2021-04-28 07:15:00.480205;How about books?This is a library after all.
+3;3;2021-04-28 07:16:16.480205;I'll help you.
+3;5;2021-04-28 07:16:36.480205;Thank you.I appreciate it
+3;5;2021-04-28 07:18:14.480205;How much do I need to insert here to make one copy?
+3;6;2021-04-28 07:19:23.480205;It depends.
+3;3;2021-04-28 07:19:57.480205;Do you want your copy in color or black and white?
+3;4;2021-04-28 07:21:38.480205;I want it in color.
+3;6;2021-04-28 07:23:26.480205;Then it will be 20 cents per page.
+3;5;2021-04-28 07:25:14.480205;That is kind of expensive.
+3;5;2021-04-28 07:25:26.480205;Yeah,but most of us don't have a copy machine of our own.
+3;5;2021-04-28 07:26:25.480205;I have one, but it is broken.
+3;3;2021-04-28 07:28:15.480205;Do you really not have 20 cents?
+3;5;2021-04-28 07:29:12.480205;I do,but I'm really cheap.
+3;6;2021-04-28 07:30:06.480205;Well,you don't really have a choice at this point
+3;5;2021-04-28 07:31:04.480205;Why is the printer line so long?
+3;6;2021-04-28 07:32:46.480205;What do you have to print?
+3;4;2021-04-28 07:33:36.480205;I have to print some notes.
+3;4;2021-04-28 07:34:49.480205;Good luck,You'll be waiting here for a long time.
+3;6;2021-04-28 07:36:05.480205;I bet the ink and paper will go out.
+3;5;2021-04-28 07:36:53.480205;Do you have a restroom?
+3;3;2021-04-28 07:37:45.480205;Only for employees.
+3;5;2021-04-28 07:39:11.480205;But I really need to go.
+3;6;2021-04-28 07:39:36.480205;I can't let you go.There is a restroom in the market across from us though.
+3;5;2021-04-28 07:40:55.480205;That restroom is really dirty.It smells like someone died in there.
+3;6;2021-04-28 07:41:46.480205;Fine,I'll take you to our restroom.
+3;4;2021-04-28 07:42:29.480205;Yay!Thank you so much.
+3;3;2021-04-28 07:44:01.480205;We have to go secretly.If anyone sees you use the restroom,I'll be fired.
+3;6;2021-04-28 07:45:55.480205;Don't worry.I will be small and quiet as a mouse.
+3;4;2021-04-28 07:46:11.480205;Okay,good.The password is 595.Go quickly before anyone sees you.
+3;3;2021-04-28 07:46:35.480205;Thank you for your kindness.
+3;3;2021-04-28 07:47:54.480205;You owe me if we ever see each other again.
+3;5;2021-04-28 07:49:10.480205;What is so good about volunteering there?
+3;4;2021-04-28 07:50:52.480205;It is fun,and you feel good about yourself.
+3;3;2021-04-28 07:52:51.480205;What do you do there?
+3;3;2021-04-28 07:54:42.480205;Everyone does different things,I organize events.
+3;4;2021-04-28 07:55:37.480205;What kind of events?
+3;6;2021-04-28 07:56:10.480205;Movies,art and crafts,magic shows and more.
+3;6;2021-04-28 07:56:21.480205;That does sound fun!
+3;5;2021-04-28 07:57:43.480205;Do you want to sign up?
+3;6;2021-04-28 07:58:29.480205;Yeah,how do I sign up?
+3;4;2021-04-28 08:00:26.480205;I'll get you an application.
+3;4;2021-04-28 08:01:42.480205;I can't study at home,because my family talks so loudly.
+3;5;2021-04-28 08:02:06.480205;Study at the library.
+3;3;2021-04-28 08:03:27.480205;Can you focus in there?
+3;6;2021-04-28 08:04:11.480205;Yes,it is always really quiet.
+3;6;2021-04-28 08:04:42.480205;I'll go today.
+3;6;2021-04-28 08:06:31.480205;Make sure you get a good seat.
+3;6;2021-04-28 08:07:27.480205;Are there not enough seats for everyone?
+3;4;2021-04-28 08:08:30.480205;It depends on when you go.
+3;3;2021-04-28 08:09:16.480205;I'm going at 1:00 a.m.
+3;6;2021-04-28 08:10:15.480205;Dude,it is not even open that late.
+3;5;2021-04-28 08:12:07.480205;But that is the best time for me.
+3;3;2021-04-28 08:12:42.480205;You can always try a cafe.They tend to close late or not at all.
+3;6;2021-04-28 08:14:29.480205;What does that mean?
+3;3;2021-04-28 08:16:17.480205;It means you can only read it in the library.
+3;5;2021-04-28 08:16:53.480205;But I need it for my essay.
+3;3;2021-04-28 08:17:12.480205;You can take pictures of the pages you need.
+3;5;2021-04-28 08:18:09.480205;I need almost all of them.
+3;6;2021-04-28 08:19:57.480205;You can keep coming back here.
+3;6;2021-04-28 08:21:47.480205;That is so inconvenient.
+3;4;2021-04-28 08:23:27.480205;It is,but they have to be kept here.
+3;5;2021-04-28 08:25:11.480205;I guess I can take pictures of the pages then.
+3;6;2021-04-28 08:26:54.480205;Sorry about the inconvenience.
+3;6;2021-04-28 08:27:45.480205;It is okay,It is not your fault.
+3;3;2021-04-28 08:29:22.480205;Ew!Look what I found in this book.
+3;4;2021-04-28 08:30:36.480205;What is that?
+3;5;2021-04-28 08:32:09.480205;It is a dead bug.
+3;6;2021-04-28 08:32:22.480205;It is all squished and messy.
+3;6;2021-04-28 08:34:12.480205;I can't read this book without being disgusted.
+3;3;2021-04-28 08:35:39.480205;But don't you really want to check out this book?
+3;5;2021-04-28 08:37:10.480205;I do,but I really can't.
+3;6;2021-04-28 08:39:00.480205;I'll check it out then.
+3;5;2021-04-28 08:39:21.480205;You can read it without being disgusted?
+3;5;2021-04-28 08:39:33.480205;Yeah, I'll just skip that page.
+3;5;2021-04-28 08:40:25.480205;There could be something really interesting on it.
+3;5;2021-04-28 08:41:30.480205;Whatever!I'm just going to check out the book.
+3;5;2021-04-28 08:43:06.480205;I'm applying to transfer out of this college.
+3;6;2021-04-28 08:44:54.480205;I'm going to miss you. 
+3;4;2021-04-28 08:45:57.480205;Me too.I'll text you every so often.
+3;3;2021-04-28 08:46:24.480205;Why do you want to transfer?
+3;6;2021-04-28 08:46:53.480205;I don't think here it is challenging enough for me.
+3;5;2021-04-28 08:47:58.480205;You can join the honors program!
+3;4;2021-04-28 08:49:47.480205;I did,and it wasn't challenging either.
+3;5;2021-04-28 08:50:15.480205;Alright then,When are you going to start applying?
+3;4;2021-04-28 08:51:36.480205;Next month.I'm already looking at the essay prompts.
+3;6;2021-04-28 08:51:52.480205;Are they challenging?
+3;6;2021-04-28 08:52:56.480205;Yes,but they're kind of fun!
+3;6;2021-04-28 08:53:11.480205;I hope you get into wherever you want to go.
+3;5;2021-04-28 08:53:22.480205;I don't know what university to transfer to.
+3;4;2021-04-28 08:55:06.480205;There is a lot,so it is all about picking what suits your needs.
+3;4;2021-04-28 08:56:33.480205;For starters,I would like a university in a safe area.
+3;6;2021-04-28 08:58:26.480205;Okay,what else are you thinking about?
+3;3;2021-04-28 08:59:34.480205;I want to live close to home.
+3;5;2021-04-28 08:59:51.480205;I think UC Irvine would be good.
+3;6;2021-04-28 09:00:43.480205;I don't think that is good for my major.
+3;5;2021-04-28 09:02:00.480205;What is your major?
+3;5;2021-04-28 09:03:42.480205;I'm majoring in philosophy.
+3;3;2021-04-28 09:03:53.480205;Yeah,you're right.UCI is not good for philosophy.
+3;4;2021-04-28 09:05:37.480205;I also want to go to a college that will increase my job opportunities.
+3;4;2021-04-28 09:06:38.480205;What classes should I take to transfer?
+3;6;2021-04-28 09:08:07.480205;You need a little bit of everything.
+3;6;2021-04-28 09:09:15.480205;What do you mean?
+3;6;2021-04-28 09:10:03.480205;You need to take at least one class in every subject.
+3;5;2021-04-28 09:10:33.480205;Do I need to take a math class?
+3;3;2021-04-28 09:11:05.480205;Even if your major is Portuguese,you have to take a math class.
+3;6;2021-04-28 09:12:37.480205;That is so stupid.
+3;6;2021-04-28 09:13:19.480205;It is just to make you more knowledgeable.
+3;6;2021-04-28 09:14:24.480205;But I don't even need it!
+3;4;2021-04-28 09:15:39.480205;It is been like this for ages.
+3;5;2021-04-28 09:16:31.480205;Well,the policy should be changed.
+3;3;2021-04-28 09:16:44.480205;It won't.So in the meantime,you should register for a math class.
+3;5;2021-04-28 09:17:53.480205;Why are you taking this class?
+3;4;2021-04-28 09:18:58.480205;I need it to transfer knowledge to others.
+3;5;2021-04-28 09:20:44.480205;Me too!I would never take Speech 101 if I didn't need it.
+3;5;2021-04-28 09:21:35.480205;Yeah,I hate public speaking.
+3;4;2021-04-28 09:22:07.480205;Me too!I get so nervous.
+3;3;2021-04-28 09:23:42.480205;I just want this class to be over with.
+3;3;2021-04-28 09:25:33.480205;It is going to be a long semester.
+3;3;2021-04-28 09:25:47.480205;Maybe after this class,we'll love public speaking.
+3;4;2021-04-28 09:27:43.480205;I doubt it!
+3;4;2021-04-28 09:29:42.480205;I don't even know why we have to take this class to transfer.
+3;5;2021-04-28 09:30:46.480205;I guess it is to make us better speakers.
+3;6;2021-04-28 09:31:50.480205;It'll all be worth it when we transfer.
+3;3;2021-04-28 09:33:07.480205;You only need three more classes and you'll be ready to transfer
+3;6;2021-04-28 09:34:22.480205;yes, you are correct.
+3;4;2021-04-28 09:35:38.480205;Which classes do I need?
+3;4;2021-04-28 09:36:50.480205;You need a history class,a physical science class,foreign language class.
+3;3;2021-04-28 09:38:13.480205;Which history class should I take?
+3;3;2021-04-28 09:39:55.480205;The one you're most interested in.
+3;5;2021-04-28 09:41:04.480205;What are you doing?
+3;3;2021-04-28 09:42:05.480205;I'm filling out my college application.
+3;4;2021-04-28 09:43:59.480205;Do you need any help? 
+3;3;2021-04-28 09:44:58.480205;Yes,I do need help.
+3;5;2021-04-28 09:45:44.480205;Should I put my ethnicity?
+3;6;2021-04-28 09:47:17.480205;It won't be used for or against you.It is really up to you.
+3;3;2021-04-28 09:49:11.480205;should I put all of my extracurriculars?
+3;4;2021-04-28 09:51:07.480205;Put the ones that you were heavily involved in.
+3;3;2021-04-28 09:53:03.480205;should I put anything in the "additional information" section?
+3;5;2021-04-28 09:54:05.480205;If you feel like you need to say something that you didn't mention before,then yes.
+3;3;2021-04-28 09:55:45.480205;Can I say I got an A when I really just got a B? 
+3;3;2021-04-28 09:56:39.480205;What Of course not!They will ask for your transcript.
+3;4;2021-04-28 09:57:14.480205;How many universities are you applying to?
+3;6;2021-04-28 09:58:55.480205;I'm applying to 12 universities.
+3;4;2021-04-28 09:59:33.480205;Wow!That is a lot!
+3;5;2021-04-28 10:00:19.480205;I just want a lot of options.
+3;4;2021-04-28 10:00:32.480205;But it costs a lot of money and time!
+3;6;2021-04-28 10:02:12.480205;I get fee waivers.
+3;6;2021-04-28 10:02:59.480205;But how about the time?I mean, applying is a lot of work.
+3;6;2021-04-28 10:03:52.480205;College applications ask similar questions.
+3;4;2021-04-28 10:04:14.480205;Which ones are you applying to?
+3;6;2021-04-28 10:04:39.480205;CSULA,UC Irvine,Yale.
+3;5;2021-04-28 10:05:36.480205;Why?They're going to find out.
+3;5;2021-04-28 10:06:52.480205;No,they're not!They're not going to check.
+3;3;2021-04-28 10:08:11.480205;What does that mean?
+3;5;2021-04-28 10:08:56.480205;The UCs will randomly select 10% of their applicants to provide proof of their extracurriculars.
+3;4;2021-04-28 10:09:35.480205;You may be chosen,Be careful. 
+3;6;2021-04-28 10:11:15.480205;You're right.
+3;4;2021-04-28 10:11:47.480205;But there is only one space left.
+3;6;2021-04-28 10:13:41.480205;That is terrible
+3;4;2021-04-28 10:14:32.480205;Beg the professor?
+3;5;2021-04-28 10:15:51.480205;If I have to.
+3;4;2021-04-28 10:16:11.480205;You should cry!That might work.
+3;3;2021-04-28 10:17:19.480205;I'm planning to,I can cry on demand.
+3;6;2021-04-28 10:17:49.480205;Maybe you should take a theater class instead.
+3;4;2021-04-28 10:19:03.480205;I desperately need to take an English class this semester.
+3;6;2021-04-28 10:20:01.480205;So does everyone else.
+3;5;2021-04-28 10:21:47.480205;It is the only class I need before I transfer.
+3;3;2021-04-28 10:22:55.480205;Maybe you can pay someone for their spot. 
+3;4;2021-04-28 10:24:03.480205;I honestly would do that if someone was willing to give up their spot.
+3;4;2021-04-28 10:25:45.480205;What happens if you can't get the class?
+3;5;2021-04-28 10:26:39.480205;Then I need to stay at Pasadena City College longer.
+3;6;2021-04-28 10:27:38.480205;That would stink.
+3;3;2021-04-28 10:28:02.480205;I know,that is why I need that class.
+3;3;2021-04-28 10:28:31.480205;You can try taking it at another college.
+3;4;2021-04-28 10:30:06.480205;I might do that.The closest community college is a two-hour drive.
+3;6;2021-04-28 10:30:55.480205;I'm praying you get the English class.
+3;4;2021-04-28 10:32:00.480205;I want to transfer,but I don't know where to start.
+3;5;2021-04-28 10:32:50.480205;What do you want to major in?
+3;3;2021-04-28 10:33:51.480205;I want to major in biology.
+3;4;2021-04-28 10:35:16.480205;What are those requirements exactly?
+3;5;2021-04-28 10:37:14.480205;I'll give you a sheet listing all of them.
+3;3;2021-04-28 10:38:36.480205;What else do I have to do?
+3;6;2021-04-28 10:39:31.480205;You should fulfill some,if not all,of your major requirements.
+3;3;2021-04-28 10:39:56.480205;Okay,about when will I finish?
+3;6;2021-04-28 10:41:21.480205;It really depends on how many classes you take and complete per semester.
+3;4;2021-04-28 10:41:53.480205;What kind of favor?
+3;4;2021-04-28 10:42:52.480205;Can you write a recommendation letter for me?
+3;4;2021-04-28 10:43:53.480205;Why not?I was a good student.
+3;3;2021-04-28 10:44:46.480205;Yes,you are a good student.
+3;4;2021-04-28 10:46:13.480205;You read his recommendation letter?
+3;4;2021-04-28 10:47:04.480205;Yeah.I couldn't resist.
+3;6;2021-04-28 10:48:17.480205;What did he write?
+3;6;2021-04-28 10:49:23.480205;Just that I'm a diligent student who does well.
+3;6;2021-04-28 10:50:58.480205;When do you need another recommendation letter by?
+3;5;2021-04-28 10:52:29.480205;I need one by this Friday.
+3;3;2021-04-28 10:53:54.480205;What is that?
+3;6;2021-04-28 10:55:30.480205;It is where a professional will give you tips and revise your personal statement.
+3;6;2021-04-28 10:56:40.480205;That sounds helpful.
+3;6;2021-04-28 10:58:05.480205;Yes,you are absolutely correct.
+3;5;2021-04-28 10:59:24.480205;How was it?
+3;6;2021-04-28 10:59:55.480205;The person leading the workshop was an English professor,so it was informative.
+3;5;2021-04-28 11:00:39.480205;I'm kind of embarrassed to show my personal statement,though.
+3;6;2021-04-28 11:02:08.480205;You shouldn't be.
+3;5;2021-04-28 11:03:38.480205;What is wrong,why are you looking sad?
+3;4;2021-04-28 11:05:34.480205;I was rejected from my dream school.
+3;3;2021-04-28 11:06:11.480205;why would you want to go to a school that doesn't fit you?
+3;4;2021-04-28 11:07:32.480205;When you say it like that,I understand you.
+3;5;2021-04-28 11:07:59.480205;Yeah!Just focus on the schools that do want you.
+3;3;2021-04-28 11:08:48.480205;You're right!Yale made a mistake rejecting me.
+3;5;2021-04-28 11:09:32.480205;I have decided not to transfer.
+3;5;2021-04-28 11:10:54.480205;Why not?You kept saying you wanted to.
+3;3;2021-04-28 11:12:30.480205;I got accepted to all of the schools I applied to.
+3;4;2021-04-28 11:14:24.480205;Congrats!You totally deserve it.
+3;4;2021-04-28 11:15:50.480205;How many schools did you apply to?
+3;4;2021-04-28 11:16:51.480205;I applied to six.
+3;4;2021-04-28 11:18:29.480205;Is this your first time here?
+3;6;2021-04-28 11:18:43.480205;It is my first day at this school.
+3;5;2021-04-28 11:19:55.480205;Did you move in yet?
+3;4;2021-04-28 11:21:30.480205;Yes,I have an apartment nearby.
+3;6;2021-04-28 11:23:15.480205;What is your first class?
+3;4;2021-04-28 11:24:11.480205;My very first class is human biology.
