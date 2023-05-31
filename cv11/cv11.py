@@ -1,4 +1,5 @@
 from datetime import datetime
+import math
 from cassandra.cluster import Cluster
 from tabulate import tabulate
 import csv
@@ -41,7 +42,7 @@ session = cluster.connect()
 
 print_delimiter(1)
 res = session.execute(
-"""
+    """
     CREATE KEYSPACE IF NOT EXISTS dc
     WITH replication = { 'class': 'SimpleStrategy', 'replication_factor': '1' }
 """
@@ -65,7 +66,7 @@ session.set_keyspace("dc")
 
 print_delimiter(2)
 res = session.execute(
-"""
+    """
     CREATE TABLE IF NOT EXISTS messages (
         room_id int,
         speaker_id int,
@@ -79,14 +80,14 @@ res = session.execute(
 
 print(res)
 
-#"""
-#3. Do tabulky messages importujte message_db.csv
+# """
+# 3. Do tabulky messages importujte message_db.csv
 #   COPY není možné spustit pomocí DataStax driveru ( 'copy' is a cqlsh (shell) command rather than a CQL (protocol) command)
 #   -> 2 možnosti:
 #      a) Nakopírovat csv do kontejneru a spustit COPY příkaz v cqlsh konzoli uvnitř dockeru
 #      b) Napsat import v Pythonu - otevření csv a INSERT dat
-#CSV soubor může obsahovat chybné řádky - COPY příkaz automaticky přeskočí řádky, které se nepovedlo správně parsovat
-#"""
+# CSV soubor může obsahovat chybné řádky - COPY příkaz automaticky přeskočí řádky, které se nepovedlo správně parsovat
+# """
 
 print_delimiter(3)
 
@@ -120,7 +121,7 @@ with open("message_db.csv", encoding="utf-8") as filehandle:
 
 print_delimiter(4)
 res = session.execute(
-"""
+    """
     SELECT * 
     FROM messages
     LIMIT 1;
@@ -169,7 +170,8 @@ res = session.execute(
     """
 )
 
-print(f'Místnosti 1: Uživatel 2 odeslal celkově {res.current_rows[0].count} zpráv.')
+print(
+    f'Místnosti 1: Uživatel 2 odeslal celkově {res.current_rows[0].count} zpráv.')
 
 """
 7. Vypište počet zpráv v každé místnosti
@@ -187,7 +189,6 @@ rows = [[f'Místnost {row.room_id}', row.count] for row in res.current_rows]
 print(tabulate(rows, tablefmt="rounded_outline"))
 
 
-
 """
 8. Vypište id všech místností (3 hodnoty)
 """
@@ -203,35 +204,135 @@ rows = [[row.room_id] for row in res]
 print(tabulate(rows, tablefmt="rounded_outline"))
 
 
+# """
+# Bonusové úlohy:
 
+# 1. Pro textovou analýzu chcete poskytovat anonymizovaná textová data. Vytvořte Materialized View pro tabulku messages, který bude obsahovat pouze čas, room_id a zprávu.
+# Vypište jeden výsledek z vytvořeného view
+
+print_delimiter("Bonusová 1")
+
+res = session.execute(
+    """
+        CREATE MATERIALIZED VIEW IF NOT EXISTS anon_messages AS
+            SELECT time, room_id, message
+            FROM messages
+            WHERE room_id IS NOT NULL AND message IS NOT NULL AND time IS NOT NULL
+            PRIMARY KEY (room_id, time)
+            WITH CLUSTERING ORDER BY (time DESC);
+    """
+)
+
+res = session.execute(
+    """
+    SELECT * 
+    FROM anon_messages
+    LIMIT 1;
 """
-Bonusové úlohy:
+)
 
-1. Pro textovou analýzu chcete poskytovat anonymizovaná textová data. Vytvořte Materialized View pro tabulku messages,
-který bude obsahovat pouze čas, room_id a zprávu.
+print(res.current_rows)
 
-Vypište jeden výsledek z vytvořeného view
 
-Před začátkem řešení je potřeba jít do souboru cassandra.yaml uvnitř docker kontejneru a nastavit enable_materialized_views=true
+# 2. Chceme vytvořit funkci (UDF), která při výběru dat vrátí navíc příznak, zda vybraný text obsahuje nevhodný výraz.
+print_delimiter("Bonusová 2")
+session.execute(
+    """
+        CREATE OR REPLACE FUNCTION check_inappropriate(text_value text)
+        CALLED ON NULL INPUT
+        RETURNS boolean
+        LANGUAGE java
+        AS '
+            return text_value.contains("I");
+        ';
+    """
+)
 
-docker exec -it dpb_cassandra bash
-sed -i -r 's/enable_materialized_views: false/enable_materialized_views: true/' /etc/cassandra/cassandra.yaml
+res = session.execute(
+    """
+        SELECT message, check_inappropriate(message) AS is_inappropriate
+        FROM messages
+        LIMIT 10;
+    """
+)
+rows = [[row.message, row.is_inappropriate] for row in res]
+print(tabulate(rows, tablefmt="rounded_outline"))
 
-Poté restartovat kontejner
 
-2. Chceme vytvořit funkci (UDF), která při výběru dat vrátí navíc příznak, zda vybraný text obsahuje nevhodný výraz.
+# 3. Zjistěte čas odeslání nejnovější a nejstarší zprávy.
+res = session.execute(
+    """
+        SELECT MAX(time) AS newest_message, MIN(time) AS oldest_message
+        FROM messages;
+    """
+)
+rows = []
+for row in res:
+    rows.extend([
+        ["Newest Message", row.newest_message],
+        ["Oldest Message", row.oldest_message]
+    ]
+)
 
-Vyberte jeden výraz (nemusí být nevhodný:), vytvořte a otestujte Vaši funkci.
+# 4. Zjistěte délku nejkratší a nejdelší zprávy na serveru.
+print_delimiter("Bonusová 4")
+session.execute(
+    """
+        CREATE FUNCTION IF NOT EXISTS LENGTH (input text) 
+        CALLED ON NULL INPUT 
+        RETURNS int 
+        LANGUAGE java AS '
+            return input.length();
+        ';
+    """
+)
+res = session.execute(
+    """
+        SELECT MIN(LENGTH(message)) AS shortest_message_length, 
+        MAX(LENGTH(message)) AS longest_message_length
+        FROM messages;
+    """
+)
 
-Potřeba nastavit enable_user_defined_functions=true v cassandra.yaml
+for row in res:
+    rows.extend([
+        ["Shortest Message Length", row.shortest_message_length], 
+        ["Longest Message Length", row.longest_message_length]
+    ]
+)
+print(tabulate(rows, tablefmt="rounded_outline"))
 
-sed -i -r 's/enable_user_defined_functions: false/enable_user_defined_functions: true/' /etc/cassandra/cassandra.yaml
 
-3. Zjistěte čas odeslání nejnovější a nejstarší zprávy.
 
-4. Zjistěte délku nejkratší a nejdelší zprávy na serveru.	
+# 5. Pro každého uživatele zjistěte průměrnou délku zprávy.
+print_delimiter("Bonusová 5")
 
-5. Pro každého uživatele zjistěte průměrnou délku zprávy.		
+# Tady to prcám.
+# Cassandra na tohle nemá nástroje, které by se daly použít bez toho, aniž by ses zbláznil
+# V Pythonu to bude mnohem rychlejší.
+res = session.execute(
+    """
+        SELECT speaker_id, LENGTH(message) as message_length
+        FROM messages
+    """
+)
 
-V celém cvičení by nemělo být použito ALLOW FILTERING.
-"""
+users = {}
+for speaker_id, message_length in res:
+    if speaker_id not in users:
+        users[speaker_id] = { "count": 0, "size": 0 }
+
+    users[speaker_id]["count"] += 1
+    users[speaker_id]["size"] += message_length
+
+rows = [[key, math.floor(value["size"] / value["count"])] for key, value in users.items()]
+rows = sorted(rows, key=lambda x: x[0])
+print(
+    tabulate(
+        rows,
+        tablefmt="rounded_outline",
+        headers=["Uživatel", "Průměrný počet znaků na zprávu"]
+    )
+)
+
+# V celém cvičení by nemělo být použito ALLOW FILTERING.
